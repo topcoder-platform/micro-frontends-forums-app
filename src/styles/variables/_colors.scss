@@ -1,0 +1,33 @@
+$primary-color: #137d60;
+$primary-text-color: #229174;
+$primary-light-color: #0ab88a;
+$primary-light-text-color: #0ab88a; // currently not used, can be changed
+$primary-dark-color: #137d60; // currently not used, can be changed
+$primary-dark-text-color: #137d60; // currently not used, can be changed
+
+$error-color: #e90c5a;
+$error-text-color: #eb145f;
+$warning-color: #ef476f;
+$warning-text-color: #f05c7e;
+
+$text-color: #2a2a2a;
+$page-bg-color: #f4f5f6;
+
+$control-border-color: #aaa;
+$control-disabled-border-color: lighten(
+  $color: $control-border-color,
+  $amount: 5%,
+);
+$control-disabled-bg-color: #ddd; // lighten(
+//   $color: $control-border-color,
+//   $amount: 10%,
+// );
+$control-disabled-text-color: lighten(
+  $color: $text-color,
+  $amount: 10%,
+);
+
+$checkbox-bg-color: $primary-light-color;
+$toggle-active-bg-color: $primary-light-color;
+
+$period-row-failed-bg-color: #f8dde3;

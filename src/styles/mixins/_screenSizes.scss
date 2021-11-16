@@ -1,0 +1,32 @@
+@import "variables/screenSizes";
+
+// There's no need for phone() mixin for phone and larger screens to exist
+// because styles for these screens are simply added without media queries.
+
+// Enables styles for phone screens only.
+@mixin phone-only() {
+  @media screen and (max-width: map-get($screen-max-px, phone)) {
+    @content;
+  }
+}
+
+// Enables styles for tablet and larger screens.
+@mixin tablet() {
+  @media screen and (min-width: map-get($screen-min-px, tablet)) {
+    @content;
+  }
+}
+
+// Enables styles for tablet screens only.
+@mixin tablet-only() {
+  @media screen and (min-width: map-get($screen-min-px, tablet)) and (max-width: map-get($screen-max-px, tablet)) {
+    @content;
+  }
+}
+
+// Enables styles for desktop and larger screens.
+@mixin desktop() {
+  @media screen and (min-width: map-get($screen-min-px, desktop)) {
+    @content;
+  }
+}

@@ -1,0 +1,16 @@
+@import "mixins/fonts";
+
+$path: "assets/fonts/Roboto/";
+
+@include font-family("Roboto", 900, normal, $path, "roboto-black");
+@include font-family("Roboto", 900, italic, $path, "roboto-blackitalic");
+@include font-family("Roboto", 700, normal, $path, "roboto-bold");
+@include font-family("Roboto", 700, italic, $path, "roboto-bolditalic");
+@include font-family("Roboto", 500, normal, $path, "roboto-medium");
+@include font-family("Roboto", 500, italic, $path, "roboto-mediumitalic");
+@include font-family("Roboto", 400, normal, $path, "roboto-regular");
+@include font-family("Roboto", 400, italic, $path, "roboto-italic");
+@include font-family("Roboto", 300, normal, $path, "roboto-light");
+@include font-family("Roboto", 300, italic, $path, "roboto-lightitalic");
+@include font-family("Roboto", 100, normal, $path, "roboto-thin");
+@include font-family("Roboto", 100, italic, $path, "roboto-thinitalic");

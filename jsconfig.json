@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "jsxFactory": "React.createElement",
+    "jsxFragmentFactory": "React.Fragment",
+    "checkJs": true,
+    "baseUrl": "./src"
+  },
+  "exclude": ["node_modules", "dist"]
+}

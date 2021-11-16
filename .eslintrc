@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "react-important-stuff",
+    "plugin:prettier/recommended"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "no-unused-vars": "warn"
+  }
+}

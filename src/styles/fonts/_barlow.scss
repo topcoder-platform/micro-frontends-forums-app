@@ -1,0 +1,41 @@
+@import "mixins/fonts";
+
+// Including @font-face rules for Barlow font.
+$path: "assets/fonts/Barlow/";
+
+@include font-family("Barlow", 400, normal, $path, "Barlow-Regular");
+@include font-family("Barlow", 500, normal, $path, "Barlow-Medium");
+@include font-family("Barlow", 600, normal, $path, "Barlow-Semi-Bold");
+@include font-family("Barlow", 700, normal, $path, "Barlow-Bold");
+
+// Including @font-face rules for Barlow Condensed font.
+$path: "assets/fonts/BarlowCondensed/";
+
+@include font-family(
+  "Barlow Condensed",
+  400,
+  normal,
+  $path,
+  "BarlowCondensed-Regular"
+);
+@include font-family(
+  "Barlow Condensed",
+  500,
+  normal,
+  $path,
+  "BarlowCondensed-Medium"
+);
+@include font-family(
+  "Barlow Condensed",
+  600,
+  normal,
+  $path,
+  "BarlowCondensed-SemiBold"
+);
+@include font-family(
+  "Barlow Condensed",
+  700,
+  normal,
+  $path,
+  "BarlowCondensed-Bold"
+);
