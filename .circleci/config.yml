@@ -56,7 +56,7 @@ jobs:
     environment:
       DEPLOY_ENV: "DEV"
       LOGICAL_ENV: "dev"
-      APPNAME: "micro-frontends-forums-app-test"
+      APPNAME: "micro-frontends-forums-app"
     steps: *builddeploy_steps
 
   "build-prod":
