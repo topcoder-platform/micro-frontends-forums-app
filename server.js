@@ -9,7 +9,7 @@ const app = express();
 
 // static site serve
 app.use(
-  "/forums-app",
+  "/onboarding-app",
   express.static("./dist", {
     setHeaders: function setHeaders(res) {
       res.header("Access-Control-Allow-Origin", "*");
