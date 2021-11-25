@@ -1,0 +1,42 @@
+@import "styles/include";
+
+.payment-info {
+  display: flex;
+  margin-bottom: 16px;
+  .icon-wrapper {
+    margin-right: 16px;
+    @include mobile {
+      width: 24px;
+      height: 24px;
+    }
+  }
+  .content {
+    .label {
+      font-weight: 700;
+      font-size: 12px;
+      @include font-roboto;
+      line-height: 16px;
+      color: $teal;
+      text-transform: uppercase;
+      @include mobile {
+        font-size: 10px;
+        line-height: 12px;
+      }
+    }
+    .value {
+      font-weight: 400;
+      font-size: 16px;
+      @include font-roboto;
+      line-height: 26px;
+      color: $grey-text;
+      @include mobile {
+        font-size: 14px;
+        line-height: 24px;
+      }
+    }
+  }
+
+  &.last-child {
+    margin-bottom: 0;
+  }
+}

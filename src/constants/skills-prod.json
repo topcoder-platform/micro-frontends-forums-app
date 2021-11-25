@@ -1,0 +1,3089 @@
+[
+  {
+    "id": "65af2615-da7d-4e29-9e9a-fc566f52dbf9",
+    "label": "IBM COGNOS",
+    "category": "Data Science",
+    "legacyId": 218,
+    "rank": 162
+  },
+  {
+    "id": "5c3f0465-1f35-418f-8bfb-a86aa5b9a35b",
+    "label": "SWT",
+    "category": "Development",
+    "legacyId": 366,
+    "rank": 22
+  },
+  {
+    "id": "d84b5fb9-dd26-4516-9b04-e53b46484c57",
+    "label": "Ab Initio",
+    "category": "Data Science",
+    "legacyId": 591,
+    "rank": 155
+  },
+  {
+    "id": "c3f89f42-d235-49ca-a23f-7fb15b58f70e",
+    "label": "gimp",
+    "category": "Design/UX",
+    "legacyId": 422,
+    "rank": 288
+  },
+  {
+    "id": "70539c55-71ec-48c2-b411-8a976cca644f",
+    "label": "Xamarin",
+    "category": "Development",
+    "legacyId": 398,
+    "rank": 300
+  },
+  {
+    "id": "520a5104-6390-4a41-86d9-55a1ef5a9ec9",
+    "label": "JSP",
+    "category": "Development",
+    "legacyId": 260,
+    "rank": 286
+  },
+  {
+    "id": "aab350d5-3902-454f-bb26-bfb25eb0aebb",
+    "label": "Excel",
+    "category": "Data Science",
+    "legacyId": 176,
+    "rank": 284
+  },
+  {
+    "id": "63960b31-733f-4033-b675-c00add058506",
+    "label": "Calabash",
+    "category": "Development",
+    "legacyId": 134,
+    "rank": 258
+  },
+  {
+    "id": "418562eb-71c8-49cd-b7a5-1a4e23bbd91f",
+    "label": "Elasticsearch",
+    "category": "Data Science",
+    "legacyId": 171,
+    "rank": 28
+  },
+  {
+    "id": "2d80fd8b-ad6b-42dd-b7c8-50ca64aeb3a9",
+    "label": "Remoting",
+    "category": "Development",
+    "legacyId": 319,
+    "rank": 26
+  },
+  {
+    "id": "21a75ed1-fe4b-4894-bfe0-671a51cfcae8",
+    "label": "appcelerator",
+    "category": "Development",
+    "legacyId": 427,
+    "rank": 66
+  },
+  {
+    "id": "15482cac-6bd0-4595-9639-e9f13f45d202",
+    "label": "LoadRunner",
+    "category": "Development",
+    "legacyId": 63,
+    "rank": 67
+  },
+  {
+    "id": "0a474254-f053-4259-9852-3872376ca8aa",
+    "label": "List",
+    "category": "Data Science",
+    "legacyId": 269,
+    "rank": 290
+  },
+  {
+    "id": "796384d1-be08-4721-95de-02f1f190cf63",
+    "label": "Solidity",
+    "category": "Development",
+    "legacyId": 3,
+    "rank": 191
+  },
+  {
+    "id": "b085e670-7920-425d-80cb-53daf2d3d152",
+    "label": "CloudFactor",
+    "category": "Data Science",
+    "legacyId": 14,
+    "rank": 217
+  },
+  {
+    "id": "7a10453a-cc82-4151-b267-c2a7c03e656c",
+    "label": "NoSQL",
+    "category": "Data Science",
+    "legacyId": 287,
+    "rank": 161
+  },
+  {
+    "id": "a1bf2a1e-41b9-4401-a209-fe658a2b5e7b",
+    "label": "Eclipse",
+    "category": "Development",
+    "legacyId": 169,
+    "rank": 268
+  },
+  {
+    "id": "708db80a-178e-451d-9e7e-059f51745915",
+    "label": "Boomi",
+    "category": "Data Science",
+    "legacyId": 594,
+    "rank": 293
+  },
+  {
+    "id": "faf0777b-5c0f-4b25-9f33-2048824cc10b",
+    "label": "Groovy",
+    "category": "Development",
+    "legacyId": 204,
+    "rank": 65
+  },
+  {
+    "id": "23858979-a1c8-46ec-ade2-d41f88baddf9",
+    "label": "Windows",
+    "category": "Development",
+    "legacyId": 389,
+    "rank": 194
+  },
+  {
+    "id": "90022d02-0e81-443b-ad89-58fb4b670fd1",
+    "label": "Gremlin",
+    "category": "Data Science",
+    "legacyId": 203,
+    "rank": 287
+  },
+  {
+    "id": "c1cbf395-6619-42a2-9f7a-58997f1ace26",
+    "label": "Redis",
+    "category": "Data Science",
+    "legacyId": 317,
+    "rank": 156
+  },
+  {
+    "id": "3766b37d-39c1-4816-8f6a-a61d16b6b0da",
+    "label": "Website Design",
+    "category": "Design/UX",
+    "legacyId": 388,
+    "rank": 15
+  },
+  {
+    "id": "8c96f865-da88-47d0-858c-13f9df83a182",
+    "label": "Qt",
+    "category": "Development",
+    "legacyId": 313,
+    "rank": 71
+  },
+  {
+    "id": "cf4216f5-034d-4063-b218-63734f249683",
+    "label": "ClojureScript",
+    "category": "Development",
+    "legacyId": 143,
+    "rank": 256
+  },
+  {
+    "id": "854a0af2-31e6-4dae-b210-38b697ad6cc4",
+    "label": "Selenium",
+    "category": "Development",
+    "legacyId": 552,
+    "rank": 219
+  },
+  {
+    "id": "734d1105-1074-4c65-8902-38488e63b8dc",
+    "label": "Brivo Labs",
+    "category": "Development",
+    "legacyId": 13,
+    "rank": 51
+  },
+  {
+    "id": "c01fb00b-392d-424c-9c8d-2d9f9e9293da",
+    "label": "Performance Testing",
+    "category": "Development",
+    "legacyId": 544,
+    "rank": 32
+  },
+  {
+    "id": "55fc085f-dad5-42d6-a93b-05dbde0334b5",
+    "label": "MongoDB",
+    "category": "Data Science",
+    "legacyId": 281,
+    "rank": 8
+  },
+  {
+    "id": "2fbc7ef3-1e25-410c-aa5a-079f2929a7df",
+    "label": "Bootstrap",
+    "category": "Design/UX",
+    "legacyId": 128,
+    "rank": 19
+  },
+  {
+    "id": "638acfb6-5068-45bb-88c8-88126b01b54f",
+    "label": "Infographic",
+    "category": "Design/UX",
+    "legacyId": 239,
+    "rank": 139
+  },
+  {
+    "id": "3ab34b19-9aae-4287-875a-6f7d417d6f03",
+    "label": "Blackberry SDK",
+    "category": "Development",
+    "legacyId": 127,
+    "rank": 183
+  },
+  {
+    "id": "1f6c7191-ad4f-4221-9202-20ecd7778752",
+    "label": "Perl",
+    "category": "Development",
+    "legacyId": 299,
+    "rank": 511
+  },
+  {
+    "id": "75f464ea-15a6-4e9a-9296-4a36faa82102",
+    "label": "Github",
+    "category": "Development",
+    "legacyId": 192,
+    "rank": 214
+  },
+  {
+    "id": "d8c60481-9ae2-4a1f-80f5-4621f0cbeea4",
+    "label": "Cisco",
+    "category": "Development",
+    "legacyId": 139,
+    "rank": 200
+  },
+  {
+    "id": "84a3780d-6d21-4eac-bbc6-10da9a2402ca",
+    "label": "gulp",
+    "category": "Development",
+    "legacyId": 424,
+    "rank": 127
+  },
+  {
+    "id": "a2fd5eeb-730b-42cf-bd30-d18ddfadf8dd",
+    "label": "OSx",
+    "category": "Development",
+    "legacyId": 297,
+    "rank": 34
+  },
+  {
+    "id": "57604b6a-6ea7-4a82-8305-fd77214ef99e",
+    "label": "Clojure",
+    "category": "Development",
+    "legacyId": 142,
+    "rank": 160
+  },
+  {
+    "id": "78433d50-7811-4358-a89e-e6334f110874",
+    "label": "Api Connect",
+    "category": "Development",
+    "legacyId": 62,
+    "rank": 168
+  },
+  {
+    "id": "af07eafc-5639-496d-912c-4ad485bb0404",
+    "label": "IBM Websphere Message Broker",
+    "category": "Development",
+    "legacyId": 231,
+    "rank": 113
+  },
+  {
+    "id": "e1db2932-8e66-4482-b99f-0c0ebce7ff8f",
+    "label": "Sockets",
+    "category": "Development",
+    "legacyId": 352,
+    "rank": 285
+  },
+  {
+    "id": "4ec44592-8e55-4417-a64b-ebe850c40057",
+    "label": "R3 Corda",
+    "category": "Development",
+    "legacyId": 5,
+    "rank": 142
+  },
+  {
+    "id": "b6f8f1dc-b078-42f4-8ff4-30ea669fd469",
+    "label": "Appium",
+    "category": "Development",
+    "legacyId": 556,
+    "rank": 140
+  },
+  {
+    "id": "92b5dc33-9358-4ff2-9065-73cf2fecf6f2",
+    "label": "Google App Engine",
+    "category": "Development",
+    "legacyId": 196,
+    "rank": 46
+  },
+  {
+    "id": "aca33d07-98fc-42e1-a4f8-3386e1f76da5",
+    "label": "Cobol",
+    "category": "Development",
+    "legacyId": 145,
+    "rank": 181
+  },
+  {
+    "id": "bfc19334-c206-4acf-9bf0-1002970cdee8",
+    "label": "Sqlite",
+    "category": "Data Science",
+    "legacyId": 357,
+    "rank": 66
+  },
+  {
+    "id": "e63e9880-fd7b-4476-b21d-ab45f90e5aa3",
+    "label": "React.js",
+    "category": "Development",
+    "legacyId": 315,
+    "rank": 3
+  },
+  {
+    "id": "f87ec1fe-2db3-4f9e-80fa-ae59d89fb939",
+    "label": "VSCode",
+    "category": "Development",
+    "legacyId": 587,
+    "rank": 234
+  },
+  {
+    "id": "1adc7d66-5d8c-494f-87be-4cd11627dfbf",
+    "label": "InDesign",
+    "category": "Design/UX",
+    "legacyId": 416,
+    "rank": 283
+  },
+  {
+    "id": "011b7d6f-3f75-4002-8573-4c15f9eded7b",
+    "label": "jQuery",
+    "category": "Development",
+    "legacyId": 255,
+    "rank": 132
+  },
+  {
+    "id": "b6c4b3d6-8f9d-4490-a73f-392c5b55ffa6",
+    "label": "Actian Database",
+    "category": "Data Science",
+    "legacyId": 35,
+    "rank": 205
+  },
+  {
+    "id": "00daece4-4292-4d0d-a082-a7473c722c5a",
+    "label": "Quorum",
+    "category": "Development",
+    "legacyId": 36,
+    "rank": 185
+  },
+  {
+    "id": "798aa489-5c94-4ce0-8428-fa874825ee5d",
+    "label": "IBM WebSphere MQ",
+    "category": "Development",
+    "legacyId": 232,
+    "rank": 252
+  },
+  {
+    "id": "79e8e17e-5641-49d3-b8bf-0b73346f1eb5",
+    "label": "ClickOnce",
+    "category": "Development",
+    "legacyId": 141,
+    "rank": 292
+  },
+  {
+    "id": "b38f9238-e635-473d-9135-b7283bc391d3",
+    "label": ".NET System.Addins",
+    "category": "Development",
+    "legacyId": 6,
+    "rank": 244
+  },
+  {
+    "id": "ea84013d-2d5c-4104-a635-5752c83ffbdd",
+    "label": "Grommet",
+    "category": "Development",
+    "legacyId": 21,
+    "rank": 87
+  },
+  {
+    "id": "30aed682-9344-4c09-9a09-377fef09f266",
+    "label": "Akka",
+    "category": "Development",
+    "legacyId": 107,
+    "rank": 99
+  },
+  {
+    "id": "06613f16-b82a-4686-aa72-5a193191e976",
+    "label": "HTML5",
+    "category": "Development",
+    "legacyId": 213,
+    "rank": 155
+  },
+  {
+    "id": "fc10a2d7-889e-4c05-bf97-9773a6d78add",
+    "label": "Google Cloud",
+    "category": "Development",
+    "legacyId": 64,
+    "rank": 84
+  },
+  {
+    "id": "395d52af-d1f5-4dcb-b625-d95a1bfd9e17",
+    "label": "IBM Rational Application Developer",
+    "category": "Development",
+    "legacyId": 224,
+    "rank": 77
+  },
+  {
+    "id": "1995b48d-ce89-44d2-b343-0eec207e0ded",
+    "label": "Drools",
+    "category": "Development",
+    "legacyId": 165,
+    "rank": 252
+  },
+  {
+    "id": "1e4a72e9-04ac-40b4-b20a-a6bdd60b7f32",
+    "label": "Wpf",
+    "category": "Design/UX",
+    "legacyId": 397,
+    "rank": 33
+  },
+  {
+    "id": "30bbe059-bac2-4389-81d7-c16f00fe34d6",
+    "label": "Dropwizard",
+    "category": "Development",
+    "legacyId": 166,
+    "rank": 190
+  },
+  {
+    "id": "3542596f-8821-424b-bd22-6af6832bedc0",
+    "label": "Apache Cordova",
+    "category": "Data Science",
+    "legacyId": 112,
+    "rank": 68
+  },
+  {
+    "id": "b0b9a38e-930a-4e72-a313-4d2ce5a11542",
+    "label": "Protractor",
+    "category": "Development",
+    "legacyId": 310,
+    "rank": 104
+  },
+  {
+    "id": "fee327cf-d68f-43dd-8790-1691c7a9ebc3",
+    "label": "Flight.js",
+    "category": "Development",
+    "legacyId": 183,
+    "rank": 128
+  },
+  {
+    "id": "595c0628-6e58-4009-8d95-31cf8ea88549",
+    "label": "Multithreading",
+    "category": "Development",
+    "legacyId": 283,
+    "rank": 194
+  },
+  {
+    "id": "f567b573-83ad-4695-83e9-b0ecb1c09ce1",
+    "label": "Information Architecture (IA)",
+    "category": "Development",
+    "legacyId": 240,
+    "rank": 218
+  },
+  {
+    "id": "cf5451c2-05c3-4a7f-afc2-07c25a35fc5c",
+    "label": "Drupal",
+    "category": "Development",
+    "legacyId": 418,
+    "rank": 113
+  },
+  {
+    "id": "3a3eb157-d3db-416f-93c2-1b948bf24478",
+    "label": "UML",
+    "category": "Development",
+    "legacyId": 372,
+    "rank": 29
+  },
+  {
+    "id": "00f7d7e8-892d-4c5c-838c-6304bf27205e",
+    "label": "Mozilla",
+    "category": "Development",
+    "legacyId": 420,
+    "rank": 60
+  },
+  {
+    "id": "04937b8a-e074-4a73-8fe3-8dcb988affc1",
+    "label": "SASS",
+    "category": "Design/UX",
+    "legacyId": 331,
+    "rank": 229
+  },
+  {
+    "id": "7f72ed07-2796-4bdc-af68-7f75a8222392",
+    "label": "CSS",
+    "category": "Design/UX",
+    "legacyId": 153,
+    "rank": 14
+  },
+  {
+    "id": "5318d1a3-9ed6-40f6-93f3-17531a691a46",
+    "label": "Responsive Web Design",
+    "category": "Design/UX",
+    "legacyId": 322,
+    "rank": 12
+  },
+  {
+    "id": "9bb6a500-be5e-4a4b-8466-4d920a47081d",
+    "label": "iOS",
+    "category": "Development",
+    "legacyId": 406,
+    "rank": 7
+  },
+  {
+    "id": "3505ba5f-0c1e-4d56-b1b7-8e61343192af",
+    "label": "Codeigniter",
+    "category": "Development",
+    "legacyId": 147,
+    "rank": 167
+  },
+  {
+    "id": "0661bcb5-6439-439d-82f9-fc6ae939f354",
+    "label": "JavaScript",
+    "category": "Development",
+    "legacyId": 248,
+    "rank": 1
+  },
+  {
+    "id": "d09a1eee-e4b0-48be-98a1-839c659c070c",
+    "label": "Performance",
+    "category": "Development",
+    "legacyId": 298,
+    "rank": 242
+  },
+  {
+    "id": "5825ada4-c507-40bb-bcf4-ec7710abfdae",
+    "label": "J2ME",
+    "category": "Development",
+    "legacyId": 245,
+    "rank": 151
+  },
+  {
+    "id": "47360c2d-2ab5-4305-9590-17041b42e326",
+    "label": "3D Reconstruction",
+    "category": "Design/UX",
+    "legacyId": 83,
+    "rank": 38
+  },
+  {
+    "id": "6334486a-f048-4e82-a4ea-9f745239cbf9",
+    "label": "Windows Workflow Foundation",
+    "category": "Development",
+    "legacyId": 26,
+    "rank": 263
+  },
+  {
+    "id": "5c7f396c-208b-4a0a-8af3-89138f2e0227",
+    "label": "Contentful",
+    "category": "Development",
+    "legacyId": 577,
+    "rank": 18
+  },
+  {
+    "id": "c922b414-7dbc-427f-a5f4-9c8b38279678",
+    "label": "Ionic Framework",
+    "category": "Development",
+    "legacyId": 243,
+    "rank": 242
+  },
+  {
+    "id": "bdc26fa2-f2ec-4065-b3a0-2dfad293845f",
+    "label": "Sencha Touch 2",
+    "category": "Design/UX",
+    "legacyId": 336,
+    "rank": 84
+  },
+  {
+    "id": "2e1e5ad2-b66d-4157-bc29-a52ef12d2a6a",
+    "label": "Less",
+    "category": "Design/UX",
+    "legacyId": 265,
+    "rank": 59
+  },
+  {
+    "id": "3c544fcf-ead0-4d0a-adcc-07edab461c5d",
+    "label": "Marvel - Design",
+    "category": "Design/UX",
+    "legacyId": 2,
+    "rank": 265
+  },
+  {
+    "id": "9b073e1c-86d2-4d40-9335-7e219f3dd774",
+    "label": "Swing",
+    "category": "Development",
+    "legacyId": 365,
+    "rank": 107
+  },
+  {
+    "id": "cb9b9433-29bc-4013-ac1b-faa2f6e46d89",
+    "label": "Validation",
+    "category": "Development",
+    "legacyId": 378,
+    "rank": 22
+  },
+  {
+    "id": "e8e16a15-7a5a-4b50-9594-a6fe98406d2f",
+    "label": "JavaBean",
+    "category": "Development",
+    "legacyId": 41,
+    "rank": 233
+  },
+  {
+    "id": "553f91a8-1b84-4307-8706-b6a4d3391737",
+    "label": "Apple HIG",
+    "category": "Design/UX",
+    "legacyId": 119,
+    "rank": 287
+  },
+  {
+    "id": "76bec79a-ef4b-46f7-a58e-19dad8b9ae53",
+    "label": "Q & Bluebird",
+    "category": "Development",
+    "legacyId": 312,
+    "rank": 33
+  },
+  {
+    "id": "4509ae05-9fcd-414f-9a6e-f2e429a3b6c1",
+    "label": "CI/CD",
+    "category": "Development",
+    "legacyId": 608,
+    "rank": 151
+  },
+  {
+    "id": "e987ceef-ff43-43fd-8130-478ce110cb7d",
+    "label": "Beanstalk",
+    "category": "Development",
+    "legacyId": 9,
+    "rank": 211
+  },
+  {
+    "id": "434d22b5-5e8d-4281-9e5f-b0177918412f",
+    "label": "Apache Flume",
+    "category": "Data Science",
+    "legacyId": 114,
+    "rank": 110
+  },
+  {
+    "id": "be0325bc-aaff-44b4-813b-3158a0d3430d",
+    "label": "IBM Design",
+    "category": "Design/UX",
+    "legacyId": 220,
+    "rank": 105
+  },
+  {
+    "id": "4595fa94-5610-443e-8906-4f77a914502b",
+    "label": "jetbrains",
+    "category": "Development",
+    "legacyId": 423,
+    "rank": 112
+  },
+  {
+    "id": "f30cfd04-4d42-4573-bff8-3ab1468522a8",
+    "label": "Struts",
+    "category": "Development",
+    "legacyId": 362,
+    "rank": 208
+  },
+  {
+    "id": "75fa2335-e74e-452d-9734-b6465a7ba0d7",
+    "label": "Spring",
+    "category": "Development",
+    "legacyId": 354,
+    "rank": 170
+  },
+  {
+    "id": "5970cb3b-e50f-46dc-9b41-d11ca3e2ebee",
+    "label": "Lightning",
+    "category": "Development",
+    "legacyId": 266,
+    "rank": 225
+  },
+  {
+    "id": "3f70c012-d054-48f7-b52b-7e286ea3744f",
+    "label": "Security",
+    "category": "Development",
+    "legacyId": 335,
+    "rank": 80
+  },
+  {
+    "id": "60b46fd4-3bb6-4b58-ac2b-d36647767e7a",
+    "label": "Java",
+    "category": "Development",
+    "legacyId": 247,
+    "rank": 5
+  },
+  {
+    "id": "735e7aed-42d1-448f-ade0-e7d38e5c0888",
+    "label": "AngularJS",
+    "category": "Development",
+    "legacyId": 110,
+    "rank": 6
+  },
+  {
+    "id": "b2dddefa-bc85-446c-9f9d-83c66375bf2d",
+    "label": "JMeter",
+    "category": "Development",
+    "legacyId": 553,
+    "rank": 164
+  },
+  {
+    "id": "3d2171ec-575a-4f4d-b4ea-4d5f6cc3e96d",
+    "label": "ubuntu",
+    "category": "Development",
+    "legacyId": 412,
+    "rank": 221
+  },
+  {
+    "id": "0ffac831-8504-496f-9065-b2fde4a8fbb4",
+    "label": "Search",
+    "category": "Development",
+    "legacyId": 334,
+    "rank": 232
+  },
+  {
+    "id": "f0062968-251f-4ebc-b268-66b7c1aef5b9",
+    "label": "AWS Lambda",
+    "category": "Development",
+    "legacyId": 576,
+    "rank": 271
+  },
+  {
+    "id": "25468f3d-0536-4487-9b8f-14ceddc184c2",
+    "label": "JDBC",
+    "category": "Development",
+    "legacyId": 250,
+    "rank": 55
+  },
+  {
+    "id": "45277412-035e-4186-9f77-9d0dcab2bd91",
+    "label": "Git",
+    "category": "Development",
+    "legacyId": 191,
+    "rank": 188
+  },
+  {
+    "id": "2cd7f58a-527d-47ea-83ee-69ecb0e322a3",
+    "label": "Graphic Design",
+    "category": "Design/UX",
+    "legacyId": 201,
+    "rank": 180
+  },
+  {
+    "id": "478bc0d8-6e21-4825-964b-579d151af07c",
+    "label": "Node.js",
+    "category": "Development",
+    "legacyId": 286,
+    "rank": 2
+  },
+  {
+    "id": "fefbd310-9721-43f7-b7c9-729923992b75",
+    "label": "Branding",
+    "category": "Development",
+    "legacyId": 129,
+    "rank": 248
+  },
+  {
+    "id": "01a6b556-0de4-4938-90c0-6f891568089d",
+    "label": "Oracle",
+    "category": "Development",
+    "legacyId": 294,
+    "rank": 171
+  },
+  {
+    "id": "ac77f38d-21d8-4bb0-b79c-a56aaff1b271",
+    "label": "CSS3",
+    "category": "Design/UX",
+    "legacyId": 154,
+    "rank": 233
+  },
+  {
+    "id": "e82290ed-9630-4621-a7ea-fe3a581bb446",
+    "label": "Actian Data",
+    "category": "Development",
+    "legacyId": 34,
+    "rank": 244
+  },
+  {
+    "id": "48b5e2ae-2dcc-4937-8cad-3a14aabfcf34",
+    "label": "SQL",
+    "category": "Data Science",
+    "legacyId": 355,
+    "rank": 24
+  },
+  {
+    "id": "9af09228-8160-4b4d-8b36-5532c036b949",
+    "label": "Print",
+    "category": "Development",
+    "legacyId": 308,
+    "rank": 94
+  },
+  {
+    "id": "27ca0ee6-66df-4fe6-a836-bae415fb5e6a",
+    "label": "NGINX",
+    "category": "Development",
+    "legacyId": 415,
+    "rank": 119
+  },
+  {
+    "id": "f0ec0874-7e69-46ec-8fc4-e83a767fc724",
+    "label": "IBM Rational Data Architect",
+    "category": "Data Science",
+    "legacyId": 225,
+    "rank": 77
+  },
+  {
+    "id": "cb56d13c-73b1-4dd3-aa8c-7d0286b4c549",
+    "label": "Google Dart",
+    "category": "Development",
+    "legacyId": 197,
+    "rank": 187
+  },
+  {
+    "id": "70580f0d-8682-4720-9e30-d34034dbc562",
+    "label": "Regex",
+    "category": "Development",
+    "legacyId": 318,
+    "rank": 167
+  },
+  {
+    "id": "91cd204e-274b-416b-9e31-92c4fe419782",
+    "label": "Gitlab",
+    "category": "Development",
+    "legacyId": 193,
+    "rank": 72
+  },
+  {
+    "id": "1d98b47f-9ac5-4f43-bd9f-ed942de1eea0",
+    "label": "IBM REXX",
+    "category": "Development",
+    "legacyId": 228,
+    "rank": 153
+  },
+  {
+    "id": "541ea8c7-742e-46c5-ba72-faa9cc082af9",
+    "label": "Android",
+    "category": "Development",
+    "legacyId": 109,
+    "rank": 247
+  },
+  {
+    "id": "e0b1ef0c-ee83-43a8-a157-5faaf6b76885",
+    "label": "Photoshop",
+    "category": "Design/UX",
+    "legacyId": 302,
+    "rank": 229
+  },
+  {
+    "id": "67e49bdb-424c-40f2-88ab-41ae454fc63e",
+    "label": "trello",
+    "category": "Development",
+    "legacyId": 411,
+    "rank": 65
+  },
+  {
+    "id": "54324af7-10b7-4036-bf2e-e822f0ae47f7",
+    "label": "Visual-Studio",
+    "category": "Development",
+    "legacyId": 384,
+    "rank": 61
+  },
+  {
+    "id": "3048b9f8-5e6c-4c5d-9d95-efc3c814593a",
+    "label": "Mobile Design",
+    "category": "Design/UX",
+    "legacyId": 280,
+    "rank": 143
+  },
+  {
+    "id": "8032a206-d22f-4876-9d49-c9f80d9fb022",
+    "label": "Apache Derby",
+    "category": "Development",
+    "legacyId": 113,
+    "rank": 103
+  },
+  {
+    "id": "cc080f3d-4325-4d9c-87dd-ceb39d460bdc",
+    "label": "TIBCO",
+    "category": "Development",
+    "legacyId": 586,
+    "rank": 55
+  },
+  {
+    "id": "f36e2680-6f6a-4c7c-a251-d778c50f2911",
+    "label": "Visualforce",
+    "category": "Development",
+    "legacyId": 385,
+    "rank": 160
+  },
+  {
+    "id": "02d27b9b-fcc7-46d4-ade0-24eefbb0144f",
+    "label": "IBM Integration Bus",
+    "category": "Development",
+    "legacyId": 68,
+    "rank": 215
+  },
+  {
+    "id": "3b6835c5-f273-45e2-91c1-1c5c4d7f3514",
+    "label": "Force.Com Sites",
+    "category": "Development",
+    "legacyId": 186,
+    "rank": 208
+  },
+  {
+    "id": "b24ce16a-6cf5-4043-bfa8-bcebcb51633f",
+    "label": "Hyperledger",
+    "category": "Development",
+    "legacyId": 23,
+    "rank": 230
+  },
+  {
+    "id": "eb67d8b0-415c-4956-87a2-a3594ddb3b0a",
+    "label": "Jenkins",
+    "category": "Development",
+    "legacyId": 554,
+    "rank": 259
+  },
+  {
+    "id": "49bb7dbf-d634-4220-8ff1-3e4b4615344f",
+    "label": "Jekyll",
+    "category": "Development",
+    "legacyId": 251,
+    "rank": 157
+  },
+  {
+    "id": "3056b551-b5d4-4ac9-b549-370bd67505a3",
+    "label": "Cocoa",
+    "category": "Development",
+    "legacyId": 146,
+    "rank": 68
+  },
+  {
+    "id": "bfb4cdeb-66bd-40d2-a586-302afb11b756",
+    "label": "Windows Server",
+    "category": "Development",
+    "legacyId": 392,
+    "rank": 116
+  },
+  {
+    "id": "5a05e488-9799-4b8e-8195-295c7eb58452",
+    "label": "Use Case Diagrams (TcUML)",
+    "category": "Development",
+    "legacyId": 374,
+    "rank": 106
+  },
+  {
+    "id": "b1d6f257-acb4-4d14-9792-8e5c379d91af",
+    "label": "Usability Testing",
+    "category": "Development",
+    "legacyId": 546,
+    "rank": 172
+  },
+  {
+    "id": "b90b7673-39de-4ccf-9c36-6f42fd76bdd7",
+    "label": "Integrator",
+    "category": "Development",
+    "legacyId": 69,
+    "rank": 76
+  },
+  {
+    "id": "0b337101-dfe9-495e-85b9-84fe06ab610e",
+    "label": "DevOps",
+    "category": "Development",
+    "legacyId": 65,
+    "rank": 289
+  },
+  {
+    "id": "79926927-ffdf-46c5-bbb0-66dfd9c97ba6",
+    "label": "Advanced Math",
+    "category": "Data Science",
+    "legacyId": 105,
+    "rank": 17
+  },
+  {
+    "id": "f63c8efa-ec07-42ab-a024-4c60c64f25bc",
+    "label": "File",
+    "category": "Development",
+    "legacyId": 180,
+    "rank": 17
+  },
+  {
+    "id": "bad20bd1-bd39-4960-92ef-cb85420ada23",
+    "label": "SCSS",
+    "category": "Design/UX",
+    "legacyId": 333,
+    "rank": 216
+  },
+  {
+    "id": "cf8b20dc-1f45-4b40-93a5-3006cc1af9e3",
+    "label": "Mobile",
+    "category": "Development",
+    "legacyId": 39,
+    "rank": 250
+  },
+  {
+    "id": "7bad9fd5-960c-4793-9f09-e7809e83f42f",
+    "label": "Dc.js",
+    "category": "Data Science",
+    "legacyId": 161,
+    "rank": 253
+  },
+  {
+    "id": "9f4f9b26-6d68-4431-b4b9-e41504825483",
+    "label": "Ibatis/Mybatis",
+    "category": "Data Science",
+    "legacyId": 215,
+    "rank": 116
+  },
+  {
+    "id": "e2e9ac0f-1fa5-492e-aa91-c8a315a778ba",
+    "label": "ASP.NET",
+    "category": "Development",
+    "legacyId": 121,
+    "rank": 170
+  },
+  {
+    "id": "34a5ef45-1518-4bd2-9653-4e028d32c492",
+    "label": "Phonegap",
+    "category": "Development",
+    "legacyId": 301,
+    "rank": 228
+  },
+  {
+    "id": "cd37f01c-3152-4a7d-b523-4a92cb958ccc",
+    "label": "Hadoop",
+    "category": "Data Science",
+    "legacyId": 207,
+    "rank": 18
+  },
+  {
+    "id": "8e975f43-1272-4dfa-a2ce-039b83bd7045",
+    "label": "Twilio",
+    "category": "Development",
+    "legacyId": 27,
+    "rank": 31
+  },
+  {
+    "id": "2c1f4f80-6d15-48e7-9e69-692beaca3498",
+    "label": "Talend",
+    "category": "Data Science",
+    "legacyId": 585,
+    "rank": 2222
+  },
+  {
+    "id": "9133c0e9-a71f-45f7-acbf-1025bee06b0b",
+    "label": "String",
+    "category": "Development",
+    "legacyId": 359,
+    "rank": 52
+  },
+  {
+    "id": "08391fef-a71d-4943-a53f-fcaab5a1dc1c",
+    "label": "Postman",
+    "category": "Development",
+    "legacyId": 562,
+    "rank": 126
+  },
+  {
+    "id": "eb5e6611-670c-4528-afd0-e1bbeeeb1d98",
+    "label": "Twitter Bootstrap",
+    "category": "Design/UX",
+    "legacyId": 369,
+    "rank": 273
+  },
+  {
+    "id": "bf9e7724-3d95-4a9f-8d4b-09833da9be67",
+    "label": "J2EE",
+    "category": "Development",
+    "legacyId": 244,
+    "rank": 274
+  },
+  {
+    "id": "f56c0048-3219-4f25-b1ae-adea1b88e2ba",
+    "label": "Neo4J",
+    "category": "Data Science",
+    "legacyId": 285,
+    "rank": 299
+  },
+  {
+    "id": "0457448f-56ac-46f2-a3cd-117912433795",
+    "label": "IBM Cloud Private",
+    "category": "Development",
+    "legacyId": 61,
+    "rank": 163
+  },
+  {
+    "id": "0b436e27-5c65-4335-b00f-2ff7fece0862",
+    "label": "Databasedotcom",
+    "category": "Data Science",
+    "legacyId": 160,
+    "rank": 240
+  },
+  {
+    "id": "4e993413-1a5e-4cfe-9b07-03211a0434d2",
+    "label": "Applet",
+    "category": "Development",
+    "legacyId": 120,
+    "rank": 178
+  },
+  {
+    "id": "fbcbf344-bd14-414c-90d9-cbdec6ebd191",
+    "label": "Gradle",
+    "category": "Development",
+    "legacyId": 199,
+    "rank": 120
+  },
+  {
+    "id": "29693615-6697-44c0-ba71-77258aa5b8e4",
+    "label": "Tableau",
+    "category": "Data Science",
+    "legacyId": 584,
+    "rank": 252
+  },
+  {
+    "id": "f5867267-032f-44b8-a06d-ee0fd600c6fa",
+    "label": "Responsive Design",
+    "category": "Design/UX",
+    "legacyId": 321,
+    "rank": 166
+  },
+  {
+    "id": "0efb0a24-5aff-4629-9add-ce850a753adb",
+    "label": "XML",
+    "category": "Development",
+    "legacyId": 401,
+    "rank": 26
+  },
+  {
+    "id": "a1cd2f65-2afc-4067-b337-defe3466d6f2",
+    "label": "vim",
+    "category": "Development",
+    "legacyId": 413,
+    "rank": 99
+  },
+  {
+    "id": "27431a86-1f71-4cbe-86b7-cce23eaff197",
+    "label": "Predix",
+    "category": "Development",
+    "legacyId": 31,
+    "rank": 800
+  },
+  {
+    "id": "88bf2be8-82ea-4be4-aefe-ac72703263e3",
+    "label": "IBM Lotus Domino",
+    "category": "Development",
+    "legacyId": 221,
+    "rank": 165
+  },
+  {
+    "id": "6f7c43c7-d7c7-4bd6-8355-5436498eeac4",
+    "label": "S3",
+    "category": "Development",
+    "legacyId": 327,
+    "rank": 104
+  },
+  {
+    "id": "b83e3eb3-15df-4ad5-83ff-e736ca034ae6",
+    "label": "JPA",
+    "category": "Development",
+    "legacyId": 254,
+    "rank": 253
+  },
+  {
+    "id": "3c803a54-2bcf-4414-b016-5db8ca297106",
+    "label": "Apache Kafka",
+    "category": "Data Science",
+    "legacyId": 115,
+    "rank": 288
+  },
+  {
+    "id": "63b83be5-e398-417d-8666-8dac05ee3f4e",
+    "label": "Unit-Testing",
+    "category": "Development",
+    "legacyId": 373,
+    "rank": 219
+  },
+  {
+    "id": "fdb42280-52f7-4ca1-94f5-faa7120a3f1f",
+    "label": "Brute Force",
+    "category": "Design/UX",
+    "legacyId": 130,
+    "rank": 237
+  },
+  {
+    "id": "fd27699b-ff94-4d11-8c90-590731500f3c",
+    "label": "Salesforce",
+    "category": "Development",
+    "legacyId": 328,
+    "rank": 122
+  },
+  {
+    "id": "25d1ce26-df6e-4990-9356-ed71b58e5a54",
+    "label": "Concept Design",
+    "category": "Design/UX",
+    "legacyId": 151,
+    "rank": 31
+  },
+  {
+    "id": "9aafeca8-aec1-4a83-887a-590afc8463f4",
+    "label": "Gaming",
+    "category": "Development",
+    "legacyId": 47,
+    "rank": 116
+  },
+  {
+    "id": "555a611e-5d6e-4ff6-abb2-315d3a885609",
+    "label": "IBM Websphere Application Server",
+    "category": "Development",
+    "legacyId": 229,
+    "rank": 292
+  },
+  {
+    "id": "82c08737-1eb8-4948-b058-c244d178f3ba",
+    "label": "IBM WebSphere Portal",
+    "category": "Development",
+    "legacyId": 233,
+    "rank": 116
+  },
+  {
+    "id": "e730ec35-ff76-4f6d-821d-1edec9752fcf",
+    "label": "IBM Rational Team Concert",
+    "category": "Development",
+    "legacyId": 227,
+    "rank": 96
+  },
+  {
+    "id": "11294362-4754-4271-a903-77152404d0fe",
+    "label": "OmniGraffle",
+    "category": "Design/UX",
+    "legacyId": 407,
+    "rank": 36
+  },
+  {
+    "id": "89a8cf2e-a6c2-4b52-a196-46bed7287505",
+    "label": "Bash",
+    "category": "Development",
+    "legacyId": 125,
+    "rank": 149
+  },
+  {
+    "id": "92139dfa-55bf-4fac-a8ea-7de450941690",
+    "label": "IndexedDB",
+    "category": "Data Science",
+    "legacyId": 238,
+    "rank": 276
+  },
+  {
+    "id": "d3ef5d22-98ce-4052-b0ca-6d0b167308d9",
+    "label": "Mainframe",
+    "category": "Development",
+    "legacyId": 73,
+    "rank": 255
+  },
+  {
+    "id": "a7091af0-1494-4445-871f-7eb7f6d89620",
+    "label": "UITableView",
+    "category": "Design/UX",
+    "legacyId": 371,
+    "rank": 49
+  },
+  {
+    "id": "49cc21a8-f0aa-458d-a9e7-d868663cc628",
+    "label": "JSF",
+    "category": "Development",
+    "legacyId": 258,
+    "rank": 11
+  },
+  {
+    "id": "c378fb4c-e60f-4f56-8faf-2daf6d32bad4",
+    "label": "Databricks",
+    "category": "Development",
+    "legacyId": 613,
+    "rank": 164
+  },
+  {
+    "id": "cd3cf4b5-ce2a-41e4-8114-6be6e9543a8e",
+    "label": "Lightning Web Components (LWC)",
+    "category": "Development",
+    "legacyId": 612,
+    "rank": 271
+  },
+  {
+    "id": "f0185396-2a9d-4dc6-a1f8-551d3bce5ea4",
+    "label": "Adobe XD",
+    "category": "Design/UX",
+    "legacyId": 615,
+    "rank": 13
+  },
+  {
+    "id": "4d4e82d2-f4d7-44f0-9d6e-e74d176f8592",
+    "label": "Amazon Athena",
+    "category": "Development",
+    "legacyId": 616,
+    "rank": 120
+  },
+  {
+    "id": "7cd7a3b1-711f-4bc3-b9f3-347602c1b717",
+    "label": "AWS Glue",
+    "category": "Development",
+    "legacyId": 617,
+    "rank": 288
+  },
+  {
+    "id": "9d2b3487-cd52-4a2d-8205-546e050bec79",
+    "label": "tvOS",
+    "category": "Development",
+    "legacyId": 28,
+    "rank": 200
+  },
+  {
+    "id": "642951a4-a933-4c5c-8571-aa8406cc1583",
+    "label": "COM",
+    "category": "Development",
+    "legacyId": 149,
+    "rank": 40
+  },
+  {
+    "id": "ad84cee8-8329-4084-abfc-d1b2f25e0327",
+    "label": "Algorithm",
+    "category": "Development",
+    "legacyId": 108,
+    "rank": 128
+  },
+  {
+    "id": "0f0b46f3-1bc0-4222-970b-3414958e3b8c",
+    "label": "JMS",
+    "category": "Development",
+    "legacyId": 253,
+    "rank": 252
+  },
+  {
+    "id": "ba11f617-d4f4-4065-b221-a2704b114ef1",
+    "label": "User Experience (Ux)",
+    "category": "Design/UX",
+    "legacyId": 375,
+    "rank": 17
+  },
+  {
+    "id": "ee7c7991-4e02-43c7-890f-639a388996e2",
+    "label": "Winforms Controls",
+    "category": "Development",
+    "legacyId": 394,
+    "rank": 230
+  },
+  {
+    "id": "0803ffae-a3e0-4f1f-b6ae-b2105dc63488",
+    "label": "Maven",
+    "category": "Development",
+    "legacyId": 276,
+    "rank": 63
+  },
+  {
+    "id": "dff12cf4-1fd1-49f1-bcb7-00c857b60ec1",
+    "label": "IIS",
+    "category": "Development",
+    "legacyId": 235,
+    "rank": 250
+  },
+  {
+    "id": "fd2b37c0-a623-4638-9550-87402f9dfa07",
+    "label": "Cassandra",
+    "category": "Data Science",
+    "legacyId": 136,
+    "rank": 283
+  },
+  {
+    "id": "3b1ee641-33ba-462c-80d0-a8ae8da36daa",
+    "label": "SQL Server",
+    "category": "Data Science",
+    "legacyId": 356,
+    "rank": 225
+  },
+  {
+    "id": "bfdf1ade-9141-4669-bc02-56fed8391d77",
+    "label": "Product Design",
+    "category": "Design/UX",
+    "legacyId": 309,
+    "rank": 90
+  },
+  {
+    "id": "ce340c2e-3526-431e-94bf-277f7dcec68a",
+    "label": "Couchbase",
+    "category": "Data Science",
+    "legacyId": 152,
+    "rank": 52
+  },
+  {
+    "id": "9ad1ad8e-d036-4261-823d-e06172f45a0a",
+    "label": "MESH01",
+    "category": "Development",
+    "legacyId": 40,
+    "rank": 130
+  },
+  {
+    "id": "58a8d263-ec30-485c-b3dc-a5857710e5cb",
+    "label": "Class",
+    "category": "Development",
+    "legacyId": 140,
+    "rank": 233
+  },
+  {
+    "id": "1ca8a2a2-426b-45b5-bef3-0118f1c3c5fa",
+    "label": "Machine Learning",
+    "category": "Development",
+    "legacyId": 456,
+    "rank": 188
+  },
+  {
+    "id": "669714ae-016c-4e3a-b528-304dccb2fab0",
+    "label": "Lua",
+    "category": "Development",
+    "legacyId": 271,
+    "rank": 210
+  },
+  {
+    "id": "f4e45543-ac7e-4560-a956-41c497956eb4",
+    "label": "TypeScript",
+    "category": "Development",
+    "legacyId": 370,
+    "rank": 52
+  },
+  {
+    "id": "9c4cf617-7c95-4357-bd6f-5fdf648ff9e7",
+    "label": "Kotlin",
+    "category": "Development",
+    "legacyId": 580,
+    "rank": 187
+  },
+  {
+    "id": "ee562839-9f92-40da-a26d-cba829236bcd",
+    "label": "Image",
+    "category": "Design/UX",
+    "legacyId": 237,
+    "rank": 185
+  },
+  {
+    "id": "60a9cd10-9efe-4a34-b20b-4d58534e117b",
+    "label": "Box",
+    "category": "Development",
+    "legacyId": 12,
+    "rank": 63
+  },
+  {
+    "id": "59822b0e-622b-4759-815e-681a9d8f308a",
+    "label": "Apigee",
+    "category": "Development",
+    "legacyId": 67,
+    "rank": 52
+  },
+  {
+    "id": "773a596b-396c-4846-a3d9-aeace97a9956",
+    "label": "D3.JS",
+    "category": "Development",
+    "legacyId": 157,
+    "rank": 117
+  },
+  {
+    "id": "56873efd-cc3c-495e-9f84-90557bc4e0f9",
+    "label": "RMI",
+    "category": "Development",
+    "legacyId": 324,
+    "rank": 154
+  },
+  {
+    "id": "6007614c-e338-45b7-80a3-12ee4300d623",
+    "label": "Simulation",
+    "category": "Development",
+    "legacyId": 522,
+    "rank": 113
+  },
+  {
+    "id": "1d538c0a-25a3-4113-a18e-f81dceae5e5f",
+    "label": "Ruby On Rails",
+    "category": "Development",
+    "legacyId": 326,
+    "rank": 276
+  },
+  {
+    "id": "553f10c4-9a23-4c34-9d74-d7c8a46a0fe0",
+    "label": "Jabber",
+    "category": "Development",
+    "legacyId": 246,
+    "rank": 284
+  },
+  {
+    "id": "d025517c-b18f-4195-90c1-944de6197583",
+    "label": "Microsoft Silverlight",
+    "category": "Development",
+    "legacyId": 278,
+    "rank": 172
+  },
+  {
+    "id": "08e3a959-190f-4439-812a-687b9cadd4ea",
+    "label": "IBM Rational Software Architect",
+    "category": "Development",
+    "legacyId": 226,
+    "rank": 240
+  },
+  {
+    "id": "5aa1b047-5e1d-448c-9ff4-401e7ff2c6ef",
+    "label": "CartoDB",
+    "category": "Data Science",
+    "legacyId": 135,
+    "rank": 114
+  },
+  {
+    "id": "0bd3a97e-cba3-4959-a9d7-0dd697511c02",
+    "label": "QA",
+    "category": "Development",
+    "legacyId": 32,
+    "rank": 185
+  },
+  {
+    "id": "ee4aa5a2-e0bb-4bd7-86ab-8c6d0cbf72a1",
+    "label": "Apex",
+    "category": "Development",
+    "legacyId": 116,
+    "rank": 208
+  },
+  {
+    "id": "bfb1fc59-50f1-44a6-a309-dda9f3805b54",
+    "label": "Multichain",
+    "category": "Data Science",
+    "legacyId": 38,
+    "rank": 243
+  },
+  {
+    "id": "b936e52a-bd92-4f90-938a-1a10c7756c80",
+    "label": "Open Source",
+    "category": "Development",
+    "legacyId": 55,
+    "rank": 214
+  },
+  {
+    "id": "e215ee34-83f7-46ef-8a8a-61225f6d442f",
+    "label": "apple",
+    "category": "Development",
+    "legacyId": 428,
+    "rank": 126
+  },
+  {
+    "id": "a77295ae-2cd8-4fa6-a140-11f69f9485d0",
+    "label": "Ember.js",
+    "category": "Development",
+    "legacyId": 172,
+    "rank": 85
+  },
+  {
+    "id": "40c8f64b-8a7b-45d9-bf4c-498b68cd615d",
+    "label": "SFDC VisualForce",
+    "category": "Development",
+    "legacyId": 343,
+    "rank": 39
+  },
+  {
+    "id": "cfba773e-e8f0-41a4-805e-f333bf18c11d",
+    "label": "Office365",
+    "category": "Development",
+    "legacyId": 57,
+    "rank": 243
+  },
+  {
+    "id": "19f83a09-41c7-4f6d-9e1d-0a383e83aeb6",
+    "label": "Haskell",
+    "category": "Development",
+    "legacyId": 209,
+    "rank": 11
+  },
+  {
+    "id": "06e8abc0-da94-44f2-ab17-9186987a5533",
+    "label": "Axure",
+    "category": "Development",
+    "legacyId": 122,
+    "rank": 91
+  },
+  {
+    "id": "40d228d1-8d92-4ae9-bcf8-c30d0ae6205b",
+    "label": "Zipkin",
+    "category": "Development",
+    "legacyId": 405,
+    "rank": 188
+  },
+  {
+    "id": "9ff505f5-7ed7-4703-b1d2-ddbcb6c5d25d",
+    "label": "Web Services",
+    "category": "Development",
+    "legacyId": 387,
+    "rank": 152
+  },
+  {
+    "id": "26b94346-9795-4ef7-9a67-75345c1419a4",
+    "label": "MySql",
+    "category": "Data Science",
+    "legacyId": 284,
+    "rank": 272
+  },
+  {
+    "id": "13636b79-5915-4c45-810f-92029d79ffec",
+    "label": "Microsoft Dynamics",
+    "category": "Development",
+    "legacyId": 58,
+    "rank": 152
+  },
+  {
+    "id": "4f769f1b-560b-40ab-b679-5282e6ea1d40",
+    "label": "Kubernetes",
+    "category": "Development",
+    "legacyId": 59,
+    "rank": 109
+  },
+  {
+    "id": "5948cdff-af73-4751-8911-53b77d6aa51d",
+    "label": "Siebel",
+    "category": "Development",
+    "legacyId": 346,
+    "rank": 187
+  },
+  {
+    "id": "c58cb039-8c20-44c2-ad42-95ae825eff7b",
+    "label": "Heroku",
+    "category": "Development",
+    "legacyId": 210,
+    "rank": 17
+  },
+  {
+    "id": "9ce518ab-a6fe-4840-955e-d1eb05e4f6d4",
+    "label": "Fortran",
+    "category": "Development",
+    "legacyId": 188,
+    "rank": 267
+  },
+  {
+    "id": "14cec9da-ea6a-4b73-ae01-c95998cdde1a",
+    "label": "PowerShell",
+    "category": "Development",
+    "legacyId": 307,
+    "rank": 57
+  },
+  {
+    "id": "62c345f0-a299-476b-a788-dac0059beabf",
+    "label": "Cloud Foundry",
+    "category": "Development",
+    "legacyId": 144,
+    "rank": 143
+  },
+  {
+    "id": "aaef5792-2db5-41d9-bc3f-9591b9987dd1",
+    "label": "XMPP",
+    "category": "Development",
+    "legacyId": 25,
+    "rank": 76
+  },
+  {
+    "id": "3a411828-0bc0-4990-8460-f099bfda1e40",
+    "label": "Oracle EBS",
+    "category": "Data Science",
+    "legacyId": 76,
+    "rank": 230
+  },
+  {
+    "id": "8e4efede-ad3e-4f9a-8ab6-ee7312502396",
+    "label": "Facebook",
+    "category": "Development",
+    "legacyId": 179,
+    "rank": 47
+  },
+  {
+    "id": "104c318d-24d5-4ad8-9e0e-735924161ed7",
+    "label": "Commerce Server 2009",
+    "category": "Development",
+    "legacyId": 150,
+    "rank": 292
+  },
+  {
+    "id": "a61153f9-9f74-42f9-9da4-413a4da54991",
+    "label": "BizTalk",
+    "category": "Development",
+    "legacyId": 10,
+    "rank": 204
+  },
+  {
+    "id": "fde42a95-c632-48ae-8807-62bd5574a1b1",
+    "label": "Wordpress",
+    "category": "Development",
+    "legacyId": 396,
+    "rank": 75
+  },
+  {
+    "id": "a793709f-cd8f-4c4d-a526-a8c8ac1ea5a3",
+    "label": "MapReduce",
+    "category": "Development",
+    "legacyId": 596,
+    "rank": 278
+  },
+  {
+    "id": "9185be29-5b3c-4cd9-bc80-4b9bb05aa048",
+    "label": "nodewebkit",
+    "category": "Development",
+    "legacyId": 419,
+    "rank": 142
+  },
+  {
+    "id": "bc5d9711-22b2-46d2-be3f-7a8c806ea313",
+    "label": "Phantomjs",
+    "category": "Development",
+    "legacyId": 300,
+    "rank": 278
+  },
+  {
+    "id": "092b7089-c0e1-4d6f-b5a9-a3ed18e99adf",
+    "label": "Ldap",
+    "category": "Development",
+    "legacyId": 263,
+    "rank": 134
+  },
+  {
+    "id": "03e6f796-9afd-4741-bfc6-57f5f53323cf",
+    "label": "Cognitive",
+    "category": "Development",
+    "legacyId": 15,
+    "rank": 190
+  },
+  {
+    "id": "4e888442-39ad-4935-add1-ae2b8df3fe23",
+    "label": "ADO.NET",
+    "category": "Development",
+    "legacyId": 104,
+    "rank": 91
+  },
+  {
+    "id": "7fea61ba-5e13-4b24-8a29-ddc7d95833f6",
+    "label": "Power BI",
+    "category": "Data Science",
+    "legacyId": 583,
+    "rank": 25
+  },
+  {
+    "id": "1aa9f384-4be7-4fd7-a38d-3415e6dd32f8",
+    "label": "IBM Pl/1",
+    "category": "Development",
+    "legacyId": 223,
+    "rank": 249
+  },
+  {
+    "id": "1b33814d-5991-414f-9a31-1e0d5781717e",
+    "label": "Leaflet.js",
+    "category": "Development",
+    "legacyId": 264,
+    "rank": 168
+  },
+  {
+    "id": "87ee79cd-9c41-42cd-a60c-18f95f4d468e",
+    "label": "Sinatra",
+    "category": "Development",
+    "legacyId": 350,
+    "rank": 74
+  },
+  {
+    "id": "9b6b5965-3e60-4aa0-b04b-28a1665facfe",
+    "label": "SAP",
+    "category": "Development",
+    "legacyId": 330,
+    "rank": 242
+  },
+  {
+    "id": "3feff138-47fe-4dc6-97df-cb1a7197c450",
+    "label": "Illustrator",
+    "category": "Design/UX",
+    "legacyId": 236,
+    "rank": 174
+  },
+  {
+    "id": "527872c8-221f-43fc-b302-0a435937cef4",
+    "label": "Data Science",
+    "category": "Data Science",
+    "legacyId": 158,
+    "rank": 294
+  },
+  {
+    "id": "8594140a-c7ac-4763-9c58-b0a4bf0cde27",
+    "label": "C++",
+    "category": "Development",
+    "legacyId": 133,
+    "rank": 187
+  },
+  {
+    "id": "1a22d9bf-d029-4f7c-aeff-e04855f39ee0",
+    "label": "Swagger",
+    "category": "Development",
+    "legacyId": 363,
+    "rank": 119
+  },
+  {
+    "id": "62bd0c0d-3f65-49d2-b695-5c10085b58db",
+    "label": "Sorting",
+    "category": "Development",
+    "legacyId": 353,
+    "rank": 162
+  },
+  {
+    "id": "1e375b22-0ba2-48ac-a2f4-7c05b78d7da3",
+    "label": "Docker",
+    "category": "Development",
+    "legacyId": 163,
+    "rank": 33
+  },
+  {
+    "id": "611d7ab5-6406-4008-8f9c-c5a0920e5b9d",
+    "label": "Recursion",
+    "category": "Development",
+    "legacyId": 316,
+    "rank": 154
+  },
+  {
+    "id": "c4d34af5-65fe-4697-b8c7-26c38b488487",
+    "label": "Math",
+    "category": "Development",
+    "legacyId": 274,
+    "rank": 253
+  },
+  {
+    "id": "4df69e43-0c40-4d0f-a034-a12b9caaa618",
+    "label": "Pega",
+    "category": "Development",
+    "legacyId": 78,
+    "rank": 243
+  },
+  {
+    "id": "72a602ef-51b7-4dc0-a02b-e9006fe7ce72",
+    "label": "JBehave",
+    "category": "Development",
+    "legacyId": 74,
+    "rank": 126
+  },
+  {
+    "id": "b6c3f810-b03e-4843-a1d2-cf5def521451",
+    "label": "XUL",
+    "category": "Design/UX",
+    "legacyId": 403,
+    "rank": 230
+  },
+  {
+    "id": "9c064bb3-5c39-433b-9527-3212ce259c5a",
+    "label": "String Manipulation",
+    "category": "Development",
+    "legacyId": 360,
+    "rank": 292
+  },
+  {
+    "id": "183068c7-c2f1-41c8-b7b4-3369b6c5cdba",
+    "label": "IBM Watson",
+    "category": "Development",
+    "legacyId": 43,
+    "rank": 999
+  },
+  {
+    "id": "4ab145ee-693e-4e36-aa8b-fe56f5f671c3",
+    "label": "Jface",
+    "category": "Development",
+    "legacyId": 252,
+    "rank": 95
+  },
+  {
+    "id": "1970620f-b651-49af-8b17-0d836334f28f",
+    "label": "VB.NET",
+    "category": "Development",
+    "legacyId": 380,
+    "rank": 224
+  },
+  {
+    "id": "6d13bb15-5ab1-413c-ad5f-5317f0c57e0e",
+    "label": "VBA",
+    "category": "Development",
+    "legacyId": 381,
+    "rank": 159
+  },
+  {
+    "id": "4f2f7304-79f0-4e9f-a6e7-4c7a968f9fe2",
+    "label": "Sharepoint 3.0",
+    "category": "Development",
+    "legacyId": 344,
+    "rank": 29
+  },
+  {
+    "id": "18863776-978c-4f45-abc6-ab18ea655925",
+    "label": "Spring Boot",
+    "category": "Development",
+    "legacyId": 607,
+    "rank": 210
+  },
+  {
+    "id": "9105ae91-fb1e-45a7-895f-7dd015ddd6ab",
+    "label": "ETL",
+    "category": "Data Science",
+    "legacyId": 609,
+    "rank": 176
+  },
+  {
+    "id": "5feda131-0d0a-465f-8c02-c3922a84cf53",
+    "label": "Data Warehousing",
+    "category": "Data Science",
+    "legacyId": 610,
+    "rank": 70
+  },
+  {
+    "id": "61dc8c18-7d47-4dca-a098-1eeb60738708",
+    "label": "Airflow",
+    "category": "Development",
+    "legacyId": 611,
+    "rank": 194
+  },
+  {
+    "id": "407bf22e-a612-4958-a03b-3b201485297d",
+    "label": "Figma",
+    "category": "Design/UX",
+    "legacyId": 614,
+    "rank": 12
+  },
+  {
+    "id": "2472520d-c737-4abe-bf38-93a3f5643e45",
+    "label": "UI Prototype",
+    "category": "Design/UX",
+    "legacyId": 24,
+    "rank": 10
+  },
+  {
+    "id": "f33ccf29-2ba4-4e6f-abfc-fcf9e75354ac",
+    "label": "IBM DB2",
+    "category": "Data Science",
+    "legacyId": 219,
+    "rank": 230
+  },
+  {
+    "id": "d784bece-5056-4e15-8793-dcb9efba143a",
+    "label": "EJB",
+    "category": "Development",
+    "legacyId": 170,
+    "rank": 29
+  },
+  {
+    "id": "ba3f1474-feec-4a2f-9727-003e2790f782",
+    "label": "Zepto.js",
+    "category": "Development",
+    "legacyId": 404,
+    "rank": 210
+  },
+  {
+    "id": "9be38dd3-37b6-43a7-a0e9-e5ca3622c6f0",
+    "label": "EC2",
+    "category": "Development",
+    "legacyId": 168,
+    "rank": 66
+  },
+  {
+    "id": "fe433ab2-8a48-4477-b013-5c9787f64a4f",
+    "label": "CA",
+    "category": "Development",
+    "legacyId": 66,
+    "rank": 88
+  },
+  {
+    "id": "5a20ca30-0cbf-4294-848b-c3345f31ef6e",
+    "label": "Dojo",
+    "category": "Development",
+    "legacyId": 164,
+    "rank": 284
+  },
+  {
+    "id": "cb7029f7-8441-462c-a040-9c32ab09a907",
+    "label": "zend framework",
+    "category": "Development",
+    "legacyId": 431,
+    "rank": 100
+  },
+  {
+    "id": "87a75a7e-e2db-4e5a-b146-74eb5d5bbdd6",
+    "label": "Meteor.js",
+    "category": "Development",
+    "legacyId": 277,
+    "rank": 281
+  },
+  {
+    "id": "f9276298-3722-4f80-b382-f9f0af5a819e",
+    "label": "foundation",
+    "category": "Development",
+    "legacyId": 421,
+    "rank": 34
+  },
+  {
+    "id": "a23eea3d-1eb4-43d1-8561-77e9cd9f820f",
+    "label": "Splunk",
+    "category": "Data Science",
+    "legacyId": 75,
+    "rank": 117
+  },
+  {
+    "id": "301129d2-7392-41b9-aa6a-cfeae3971750",
+    "label": "SFDC REST APIs",
+    "category": "Development",
+    "legacyId": 342,
+    "rank": 94
+  },
+  {
+    "id": "7659343e-d170-4ae6-8404-47f5cc5b64aa",
+    "label": "SFDC Apex",
+    "category": "Development",
+    "legacyId": 338,
+    "rank": 141
+  },
+  {
+    "id": "9e85cd1c-3442-431c-a5a9-cf427550f9af",
+    "label": "IDOL OnDemand",
+    "category": "Development",
+    "legacyId": 234,
+    "rank": 270
+  },
+  {
+    "id": "11ca7b9a-98e4-46c3-a635-2c0076d3d409",
+    "label": "IBM Lotus Notes",
+    "category": "Development",
+    "legacyId": 222,
+    "rank": 177
+  },
+  {
+    "id": "71ac4951-8201-4148-aa98-7cd95c291ea4",
+    "label": "Activity Diagrams (Tcuml)",
+    "category": "Development",
+    "legacyId": 103,
+    "rank": 198
+  },
+  {
+    "id": "07b027ca-5191-47a6-8528-1abd4cb716fa",
+    "label": "Jruby",
+    "category": "Development",
+    "legacyId": 257,
+    "rank": 169
+  },
+  {
+    "id": "e8fb3beb-3b20-48ca-be94-208a63711321",
+    "label": "Google-Maps",
+    "category": "Development",
+    "legacyId": 198,
+    "rank": 105
+  },
+  {
+    "id": "beb77be3-4e81-4f1b-b8aa-8d93b7395a28",
+    "label": "Hibernate",
+    "category": "Development",
+    "legacyId": 211,
+    "rank": 16
+  },
+  {
+    "id": "042386df-1095-4e31-9f21-756cc9d65c17",
+    "label": "bower",
+    "category": "Development",
+    "legacyId": 430,
+    "rank": 24
+  },
+  {
+    "id": "efeeaf29-3346-4b3b-9641-6eee177d79e9",
+    "label": "Spark",
+    "category": "Development",
+    "legacyId": 29,
+    "rank": 272
+  },
+  {
+    "id": "9deeb6ed-6d6d-4fd2-a8f8-123412886210",
+    "label": "kraken.js",
+    "category": "Development",
+    "legacyId": 433,
+    "rank": 122
+  },
+  {
+    "id": "44c103ae-d136-4b0a-86d8-8ff496aa5e4f",
+    "label": "QlikView",
+    "category": "Data Science",
+    "legacyId": 579,
+    "rank": 154
+  },
+  {
+    "id": "cd5def5c-78e9-4011-81b1-b386ef03ef1d",
+    "label": "Windows Communication Foundation",
+    "category": "Development",
+    "legacyId": 390,
+    "rank": 16
+  },
+  {
+    "id": "65699587-abf7-45a6-a39d-2bd3e92fd2d9",
+    "label": "Ethereum",
+    "category": "Development",
+    "legacyId": 18,
+    "rank": 43
+  },
+  {
+    "id": "2b7834d5-a870-409e-b409-459e62ba5b9e",
+    "label": "Express",
+    "category": "Development",
+    "legacyId": 177,
+    "rank": 289
+  },
+  {
+    "id": "e8c6667f-1d46-49a0-be2b-38967c56a43d",
+    "label": "Aris",
+    "category": "Development",
+    "legacyId": 52,
+    "rank": 224
+  },
+  {
+    "id": "b6afc440-14ee-4365-b148-359c12ba67b5",
+    "label": "Oracle Database",
+    "category": "Data Science",
+    "legacyId": 295,
+    "rank": 137
+  },
+  {
+    "id": "002054d7-232b-4774-bf1a-79d6eb34495f",
+    "label": "Interaction Design (Ixd)",
+    "category": "Design/UX",
+    "legacyId": 241,
+    "rank": 143
+  },
+  {
+    "id": "0729fe39-6bf6-401d-8d90-a9332f973584",
+    "label": "moodle",
+    "category": "Development",
+    "legacyId": 435,
+    "rank": 47
+  },
+  {
+    "id": "baf6997d-81db-4309-b94c-f77bfe86e39e",
+    "label": "Blockchain",
+    "category": "Development",
+    "legacyId": 11,
+    "rank": 14
+  },
+  {
+    "id": "a03b3147-a01b-4deb-8b0d-74a48012e483",
+    "label": "Salesforce.com",
+    "category": "Development",
+    "legacyId": 329,
+    "rank": 109
+  },
+  {
+    "id": "bf4740ea-4dc7-424c-bec5-c4217f88f28d",
+    "label": "Ajax",
+    "category": "Development",
+    "legacyId": 106,
+    "rank": 257
+  },
+  {
+    "id": "4a0bc9a5-6c50-4c5b-b790-8e657d3d61fc",
+    "label": "WCF",
+    "category": "Development",
+    "legacyId": 386,
+    "rank": 107
+  },
+  {
+    "id": "d0bd4348-3baa-4076-8ce7-ae577e0c26ae",
+    "label": "Tosca",
+    "category": "Development",
+    "legacyId": 50,
+    "rank": 94
+  },
+  {
+    "id": "316db74e-f8d2-41d9-b9e3-b6ae1388dffc",
+    "label": "User Interface (Ui)",
+    "category": "Design/UX",
+    "legacyId": 376,
+    "rank": 141
+  },
+  {
+    "id": "d2c0f9d1-8f1f-45d1-a476-35da583ab03a",
+    "label": "MariaDB",
+    "category": "Data Science",
+    "legacyId": 273,
+    "rank": 80
+  },
+  {
+    "id": "2fdb4dfb-f3fd-4d8d-84b0-fe6055b9ea91",
+    "label": "AI",
+    "category": "Development",
+    "legacyId": 48,
+    "rank": 114
+  },
+  {
+    "id": "297b2e9f-4055-411c-a54e-91549a3bee88",
+    "label": "Amazon Alexa",
+    "category": "Development",
+    "legacyId": 574,
+    "rank": 130
+  },
+  {
+    "id": "7204c0b4-97cc-4d55-a9db-32bb8c7eda4f",
+    "label": "String Parsing",
+    "category": "Development",
+    "legacyId": 361,
+    "rank": 611
+  },
+  {
+    "id": "04ef98d5-11be-4bfb-bfc1-5e2c9ca5302c",
+    "label": "Apache Camel",
+    "category": "Development",
+    "legacyId": 111,
+    "rank": 185
+  },
+  {
+    "id": "5cca6516-2855-4974-904a-be0594922765",
+    "label": "chrome",
+    "category": "Development",
+    "legacyId": 426,
+    "rank": 103
+  },
+  {
+    "id": "714a2a9f-6444-498a-a51d-b32e2271b6c7",
+    "label": "Espruino",
+    "category": "Development",
+    "legacyId": 175,
+    "rank": 29
+  },
+  {
+    "id": "abb02477-756f-4ce0-92f9-5e103208e97e",
+    "label": "SSIS",
+    "category": "Development",
+    "legacyId": 358,
+    "rank": 242
+  },
+  {
+    "id": "61c33deb-ae3d-4127-b4ad-9830614292b8",
+    "label": "Openstack",
+    "category": "Pl/Sql",
+    "legacyId": 293,
+    "rank": 3
+  },
+  {
+    "id": "63a49acb-97c3-4847-9ae9-d1950b53372e",
+    "label": "Pl/Sql",
+    "category": "Data Science",
+    "legacyId": 304,
+    "rank": 227
+  },
+  {
+    "id": "1a6c9051-23e6-43cf-b205-c150a9b7233c",
+    "label": "Sketch",
+    "category": "Design/UX",
+    "legacyId": 351,
+    "rank": 16
+  },
+  {
+    "id": "13273a5a-72a4-4ec4-922b-7266791777e3",
+    "label": "Vert.X",
+    "category": "Development",
+    "legacyId": 382,
+    "rank": 134
+  },
+  {
+    "id": "235e701e-e9e3-4296-b8b5-81225eaa437f",
+    "label": "HAML",
+    "category": "Development",
+    "legacyId": 208,
+    "rank": 48
+  },
+  {
+    "id": "eb738f66-8198-4660-95fe-236a900d37e9",
+    "label": "R",
+    "category": "Data Science",
+    "legacyId": 314,
+    "rank": 284
+  },
+  {
+    "id": "b7561084-61ba-473b-8a20-44f85417889e",
+    "label": "IBM WebSphere DataStage",
+    "category": "Data Science",
+    "legacyId": 230,
+    "rank": 152
+  },
+  {
+    "id": "3eea8d38-cc42-4b0a-8939-0d998aa04620",
+    "label": "OpenShift",
+    "category": "Development",
+    "legacyId": 54,
+    "rank": 125
+  },
+  {
+    "id": "d60c5e05-d4fe-41e5-b538-90f6d47382dd",
+    "label": "Castor",
+    "category": "Development",
+    "legacyId": 137,
+    "rank": 123
+  },
+  {
+    "id": "98df231f-7437-4f23-ad0d-4043af26a2fb",
+    "label": "Smartsheet",
+    "category": "Development",
+    "legacyId": 30,
+    "rank": 121
+  },
+  {
+    "id": "6448d779-3bfa-41ee-b7ad-f43107a01c4a",
+    "label": "API",
+    "category": "Development",
+    "legacyId": 117,
+    "rank": 22
+  },
+  {
+    "id": "a162b77c-68df-4fe5-aa18-653f579e32bf",
+    "label": "Flex",
+    "category": "Design/UX",
+    "legacyId": 182,
+    "rank": 101
+  },
+  {
+    "id": "3997e30c-9c8a-48f0-b97f-2f09d926bf7f",
+    "label": "IBM AiX",
+    "category": "Development",
+    "legacyId": 216,
+    "rank": 239
+  },
+  {
+    "id": "8fc84adc-5b76-4cc6-89cd-ed39c167438d",
+    "label": "Hashgraph",
+    "category": "Data Science",
+    "legacyId": 22,
+    "rank": 209
+  },
+  {
+    "id": "bb9687b9-26cb-48ab-8d32-1c0f8a2b9675",
+    "label": "Forms",
+    "category": "Development",
+    "legacyId": 187,
+    "rank": 173
+  },
+  {
+    "id": "79b3cb1d-a5eb-450d-a12f-cac8fb9a16d5",
+    "label": "Customer Experience (Cx)",
+    "category": "Design/UX",
+    "legacyId": 156,
+    "rank": 166
+  },
+  {
+    "id": "48699f67-08f4-4f85-bdca-24e8b6739421",
+    "label": "Google Api",
+    "category": "Development",
+    "legacyId": 195,
+    "rank": 156
+  },
+  {
+    "id": "16771142-e150-4b9e-88da-0fe54b29a726",
+    "label": "JSON",
+    "category": "Data Science",
+    "legacyId": 259,
+    "rank": 184
+  },
+  {
+    "id": "f66a4a91-4618-45f2-bd8c-0c8175ec67b9",
+    "label": "MIDP 2.0",
+    "category": "Development",
+    "legacyId": 279,
+    "rank": 225
+  },
+  {
+    "id": "071e6e81-4917-4f78-b7e3-40231935bc4c",
+    "label": "Custom Tag",
+    "category": "Development",
+    "legacyId": 155,
+    "rank": 35
+  },
+  {
+    "id": "777a0fca-9333-410d-9782-1d7239e68f79",
+    "label": "Greedy",
+    "category": "Development",
+    "legacyId": 202,
+    "rank": 150
+  },
+  {
+    "id": "885657ea-87a1-489f-9424-5e8cc8c76daa",
+    "label": "SFDC Design",
+    "category": "Development",
+    "legacyId": 339,
+    "rank": 88
+  },
+  {
+    "id": "3fc7b12f-dc7b-4ed1-b89a-5b54a5c1f8d1",
+    "label": "C#",
+    "category": "Development",
+    "legacyId": 132,
+    "rank": 126
+  },
+  {
+    "id": "241dcaa3-7392-4ec6-8d63-c2cbc0c61dbc",
+    "label": "Swift",
+    "category": "Development",
+    "legacyId": 364,
+    "rank": 78
+  },
+  {
+    "id": "ec176f65-85b5-4874-a6ae-dff2c142d464",
+    "label": "laravel",
+    "category": "Development",
+    "legacyId": 434,
+    "rank": 253
+  },
+  {
+    "id": "78fae220-b4b7-4259-bb87-6ec242a803db",
+    "label": "Ant",
+    "category": "Development",
+    "legacyId": 7,
+    "rank": 254
+  },
+  {
+    "id": "24fc2250-aec1-4c94-a17c-477962f81db6",
+    "label": "ActionScript",
+    "category": "Development",
+    "legacyId": 101,
+    "rank": 128
+  },
+  {
+    "id": "188d06cd-0280-4e94-bf2b-77e0e5effda7",
+    "label": "Force.com",
+    "category": "Development",
+    "legacyId": 185,
+    "rank": 214
+  },
+  {
+    "id": "5704dec6-2f8f-4b93-8ed3-3d88af5bdf38",
+    "label": "Django",
+    "category": "Development",
+    "legacyId": 162,
+    "rank": 237
+  },
+  {
+    "id": "8f631fd8-1f08-4b20-bdbe-666dc35cbed0",
+    "label": "Accessibility Testing",
+    "category": "Development",
+    "legacyId": 551,
+    "rank": 166
+  },
+  {
+    "id": "0e6a2938-abd8-44f7-b1e9-7e7785c2fef6",
+    "label": "Robot Framework",
+    "category": "Development",
+    "legacyId": 566,
+    "rank": 98
+  },
+  {
+    "id": "819d426d-80aa-41af-bcd8-7ed6d9f895e7",
+    "label": "Vertica",
+    "category": "Development",
+    "legacyId": 383,
+    "rank": 267
+  },
+  {
+    "id": "cf5e1730-4026-43df-804a-d625b0d4d9c9",
+    "label": "Junit",
+    "category": "Development",
+    "legacyId": 261,
+    "rank": 126
+  },
+  {
+    "id": "14762e71-b3be-492b-aac2-cc7a8dd887b9",
+    "label": "Azure",
+    "category": "Development",
+    "legacyId": 123,
+    "rank": 166
+  },
+  {
+    "id": "e3d5ff67-ed1c-4114-a773-143b00f3adda",
+    "label": "Graph Theory",
+    "category": "Data Science",
+    "legacyId": 200,
+    "rank": 65
+  },
+  {
+    "id": "fba91a26-285a-47e4-80db-ab58a9e7fa78",
+    "label": "Play Framework",
+    "category": "Development",
+    "legacyId": 305,
+    "rank": 182
+  },
+  {
+    "id": "f6cb9dc3-0639-445a-b25c-52fbc1efa402",
+    "label": "Transact-SQL",
+    "category": "Data Science",
+    "legacyId": 368,
+    "rank": 142
+  },
+  {
+    "id": "ab0aa61e-dea7-4889-8ad1-75aaabbca6ea",
+    "label": "Geometry",
+    "category": "Development",
+    "legacyId": 190,
+    "rank": 239
+  },
+  {
+    "id": "48ff25fb-58b4-4a29-8b3e-837b88d62c8f",
+    "label": "FinancialForce",
+    "category": "Development",
+    "legacyId": 19,
+    "rank": 285
+  },
+  {
+    "id": "74060ef9-0325-40ef-91a2-672f2de0bc5c",
+    "label": "Require.js",
+    "category": "Development",
+    "legacyId": 320,
+    "rank": 164
+  },
+  {
+    "id": "12ff6c0a-93b2-4355-8c67-df0a637cb10e",
+    "label": "Simple Search",
+    "category": "Data Science",
+    "legacyId": 348,
+    "rank": 200
+  },
+  {
+    "id": "40e34d2b-9a41-4464-b720-b09c1129e559",
+    "label": "Linq",
+    "category": "Data Science",
+    "legacyId": 267,
+    "rank": 221
+  },
+  {
+    "id": "c78bd236-8d7f-4f6b-97ce-b64113331492",
+    "label": "IBM Bluemix",
+    "category": "Development",
+    "legacyId": 217,
+    "rank": 300
+  },
+  {
+    "id": "72fe276a-63af-48f2-8b34-4314978193fd",
+    "label": "AWS",
+    "category": "Development",
+    "legacyId": 8,
+    "rank": 81
+  },
+  {
+    "id": "9873e7b6-9664-4554-91e7-205b5b824c6f",
+    "label": "Word/Rich Text",
+    "category": "Data Science",
+    "legacyId": 395,
+    "rank": 238
+  },
+  {
+    "id": "86c5c284-1a22-4e3f-a9b7-494e150baba7",
+    "label": "SFDC Mobile",
+    "category": "Development",
+    "legacyId": 341,
+    "rank": 242
+  },
+  {
+    "id": "92e49822-6710-4b0c-a003-db7d1bd363be",
+    "label": "Objective-C",
+    "category": "Development",
+    "legacyId": 290,
+    "rank": 31
+  },
+  {
+    "id": "894ed24f-6535-428f-8df0-6aa02035308f",
+    "label": "Openam",
+    "category": "Development",
+    "legacyId": 292,
+    "rank": 173
+  },
+  {
+    "id": "f1480e60-731f-4c14-9681-c16a20cbbf34",
+    "label": "Compression",
+    "category": "Development",
+    "legacyId": 173,
+    "rank": 322
+  },
+  {
+    "id": "0075bcc0-293f-4689-b49e-2f6fcd8cdbe1",
+    "label": "Gulp",
+    "category": "Development",
+    "legacyId": 205,
+    "rank": 94
+  },
+  {
+    "id": "714cb9e8-4591-4843-96f0-9caf591a4443",
+    "label": "Logo",
+    "category": "Design/UX",
+    "legacyId": 270,
+    "rank": 30
+  },
+  {
+    "id": "12f8554a-7c82-4d80-9bbd-cf15741fa902",
+    "label": "jQuery Mobile",
+    "category": "Development",
+    "legacyId": 256,
+    "rank": 192
+  },
+  {
+    "id": "03b73137-e70a-4073-ae87-a1611a05fe8c",
+    "label": "XAML",
+    "category": "Development",
+    "legacyId": 399,
+    "rank": 273
+  },
+  {
+    "id": "c40afc95-882c-4b10-9471-0a1e497cbf10",
+    "label": "User Testing",
+    "category": "Development",
+    "legacyId": 377,
+    "rank": 190
+  },
+  {
+    "id": "63930dc7-54ec-44fb-a089-1f252bfa82cc",
+    "label": "Linux",
+    "category": "Development",
+    "legacyId": 268,
+    "rank": 84
+  },
+  {
+    "id": "d4a1ac8c-28bd-4350-b215-777d5294f4f2",
+    "label": "Flash",
+    "category": "Development",
+    "legacyId": 181,
+    "rank": 80
+  },
+  {
+    "id": "c76d7849-75ba-4999-a4fe-2b3f8fea2c9f",
+    "label": "Coffeescript",
+    "category": "Development",
+    "legacyId": 148,
+    "rank": 214
+  },
+  {
+    "id": "601c3db2-8262-4be2-b7c4-b1df917fe7c1",
+    "label": "Grunt.js",
+    "category": "Development",
+    "legacyId": 206,
+    "rank": 182
+  },
+  {
+    "id": "89b53a3b-16b5-4817-b42d-d8f08c2b3403",
+    "label": "REST",
+    "category": "Development",
+    "legacyId": 323,
+    "rank": 300
+  },
+  {
+    "id": "219da0c5-f738-4028-a11a-616f760c15c8",
+    "label": "BigQuery",
+    "category": "Data Science",
+    "legacyId": 126,
+    "rank": 3
+  },
+  {
+    "id": "15b50d16-b628-4565-845a-14f7e86cfb8f",
+    "label": "XSL",
+    "category": "Development",
+    "legacyId": 402,
+    "rank": 111
+  },
+  {
+    "id": "8ea1f822-a02f-4f4a-8501-91cbaba7d2fc",
+    "label": "Om",
+    "category": "Development",
+    "legacyId": 291,
+    "rank": 38
+  },
+  {
+    "id": "7a203f37-31dc-4d98-b225-9162934c4238",
+    "label": "Active Directory",
+    "category": "Development",
+    "legacyId": 102,
+    "rank": 33
+  },
+  {
+    "id": "167489f7-20bc-4f80-ae36-8e228465d4ac",
+    "label": "F#",
+    "category": "Development",
+    "legacyId": 178,
+    "rank": 141
+  },
+  {
+    "id": "8b7eea38-0522-45e9-abbc-f30d021c9424",
+    "label": "HPE Haven OnDemand",
+    "category": "Development",
+    "legacyId": 46,
+    "rank": 53
+  },
+  {
+    "id": "fb6458a0-a4e6-4ab5-92f9-d1735949fb66",
+    "label": "Oauth",
+    "category": "Development",
+    "legacyId": 289,
+    "rank": 271
+  },
+  {
+    "id": "0e45414b-d6b3-4596-825f-2ac13207d9ce",
+    "label": "Espresso",
+    "category": "Development",
+    "legacyId": 557,
+    "rank": 103
+  },
+  {
+    "id": "f316e19f-768a-4790-827a-7bcef4804b66",
+    "label": "HTTP",
+    "category": "Development",
+    "legacyId": 214,
+    "rank": 169
+  },
+  {
+    "id": "ef95209f-c45d-4388-a64e-1a4feeb14fb4",
+    "label": "Chatter",
+    "category": "Development",
+    "legacyId": 138,
+    "rank": 232
+  },
+  {
+    "id": "d658e431-9042-4572-9d73-a6a515d4a4a2",
+    "label": "Winforms",
+    "category": "Development",
+    "legacyId": 393,
+    "rank": 124
+  },
+  {
+    "id": "bc375c34-1a7c-47d3-a0e7-29a3180fa6cd",
+    "label": "Cumulocity",
+    "category": "Development",
+    "legacyId": 51,
+    "rank": 232
+  },
+  {
+    "id": "2a3242cb-9362-4685-9ad1-c73ff8052b3a",
+    "label": "PostgreSQL",
+    "category": "Development",
+    "legacyId": 306,
+    "rank": 9
+  },
+  {
+    "id": "308a2e37-9619-419a-a1ee-8c00a7f53a6d",
+    "label": "Hybris",
+    "category": "Development",
+    "legacyId": 77,
+    "rank": 56
+  },
+  {
+    "id": "c58cc5eb-cbcd-4221-842d-00eeaeb27649",
+    "label": "ASP.NET",
+    "category": "Development",
+    "legacyId": 121,
+    "rank": 175
+  },
+  {
+    "id": "cf49bf41-a036-4cdf-a430-0f9cd5471dee",
+    "label": "Golang",
+    "category": "Development",
+    "legacyId": 581,
+    "rank": 8
+  },
+  {
+    "id": "fecb6ffb-bf30-4ce9-a002-498abb2b5971",
+    "label": "redhat",
+    "category": "Development",
+    "legacyId": 432,
+    "rank": 112
+  },
+  {
+    "id": "702fe67d-dc66-4da3-9d7f-c77decaab703",
+    "label": "Knockout",
+    "category": "Development",
+    "legacyId": 262,
+    "rank": 58
+  },
+  {
+    "id": "7636e81b-4285-442f-a0cc-7a9c7800e31d",
+    "label": "Windows Phone",
+    "category": "Development",
+    "legacyId": 391,
+    "rank": 295
+  },
+  {
+    "id": "ea6ad509-d2d6-4b87-9495-46c6c4ad4f1f",
+    "label": "doctrine",
+    "category": "Development",
+    "legacyId": 425,
+    "rank": 179
+  },
+  {
+    "id": "d9ebd91b-0462-415f-821b-6602dfc1e0f0",
+    "label": "Entity-Framework",
+    "category": "Development",
+    "legacyId": 174,
+    "rank": 144
+  },
+  {
+    "id": "d12313e3-c0fb-492c-a818-6b65ca4cdede",
+    "label": "Shell",
+    "category": "Development",
+    "legacyId": 345,
+    "rank": 68
+  },
+  {
+    "id": "b87cf4e6-c1fe-45d1-a1d9-d03d37bd5cd5",
+    "label": "Ruby",
+    "category": "Development",
+    "legacyId": 325,
+    "rank": 212
+  },
+  {
+    "id": "ef4e12a7-9004-4617-b170-a8be42390723",
+    "label": "Data Visualization",
+    "category": "Data Science",
+    "legacyId": 595,
+    "rank": 28
+  },
+  {
+    "id": "2d8f1c6c-5f86-4858-b616-5cbdb965220b",
+    "label": "atom",
+    "category": "Development",
+    "legacyId": 429,
+    "rank": 203
+  },
+  {
+    "id": "e91e8218-2291-4a50-bdbd-386125aa5a93",
+    "label": "Simple Math",
+    "category": "Development",
+    "legacyId": 347,
+    "rank": 190
+  },
+  {
+    "id": "6807de58-64ac-4e4b-a2f3-d2b8bd2592c2",
+    "label": "DocuSign",
+    "category": "Development",
+    "legacyId": 17,
+    "rank": 124
+  },
+  {
+    "id": "961124d3-7c31-4687-8cf0-472e78359c2f",
+    "label": ".NET",
+    "category": "Development",
+    "legacyId": 100,
+    "rank": 55
+  },
+  {
+    "id": "4f10b2fe-8b85-4899-8376-989645305e07",
+    "label": "travis",
+    "category": "Development",
+    "legacyId": 410,
+    "rank": 231
+  },
+  {
+    "id": "9ffc9004-7e9b-428f-b8f9-08f1eea68d9a",
+    "label": "Python",
+    "category": "Development",
+    "legacyId": 311,
+    "rank": 28
+  },
+  {
+    "id": "b3fb0f85-96ec-4360-94b6-bce0d7e751f0",
+    "label": "MarkLogic",
+    "category": "Development",
+    "legacyId": 33,
+    "rank": 114
+  },
+  {
+    "id": "8a4e0b63-b820-4743-a4f7-f8660b8b0ed1",
+    "label": "Microservices",
+    "category": "Development",
+    "legacyId": 49,
+    "rank": 9
+  },
+  {
+    "id": "4e78919b-d9f0-4432-a83f-c9876862fcea",
+    "label": "OSGi",
+    "category": "Development",
+    "legacyId": 296,
+    "rank": 222
+  },
+  {
+    "id": "eff432c7-8655-4060-80f5-15940d03e28d",
+    "label": "IBM Cognitive",
+    "category": "Development",
+    "legacyId": 45,
+    "rank": 282
+  },
+  {
+    "id": "1097f0ac-2f71-4a62-8d53-f5d5b72710e7",
+    "label": "VB",
+    "category": "Development",
+    "legacyId": 379,
+    "rank": 181
+  },
+  {
+    "id": "a06ae7fa-7eb1-496b-b24c-ab64771132e2",
+    "label": "Titanium",
+    "category": "Development",
+    "legacyId": 367,
+    "rank": 10
+  },
+  {
+    "id": "96129661-103a-43cf-a96f-224edcd2f018",
+    "label": "MSMQ",
+    "category": "Development",
+    "legacyId": 282,
+    "rank": 95
+  },
+  {
+    "id": "a9a9de07-7ed6-4883-888f-12582c38429a",
+    "label": "C",
+    "category": "Development",
+    "legacyId": 436,
+    "rank": 76
+  },
+  {
+    "id": "fc680896-d4b9-4730-9bb1-bcfcd8d68262",
+    "label": "Database",
+    "category": "Data Science",
+    "legacyId": 159,
+    "rank": 154
+  },
+  {
+    "id": "b5580674-0b23-456b-9eb7-b445d1a93821",
+    "label": "yii",
+    "category": "Development",
+    "legacyId": 414,
+    "rank": 145
+  },
+  {
+    "id": "544c63f1-9257-460a-ac13-400f16af915d",
+    "label": "Frontend",
+    "category": "Design/UX",
+    "legacyId": 20,
+    "rank": 273
+  },
+  {
+    "id": "2efcfbbb-6a54-4270-a7e9-627e40259eb3",
+    "label": "Flux",
+    "category": "Design/UX",
+    "legacyId": 184,
+    "rank": 207
+  },
+  {
+    "id": "e2bad2ec-0e31-47cc-b99b-070e5236b19d",
+    "label": "JBoss Seam",
+    "category": "Development",
+    "legacyId": 249,
+    "rank": 136
+  },
+  {
+    "id": "a1d6edc4-0c28-4f12-8f39-3b86ba605893",
+    "label": "Microsoft Exchange",
+    "category": "Development",
+    "legacyId": 56,
+    "rank": 119
+  },
+  {
+    "id": "dee63155-6381-4c48-b435-c4cfaf9f7a19",
+    "label": "InVision",
+    "category": "Design/UX",
+    "legacyId": 242,
+    "rank": 158
+  },
+  {
+    "id": "70e51796-bcdb-4db3-b07d-ab3764a0ad40",
+    "label": "HTML",
+    "category": "Development",
+    "legacyId": 212,
+    "rank": 200
+  },
+  {
+    "id": "2d1c15eb-0993-4b87-84a5-96a7dc47d7cf",
+    "label": "Backbone.js",
+    "category": "Development",
+    "legacyId": 124,
+    "rank": 82
+  },
+  {
+    "id": "f9c7256d-3542-4ae2-8620-eb0d64757057",
+    "label": "Go",
+    "category": "Development",
+    "legacyId": 194,
+    "rank": 87
+  },
+  {
+    "id": "5b8537c2-cf04-439c-b255-14be4448e353",
+    "label": "Continuous Integration",
+    "category": "Development",
+    "legacyId": 16,
+    "rank": 73
+  },
+  {
+    "id": "049390b6-4541-4b71-b670-bc62ad0b916f",
+    "label": "Cypress",
+    "category": "Development",
+    "legacyId": 565,
+    "rank": 268
+  },
+  {
+    "id": "567a5de9-38c8-43e5-90be-b72fe69ca62d",
+    "label": "Scala",
+    "category": "Development",
+    "legacyId": 332,
+    "rank": 118
+  },
+  {
+    "id": "3b160227-1c5c-4cc5-b41b-7a22bb49be2d",
+    "label": "Servlet",
+    "category": "Development",
+    "legacyId": 337,
+    "rank": 86
+  },
+  {
+    "id": "685a7fbd-5212-413f-8e67-78b06061f44c",
+    "label": "Xcode",
+    "category": "Development",
+    "legacyId": 400,
+    "rank": 62
+  },
+  {
+    "id": "db7993b8-e111-4391-bed6-a36432958cd6",
+    "label": "Dynamic Programming",
+    "category": "Development",
+    "legacyId": 167,
+    "rank": 182
+  },
+  {
+    "id": "a5c3ad9e-e09d-4fa9-a340-c73f8a7904b1",
+    "label": "Inkscape",
+    "category": "Design/UX",
+    "legacyId": 417,
+    "rank": 28
+  },
+  {
+    "id": "c2250e44-f872-407b-b4e1-179b57f68baa",
+    "label": "Matlab",
+    "category": "Data Science",
+    "legacyId": 275,
+    "rank": 192
+  },
+  {
+    "id": "28be1eaa-f4e7-424a-b614-6abad166fc24",
+    "label": "Function",
+    "category": "Development",
+    "legacyId": 189,
+    "rank": 78
+  },
+  {
+    "id": "e95e3716-1ce6-4ecc-b82d-553ed06c5758",
+    "label": "ipfs",
+    "category": "Development",
+    "legacyId": 42,
+    "rank": 215
+  },
+  {
+    "id": "27ea97f6-114c-44a0-acab-24926f50e896",
+    "label": "PHP",
+    "category": "Development",
+    "legacyId": 303,
+    "rank": 55
+  },
+  {
+    "id": "1a1df88c-9a9d-4c01-b7c5-b4b8e1ed32c4",
+    "label": "Npm",
+    "category": "Development",
+    "legacyId": 288,
+    "rank": 275
+  },
+  {
+    "id": "57e5d9b8-8017-44bf-ae3b-23709b50cb1b",
+    "label": "SFDC Lightning Components",
+    "category": "Development",
+    "legacyId": 340,
+    "rank": 249
+  }
+]

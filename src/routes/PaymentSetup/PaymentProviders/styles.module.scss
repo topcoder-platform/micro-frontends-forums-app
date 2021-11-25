@@ -1,0 +1,179 @@
+@import "styles/include";
+
+.page-wrapper {
+  @include mobile {
+    padding: 0;
+  }
+  .page-title {
+    background-color: white;
+    padding: 12px 24px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 8px 8px;
+    text-transform: uppercase;
+    @include font-barlow-condensed;
+    font-size: 17px;
+    font-weight: 500;
+    color: $grey-text;
+    @include desktop {
+      display: none;
+    }
+  }
+  .payment-providers {
+    @include mobile {
+      padding: 16px 8px 16px 8px;
+    }
+    .page-content {
+      padding: 38px 32px 32px 32px;
+      @include mobile {
+        padding: 16px 19px;
+        margin: 0;
+      }
+      .page-header {
+        display: flex;
+        @include mobile {
+          flex-direction: column;
+        }
+        .left-pane {
+          flex: 1;
+          display: flex;
+          flex-direction: column;
+          .back-button {
+            font-size: 16px;
+            font-family: Barlow;
+            font-weight: 600;
+            line-height: 16px;
+            padding: 0;
+            color: $green1;
+            .back-icon-wrapper {
+              width: 14px;
+            }
+            @include mobile {
+              font-size: 10px;
+              line-height: 12px;
+              @include font-roboto;
+              margin-bottom: 10px;
+            }
+            .button-text {
+              margin-left: 6px;
+            }
+          }
+          .payment-service-title {
+            margin: 0;
+            @include font-barlow-condensed;
+            font-size: 34px;
+            font-weight: 500;
+
+            @include mobile {
+              font-family: Barlow;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 16px;
+            }
+          }
+        }
+
+        .right-pane {
+          width: 400px;
+          display: flex;
+          align-items: center;
+          padding: 0 24px;
+          @include mobile {
+            width: 100%;
+            margin-top: 23px;
+            padding: 0 16px;
+            margin-bottom: 13px;
+          }
+        }
+      }
+      .user-name {
+        margin-top: 30px;
+        line-height: 26px;
+        font-size: 16px;
+        line-height: 26px;
+        @include font-roboto;
+        color: $grey-text;
+        @include mobile {
+          font-size: 14px;
+          line-height: 20px;
+          font-weight: 500;
+        }
+      }
+      .connect-service-title {
+        font-size: 48px;
+        line-height: 48px;
+        font-weight: 500;
+        margin-bottom: 24px;
+        margin-top: 32px;
+        color: $grey-text;
+        @include font-barlow-condensed;
+
+        @include mobile {
+          font-family: Barlow;
+          font-weight: 600;
+          font-size: 20px;
+          line-height: 20px;
+        }
+      }
+      .description {
+        margin-top: 0;
+        margin-bottom: 48px;
+        @include font-roboto;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: $grey-text;
+      }
+
+      .select-info-desktop {
+        font-weight: 500;
+        font-size: 16px;
+        @include font-roboto;
+        line-height: 24px;
+        color: $grey-text;
+        margin: 0;
+        @include mobile {
+          display: none;
+        }
+      }
+
+      .select-info-mobile-part-one {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        @include font-roboto;
+        margin-bottom: 32px;
+        @include desktop {
+          display: none;
+        }
+      }
+
+      .select-info-mobile-part-two {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        @include font-roboto;
+        margin-bottom: 0;
+        @include desktop {
+          display: none;
+        }
+      }
+
+      .footer-note {
+        font-size: 12px;
+        line-height: 16px;
+        font-weight: 400;
+        line-height: 16px;
+        @include font-roboto;
+        color: $black;
+        margin-top: 22px;
+        @include mobile {
+          display: none;
+        }
+      }
+
+      .page-divider {
+        border-bottom: 2px solid $divider-color;
+      }
+    }
+  }
+}

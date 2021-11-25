@@ -1,0 +1,44 @@
+@import "styles/include";
+
+.build-my-profile {
+  .form-row {
+    align-items: flex-start;
+  }
+  .form-description {
+    font-size: 18px;
+    margin-top: 0;
+  }
+  .form-p {
+    font-weight: 430;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  .listinput-item {
+    &:not(:first-child) {
+      margin-top: 10px;
+    }
+  }
+  .remove-listinput-item-button {
+    margin: 8px 0 14px 0;
+    color: red;
+    display: flex;
+    align-items: center;
+    font-weight: 430;
+
+    & > * {
+      cursor: pointer;
+      align-items: center;
+      display: flex;
+    }
+
+    .icon-remove {
+      margin-right: 5px;
+      width: 26px;
+      height: 14px;
+      cursor: pointer;
+    }
+    .icon-remove * {
+      stroke: red;
+    }
+  }
+}

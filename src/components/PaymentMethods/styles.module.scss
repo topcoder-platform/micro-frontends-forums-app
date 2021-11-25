@@ -1,0 +1,48 @@
+@import "styles/include";
+
+.payment-methods {
+  display: flex;
+  margin-top: 22px;
+  @include mobile {
+    flex-direction: column;
+    margin-top: 16px;
+  }
+  .payment-method-card {
+    background-color: $grey-bg;
+    padding: 24px;
+    display: flex;
+    flex: 1;
+    margin-right: 24px;
+    flex-direction: column;
+    border-radius: 8px;
+    @include mobile {
+      margin-right: 0;
+      margin-bottom: 16px;
+    }
+    .button-wrapper {
+      margin-bottom: 32px;
+      @include mobile {
+        margin-bottom: 24px;
+      }
+      .payment-button {
+        font-size: 14px;
+        @include font-roboto;
+        line-height: 12px;
+        height: 40px;
+        border-radius: 25px;
+        @include mobile {
+          height: 32px;
+        }
+      }
+    }
+    .content-wrapper {
+      flex-direction: column;
+    }
+  }
+  .payment-method-card:last-child {
+    margin-right: 0;
+    @include mobile {
+      margin-bottom: 0;
+    }
+  }
+}

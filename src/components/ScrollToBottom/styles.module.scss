@@ -1,0 +1,31 @@
+@import "styles/include";
+
+.scroll-to-bottom {
+  background-color: $gray-10;
+  padding: 4px 16px;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 8px;
+  border-radius: 4px;
+  @include desktop {
+    display: none;
+  }
+  .icon-wrapper {
+    margin-right: 10px;
+  }
+  .no-margin {
+    margin-right: 0;
+  }
+  .scroll-label {
+    color: $gray-80;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    @include font-roboto;
+    margin: 0 9px;
+    text-transform: uppercase;
+  }
+}

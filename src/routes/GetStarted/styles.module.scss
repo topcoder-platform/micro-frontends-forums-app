@@ -1,0 +1,59 @@
+@import "styles/include";
+
+.upload-profile-photo {
+  display: flex;
+  align-items: center;
+  @include mobile {
+    flex-direction: column;
+    & > * {
+      margin: 0 !important;
+      margin-bottom: 18px !important;
+    }
+  }
+  & > button {
+    margin-left: 15px !important;
+  }
+  .profile-photo {
+    width: 80px;
+    height: 80px;
+    @include mobile {
+      width: 160px;
+      height: 160px;
+    }
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: -30px;
+  }
+  .profile-photo-void {
+    width: 100px;
+    height: 100px;
+    @include mobile {
+      width: 160px;
+      height: 160px;
+    }
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: -30px;
+    background: #fafafa;
+    border: 2px dashed #ddd;
+  }
+  .icon-edit {
+    width: 20px;
+    margin: -1px 5px 0 0;
+  }
+  .icon-delete {
+    width: 20px;
+    margin: -1px 5px 0 0;
+    * {
+      fill: $green1 !important;
+    }
+  }
+  .icon-upload {
+    width: 20px;
+    margin: 0 5px 0 0;
+  }
+}

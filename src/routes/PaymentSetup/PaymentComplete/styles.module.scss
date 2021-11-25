@@ -1,0 +1,166 @@
+@import "styles/include";
+
+.page-wrapper {
+  @include mobile {
+    padding: 0;
+  }
+  .page-title {
+    background-color: white;
+    padding: 12px 24px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 8px 8px;
+    text-transform: uppercase;
+    @include font-barlow-condensed;
+    font-size: 17px;
+    font-weight: 500;
+    color: $grey-text;
+    @include desktop {
+      display: none;
+    }
+  }
+  .payment-complete {
+    @include mobile {
+      padding: 16px 8px 16px 8px;
+    }
+    .page-content {
+      padding: 38px 32px 32px 32px;
+      @include mobile {
+        padding: 16px 19px;
+        margin: 0;
+      }
+      .page-header {
+        display: flex;
+        @include mobile {
+          flex-direction: column;
+        }
+        .left-pane {
+          flex: 1;
+          display: flex;
+          flex-direction: column;
+          .back-button {
+            font-size: 16px;
+            font-family: Barlow;
+            font-weight: 600;
+            line-height: 16px;
+            padding: 0;
+            color: $green1;
+            .back-icon-wrapper {
+              width: 14px;
+            }
+            @include mobile {
+              font-size: 10px;
+              line-height: 12px;
+              @include font-roboto;
+              margin-bottom: 10px;
+            }
+            .button-text {
+              margin-left: 6px;
+            }
+          }
+          .payment-service-title {
+            margin: 0;
+            @include font-barlow-condensed;
+            font-size: 34px;
+            font-weight: 500;
+
+            @include mobile {
+              font-family: Barlow;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 16px;
+            }
+          }
+        }
+
+        .right-pane {
+          width: 400px;
+          display: flex;
+          align-items: center;
+          padding: 0 24px;
+          @include mobile {
+            width: 100%;
+            margin-top: 23px;
+            padding: 0 16px;
+            margin-bottom: 13px;
+          }
+        }
+      }
+      .user-name {
+        margin-top: 30px;
+        line-height: 26px;
+        font-size: 16px;
+        line-height: 26px;
+        @include font-roboto;
+        color: $grey-text;
+        @include mobile {
+          font-size: 14px;
+          line-height: 20px;
+          font-weight: 500;
+        }
+      }
+
+      .thank-you {
+        font-size: 48px;
+        @include font-barlow-condensed;
+        font-weight: 500;
+        margin-top: 32px;
+        margin-bottom: 48px;
+        color: $grey-text;
+        @include mobile {
+          font-family: Barlow;
+          font-size: 20px;
+          line-height: 20px;
+          font-weight: 600;
+          margin-top: 24px;
+          margin-bottom: 32px;
+        }
+      }
+
+      .submitted-text {
+        font-size: 20px;
+        line-height: 20px;
+        font-family: Barlow;
+        font-weight: 600;
+        margin: 24px 0;
+        color: $grey-text;
+        @include mobile {
+          font-size: 16px;
+          line-height: 20px;
+          font-weight: 600;
+        }
+      }
+
+      .instructions {
+        @include font-roboto;
+        font-size: 16px;
+        line-height: 26px;
+        color: $grey-text;
+        max-width: 568px;
+        a {
+          color: #2e55b9;
+        }
+      }
+
+      .link {
+        color: #2e55b9;
+      }
+
+      .complete-page-footer {
+        justify-content: flex-start;
+        @include mobile {
+          margin-top: 32px;
+          justify-content: flex-start !important;
+          align-items: flex-start !important;
+        }
+        .continue-button {
+          padding: 14px 20px;
+          border-radius: 25px;
+          height: 40px;
+        }
+      }
+    }
+    .page-divider {
+      border-bottom: 2px solid $divider-color;
+    }
+  }
+}

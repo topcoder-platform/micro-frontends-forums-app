@@ -1,0 +1,4626 @@
+[
+  {
+    "id": "48ddf36e-40dc-4d06-850d-bbef9fecb277",
+    "label": "IBM COGNOS",
+    "category": "Data Science",
+    "legacyId": 218,
+    "rank": 12
+  },
+  {
+    "id": "513ba597-5ad1-4177-8556-35583e0cc6ac",
+    "label": "Microsoft Dynamics 365 Portals",
+    "category": "Development",
+    "rank": 142
+  },
+  {
+    "id": "5f1dcf85-7ed7-426e-9c19-edf9f59fdf17",
+    "label": "Performance Engineering for SAP",
+    "category": "Data Science",
+    "rank": 31
+  },
+  {
+    "id": "f12788c9-8fc4-4dd9-b500-8ccb397dccf2",
+    "label": "SWT",
+    "category": "Development",
+    "legacyId": 366,
+    "rank": 126
+  },
+  {
+    "id": "1c4a26a3-3f92-4116-8137-b1233cdf75b5",
+    "label": "Katalon Studio",
+    "category": "Development",
+    "rank": 55
+  },
+  {
+    "id": "0b104b7c-0792-4118-8bc7-a274e9ee19e3",
+    "label": "Ab Initio",
+    "category": "Data Science",
+    "rank": 134
+  },
+  {
+    "id": "aa71c210-5f4e-40b4-9f67-3d0cd857e340",
+    "label": "gimp",
+    "category": "Design/UX",
+    "legacyId": 422,
+    "rank": 99
+  },
+  {
+    "id": "fc39092d-1c68-4e14-bf43-4872981f0cde",
+    "label": "Xamarin",
+    "category": "Development",
+    "legacyId": 398,
+    "rank": 251
+  },
+  {
+    "id": "3deefed1-f90a-49c3-af7f-c2f0c80af679",
+    "label": "JS JavaScript Libraries for .Net",
+    "category": "Development",
+    "rank": 60
+  },
+  {
+    "id": "251cfd6d-2074-457e-bbf6-1a392967a630",
+    "label": "JSP",
+    "category": "Development",
+    "legacyId": 260,
+    "rank": 205
+  },
+  {
+    "id": "cb5f5f02-700d-4439-b3f5-77d42330c802",
+    "label": "MSCRM Tech Advanced",
+    "category": "Data Science",
+    "rank": 32
+  },
+  {
+    "id": "99b930b5-1b91-4df1-8b17-d9307107bb51",
+    "label": "Excel",
+    "category": "Data Science",
+    "legacyId": 176,
+    "rank": 158
+  },
+  {
+    "id": "57f39f35-72d5-45a6-b3c3-aa2ad4a06fec",
+    "label": "Calabash",
+    "category": "Development",
+    "legacyId": 134,
+    "rank": 174
+  },
+  {
+    "id": "3e714a0e-8880-48ff-807d-81c32ab810bb",
+    "label": "OSS Application Testing",
+    "category": "Development",
+    "rank": 1
+  },
+  {
+    "id": "b17f09d2-6f00-4367-88a2-018d0d8913b6",
+    "label": "Custom Web Parts",
+    "category": "Development",
+    "rank": 266
+  },
+  {
+    "id": "4cb4c2c3-f8af-49e4-8b67-6318d5d1d329",
+    "label": "ADO.NET",
+    "category": "Development",
+    "legacyId": 104,
+    "rank": 188
+  },
+  {
+    "id": "499e1fe1-2d18-455d-b5ca-dfba8ba5be28",
+    "label": "IBM Optim Testing",
+    "category": "Data Science",
+    "rank": 14
+  },
+  {
+    "id": "ef5811ce-b4d1-45c1-977f-fa222b17a98d",
+    "label": "Elasticsearch",
+    "category": "Data Science",
+    "legacyId": 171,
+    "rank": 20
+  },
+  {
+    "id": "8ae7032a-11ad-40a6-946e-e3b283098e9d",
+    "label": "Remoting",
+    "category": "Development",
+    "legacyId": 319,
+    "rank": 237
+  },
+  {
+    "id": "12008621-12c4-40f6-b4a8-75e9562a6d8a",
+    "label": "appcelerator",
+    "category": "Development",
+    "legacyId": 427,
+    "rank": 153
+  },
+  {
+    "id": "ede01f17-6e5c-4ce1-93e5-b39999c42e8f",
+    "label": "LoadRunner",
+    "category": "Development",
+    "rank": 253
+  },
+  {
+    "id": "829fd97c-ec3d-4dcf-9d62-c3559d73313d",
+    "label": "FullStack Microsoft-Cloud Customer Experience-Dynamics365",
+    "category": "Data Science",
+    "rank": 300
+  },
+  {
+    "id": "a6586fda-7069-4e32-9d12-ae11cc66636a",
+    "label": "Knockout JS",
+    "category": "Development",
+    "rank": 145
+  },
+  {
+    "id": "2badb8e4-2c9c-4278-b131-04585afbd7d3",
+    "label": "Microfocus Service Test",
+    "category": "Development",
+    "rank": 199
+  },
+  {
+    "id": "9515e7ee-83b6-49d1-ba5c-6c59c5a8ef1b",
+    "label": "List",
+    "category": "Data Science",
+    "legacyId": 269,
+    "rank": 80
+  },
+  {
+    "id": "38d8eab6-eb20-4e44-b402-352858187eb4",
+    "label": "Solidity",
+    "category": "Development",
+    "rank": 175
+  },
+  {
+    "id": "e46f13ca-8c63-4cef-93f9-2f94ec1b9718",
+    "label": "CloudFactor",
+    "category": "Data Science",
+    "rank": 69
+  },
+  {
+    "id": "52544b02-adad-4d5a-9f88-ab9b51b1edef",
+    "label": "Mobile App Performance Testing",
+    "category": "Development",
+    "rank": 131
+  },
+  {
+    "id": "8f971be4-be7d-458c-be77-d314f21f0bc4",
+    "label": "NoSQL",
+    "category": "Data Science",
+    "legacyId": 287,
+    "rank": 8
+  },
+  {
+    "id": "d4337a5d-98f8-40a9-8b15-8b13b50bb8fb",
+    "label": "Eclipse",
+    "category": "Development",
+    "legacyId": 169,
+    "rank": 299
+  },
+  {
+    "id": "df2f02aa-7baf-4b0b-95f8-a1ae1e5ebc35",
+    "label": "Boomi",
+    "category": "Data Science",
+    "rank": 53
+  },
+  {
+    "id": "25659e06-0428-4199-8aab-6862f249c4aa",
+    "label": "Groovy",
+    "category": "Development",
+    "legacyId": 204,
+    "rank": 74
+  },
+  {
+    "id": "623e5e53-4001-4d58-b60e-9e32a22edb2b",
+    "label": "Windows",
+    "category": "Development",
+    "legacyId": 389,
+    "rank": 280
+  },
+  {
+    "id": "cb653285-6f9b-49f7-91a8-94217f49f54d",
+    "label": "Gremlin",
+    "category": "Data Science",
+    "legacyId": 203,
+    "rank": 47
+  },
+  {
+    "id": "c63cc577-efac-4fe6-9a1c-3203aa30d91a",
+    "label": "Microsoft Dynamics - Project Management",
+    "category": "Development",
+    "rank": 175
+  },
+  {
+    "id": "e7bd0439-4ae3-414b-b95c-9487674e5738",
+    "label": "Redis",
+    "category": "Data Science",
+    "legacyId": 317,
+    "rank": 296
+  },
+  {
+    "id": "046c033d-2052-40db-88c2-2f48e394b639",
+    "label": "Qtest",
+    "category": "Development",
+    "rank": 267
+  },
+  {
+    "id": "483c2123-df20-4315-88a5-9fd66b99add3",
+    "label": "MS Project Server",
+    "category": "Development",
+    "rank": 6
+  },
+  {
+    "id": "2a79c828-673f-420b-acf9-b0f37a217338",
+    "label": "Big Data Testing",
+    "category": "Data Science",
+    "rank": 183
+  },
+  {
+    "id": "b2a6f7de-1e94-4699-8976-5747f8929dce",
+    "label": "Website Design",
+    "category": "Design/UX",
+    "legacyId": 388,
+    "rank": 109
+  },
+  {
+    "id": "df66a357-eb10-431a-8e48-b5350f028468",
+    "label": "Qt",
+    "category": "Development",
+    "legacyId": 313,
+    "rank": 74
+  },
+  {
+    "id": "38471151-8513-4e04-b0fe-80331556abd9",
+    "label": "ClojureScript",
+    "category": "Development",
+    "legacyId": 143,
+    "rank": 32
+  },
+  {
+    "id": "ffd690fb-ee71-481d-97b9-8744ec6cbb41",
+    "label": "Parasoft Virtualize",
+    "category": "Development",
+    "rank": 5
+  },
+  {
+    "id": "ecf949ba-6807-4ca2-93af-e36c8a031365",
+    "label": "Selenium",
+    "category": "Development",
+    "legacyId": 450,
+    "rank": 221
+  },
+  {
+    "id": "592f193f-742d-4595-9391-d519f99da9f0",
+    "label": "Brivo Labs",
+    "category": "Development",
+    "rank": 206
+  },
+  {
+    "id": "6dfced3d-c45f-47f9-ac32-a8022994c106",
+    "label": "Microsoft Office Sway",
+    "category": "Design/UX",
+    "rank": 100
+  },
+  {
+    "id": "abf79675-551a-4022-bdb8-69b4398aff55",
+    "label": "sympfony",
+    "category": "Development",
+    "rank": 231
+  },
+  {
+    "id": "8e1b4785-e56b-4d2e-9b31-898b05a90da7",
+    "label": "Performance Testing",
+    "category": "Development",
+    "legacyId": 498,
+    "rank": 218
+  },
+  {
+    "id": "c010c1d4-b6dd-4a45-9dcd-4698f1e33bb4",
+    "label": "MongoDB",
+    "category": "Data Science",
+    "legacyId": 281,
+    "rank": 210
+  },
+  {
+    "id": "0d1fba92-6ee3-4862-ab32-b190f98edfd7",
+    "label": "ASP - Active Server Page",
+    "category": "Development",
+    "rank": 9
+  },
+  {
+    "id": "97e594fb-04a1-4a18-98e4-ba6e32743fcb",
+    "label": "Azure Cloud Services",
+    "category": "Data Science",
+    "rank": 203
+  },
+  {
+    "id": "798dc2b7-c2a2-4012-84d6-ed6e000cb9fa",
+    "label": "Office 365 - Exchange Online",
+    "category": "Data Science",
+    "rank": 21
+  },
+  {
+    "id": "e2808f43-2a30-410c-a1f4-e6b7f1c4a731",
+    "label": "Microsoft Dynamics 365 Customization and Configuration",
+    "category": "Data Science",
+    "rank": 47
+  },
+  {
+    "id": "82b7db44-0d85-4b9d-88df-f95b92269d3d",
+    "label": "Headspin",
+    "category": "Development",
+    "rank": 293
+  },
+  {
+    "id": "cb7ea4e5-4813-4639-8df4-9f25837bd5d3",
+    "label": "Microfocus Service Virtualization",
+    "category": "Development",
+    "rank": 264
+  },
+  {
+    "id": "e70984c4-3902-4f2d-8859-4b59b8801fe4",
+    "label": "Infographic",
+    "category": "Design/UX",
+    "legacyId": 239,
+    "rank": 293
+  },
+  {
+    "id": "6608e5e1-540a-4696-b31b-c7d36bef3c44",
+    "label": "Episerver CMS - Content Management System",
+    "category": "Data Science",
+    "rank": 186
+  },
+  {
+    "id": "de78c356-ee32-45a9-bc9d-d48c51641f0a",
+    "label": "Application Lifecycle Management - ALM",
+    "category": "Development",
+    "rank": 110
+  },
+  {
+    "id": "264e2ac7-5437-4c43-b195-aba3bcb12de1",
+    "label": "Blackberry SDK",
+    "category": "Development",
+    "legacyId": 127,
+    "rank": 264
+  },
+  {
+    "id": "0190d3aa-1d98-4556-877e-9a957f0f2772",
+    "label": "Perl",
+    "category": "Development",
+    "legacyId": 299,
+    "rank": 177
+  },
+  {
+    "id": "5cab94ae-dd2b-4d71-96ca-b185878b03d1",
+    "label": "Office 365 - Skype for Business",
+    "category": "Development",
+    "rank": 163
+  },
+  {
+    "id": "c50cae94-4df1-4dad-8c4f-6b464e2b4dc1",
+    "label": "FullStack Microsoft-Cloud-Modern Workplace-Office365",
+    "category": "Data Science",
+    "rank": 221
+  },
+  {
+    "id": "9f5f6283-3755-4f7e-b303-ea982e518f09",
+    "label": "Microsoft Modern Apps Architecting",
+    "category": "Development",
+    "rank": 218
+  },
+  {
+    "id": "19909884-6bb0-478b-9aa1-7ca0072e1711",
+    "label": "Github",
+    "category": "Development",
+    "legacyId": 192,
+    "rank": 238
+  },
+  {
+    "id": "883e8940-18c6-400a-8676-4911e94d29a2",
+    "label": "Cisco",
+    "category": "Development",
+    "legacyId": 139,
+    "rank": 186
+  },
+  {
+    "id": "fe944426-83e9-42f0-ba7c-5f3334874c91",
+    "label": "ASP.NET MVC 4",
+    "category": "Development",
+    "rank": 98
+  },
+  {
+    "id": "71b200f1-ae12-42e6-8abb-cad685b67155",
+    "label": "gulp",
+    "category": "Development",
+    "legacyId": 424,
+    "rank": 108
+  },
+  {
+    "id": "7bfd463b-16bc-4098-a284-d79360b296aa",
+    "label": "OSx",
+    "category": "Development",
+    "legacyId": 297,
+    "rank": 136
+  },
+  {
+    "id": "c11ff255-e7b3-4a70-b369-0cae44bf6d74",
+    "label": "Clojure",
+    "category": "Development",
+    "legacyId": 142,
+    "rank": 177
+  },
+  {
+    "id": "faaa0c21-2352-4e27-a1cf-dc05345a86ba",
+    "label": "SQL Programming language",
+    "category": "Data Science",
+    "rank": 220
+  },
+  {
+    "id": "b4845e3e-92bf-46ac-89f6-7df16a607e42",
+    "label": "Api Connect",
+    "category": "Development",
+    "rank": 139
+  },
+  {
+    "id": "2f38ff44-f0fd-491b-be8c-dd092e9c269d",
+    "label": "SDET",
+    "category": "Development",
+    "rank": 86
+  },
+  {
+    "id": "07421d66-33ad-4d7d-a6b4-93d56122fc5a",
+    "label": "Parasoft SOAtest",
+    "category": "Development",
+    "rank": 300
+  },
+  {
+    "id": "ddf3ad6a-e9f9-4baf-a5e5-c0c26549b801",
+    "label": "IBM Websphere Message Broker",
+    "category": "Development",
+    "legacyId": 231,
+    "rank": 55
+  },
+  {
+    "id": "ecc754d5-f4b0-467f-8b0e-d87fe8c758b7",
+    "label": "Sockets",
+    "category": "Development",
+    "legacyId": 352,
+    "rank": 276
+  },
+  {
+    "id": "967efc77-1901-43fe-ae15-a886e8ba3e83",
+    "label": "Ab Initio ETL Testing",
+    "category": "Development",
+    "rank": 240
+  },
+  {
+    "id": "68f00e1f-a366-44c7-ac87-d952dcbd270e",
+    "label": "R3 Corda",
+    "category": "Development",
+    "legacyId": 10,
+    "rank": 244
+  },
+  {
+    "id": "b064216c-b0b5-4d15-9b73-813751cc4b95",
+    "label": "Appium",
+    "category": "Development",
+    "legacyId": 454,
+    "rank": 85
+  },
+  {
+    "id": "bfacbfc4-2d08-4e11-82d2-2ae71515b8ed",
+    "label": "Azure Monitoring Tools",
+    "category": "Development",
+    "rank": 179
+  },
+  {
+    "id": "2c0737fa-f7e6-43ff-a189-5191ac3ccaf6",
+    "label": "Google App Engine",
+    "category": "Development",
+    "legacyId": 196,
+    "rank": 13
+  },
+  {
+    "id": "c6ad0182-5d25-412a-8c88-c0cf26612781",
+    "label": "Cobol",
+    "category": "Development",
+    "legacyId": 145,
+    "rank": 285
+  },
+  {
+    "id": "22f2b2cb-8ea8-4a98-a306-7024ac138923",
+    "label": "Sqlite",
+    "category": "Data Science",
+    "legacyId": 357,
+    "rank": 233
+  },
+  {
+    "id": "ab03bdd5-f64f-4c6a-8a1b-8717addcb982",
+    "label": "React.js",
+    "category": "Development",
+    "legacyId": 315,
+    "rank": 218
+  },
+  {
+    "id": "f45d308f-5aef-4847-b701-87d2c3f8f82b",
+    "label": "AppDynamics",
+    "category": "Development",
+    "rank": 110
+  },
+  {
+    "id": "bc17e372-a92d-4c79-a50a-f998cfd79338",
+    "label": "VSCode",
+    "category": "Development",
+    "legacyId": 491,
+    "rank": 90
+  },
+  {
+    "id": "3e40b5ce-0e2a-46d8-af90-e8b5d0adb9e5",
+    "label": "InDesign",
+    "category": "Design/UX",
+    "legacyId": 416,
+    "rank": 157
+  },
+  {
+    "id": "0cf41aa4-4b48-4a08-b33a-0fef958b91a6",
+    "label": "SharePoint 2016",
+    "category": "Design/UX",
+    "rank": 245
+  },
+  {
+    "id": "866ee344-5328-4c1d-b9ae-1c003f8fef16",
+    "label": "DB2 Testing",
+    "category": "Development",
+    "rank": 26
+  },
+  {
+    "id": "25045ee8-58e7-4844-b5fd-ff2c7dc722de",
+    "label": "MS CRM Surround",
+    "category": "Data Science",
+    "rank": 201
+  },
+  {
+    "id": "f7e2219f-15b8-44cd-ac6f-ec59dcaa6a6e",
+    "label": "jQuery",
+    "category": "Development",
+    "legacyId": 255,
+    "rank": 221
+  },
+  {
+    "id": "373f8c5c-a0f7-447a-9d77-4a379cfad153",
+    "label": "Actian Database",
+    "category": "Data Science",
+    "rank": 240
+  },
+  {
+    "id": "a90545c0-8db0-4cdd-97fa-b03c3e010d81",
+    "label": "Quorum",
+    "category": "Development",
+    "rank": 19
+  },
+  {
+    "id": "48d5ad88-b09a-46a7-bf85-a364cb6f0909",
+    "label": "Microsoft CRM Solution Design",
+    "category": "Data Science",
+    "rank": 194
+  },
+  {
+    "id": "25579c64-315b-4f3c-b45b-1ee1a5da3462",
+    "label": "IBM WebSphere MQ",
+    "category": "Development",
+    "legacyId": 232,
+    "rank": 256
+  },
+  {
+    "id": "b859292a-42a0-4539-9c99-319f3004287e",
+    "label": "Puppet for DevOps Apps",
+    "category": "Development",
+    "rank": 202
+  },
+  {
+    "id": "bc82bb59-28e0-4c8a-a68c-60448768413b",
+    "label": "Test Automation",
+    "category": "Development",
+    "rank": 219
+  },
+  {
+    "id": "5e24ebd6-c6e4-4349-b8a5-9be3117172a5",
+    "label": "ClickOnce",
+    "category": "Development",
+    "legacyId": 141,
+    "rank": 168
+  },
+  {
+    "id": "5c6c79ee-a8fe-4ec2-b9df-813bd67df413",
+    "label": ".NET System.Addins",
+    "category": "Development",
+    "rank": 8
+  },
+  {
+    "id": "dbe21109-728f-484c-ae8e-ca15108c6114",
+    "label": "Grommet",
+    "category": "Development",
+    "rank": 27
+  },
+  {
+    "id": "a13cf82c-e7c4-4477-b10b-5abcb25129bc",
+    "label": "Akka",
+    "category": "Development",
+    "legacyId": 107,
+    "rank": 193
+  },
+  {
+    "id": "59f906d7-425a-4de3-a4db-374ba4b5d0ce",
+    "label": "Smart Data Solution",
+    "category": "Data Science",
+    "rank": 69
+  },
+  {
+    "id": "280e0752-990f-4b2a-9914-4d942e44e896",
+    "label": "Microsoft Dynamics CRM 2016 - Customization and Configuratio",
+    "category": "Data Science",
+    "rank": 288
+  },
+  {
+    "id": "4fcfa96e-92c6-4cac-8185-bb057849bd59",
+    "label": "SOA Testing",
+    "category": "Development",
+    "rank": 281
+  },
+  {
+    "id": "f682838c-a9a7-4b47-8c2e-45d5132c04d7",
+    "label": "SOAP UI Testing",
+    "category": "Development",
+    "rank": 146
+  },
+  {
+    "id": "408d1073-c5f5-4438-a4ba-fdfa8f489254",
+    "label": "HTML5",
+    "category": "Development",
+    "legacyId": 213,
+    "rank": 161
+  },
+  {
+    "id": "72958b06-df8d-4285-bcac-db023cf3ff92",
+    "label": "Microsoft Flow",
+    "category": "Development",
+    "rank": 7
+  },
+  {
+    "id": "76d3eaf3-9568-4530-8d97-b6fc71710efe",
+    "label": "Google Cloud",
+    "category": "Development",
+    "legacyId": 534,
+    "rank": 22
+  },
+  {
+    "id": "89bbb2fe-b3d6-4854-83af-ebe43a167a42",
+    "label": "IBM Rational Application Developer",
+    "category": "Development",
+    "legacyId": 224,
+    "rank": 53
+  },
+  {
+    "id": "800dc331-1b1c-45ec-b251-afe7b49ab476",
+    "label": "WireMock",
+    "category": "Development",
+    "rank": 49
+  },
+  {
+    "id": "c4a6f77a-3421-4a81-b5fb-cff362a17222",
+    "label": "Modernization Automation Testing",
+    "category": "Development",
+    "rank": 289
+  },
+  {
+    "id": "6974b9f7-b6b9-4021-92aa-e821f50113b6",
+    "label": "Drools",
+    "category": "Development",
+    "legacyId": 165,
+    "rank": 253
+  },
+  {
+    "id": "025aade9-e565-4271-9d0f-028ef1d6d936",
+    "label": "Microsoft Social Engagement for Dynamics CRM",
+    "category": "Development",
+    "rank": 137
+  },
+  {
+    "id": "7c95a28c-3b7d-42a0-9c4c-716ca684a5da",
+    "label": "ETL Testing",
+    "category": "Development",
+    "rank": 39
+  },
+  {
+    "id": "78e2e5ec-617f-41f6-917f-a1e6b99289c4",
+    "label": "Microsoft Dynamics 365 AI for Service",
+    "category": "Data Science",
+    "rank": 13
+  },
+  {
+    "id": "1ade0efc-cd9f-4c56-946c-b650b81b39ad",
+    "label": "Microsoft Dynamics 365 AI for Sales",
+    "category": "Development",
+    "rank": 288
+  },
+  {
+    "id": "a31b202d-2bd3-4421-9c91-d4399b1a14b0",
+    "label": "Wpf",
+    "category": "Design/UX",
+    "legacyId": 397,
+    "rank": 266
+  },
+  {
+    "id": "7a95ed6b-a709-457f-bcc6-501508669656",
+    "label": "Azure API Management",
+    "category": "Development",
+    "rank": 106
+  },
+  {
+    "id": "55a4d1ab-86c9-4d0a-924f-cfd9e09dcdda",
+    "label": "Dropwizard",
+    "category": "Development",
+    "legacyId": 166,
+    "rank": 89
+  },
+  {
+    "id": "6282769a-b5ab-4d21-8308-9fe1df3b01e2",
+    "label": "Apache Cordova",
+    "category": "Data Science",
+    "legacyId": 112,
+    "rank": 142
+  },
+  {
+    "id": "875fc1c8-90ea-4b58-bd47-a8945f9303eb",
+    "label": "Protractor",
+    "category": "Development",
+    "legacyId": 310,
+    "rank": 236
+  },
+  {
+    "id": "d0affc8b-e649-47a0-863c-f461f1309f58",
+    "label": "Flight.js",
+    "category": "Development",
+    "legacyId": 183,
+    "rank": 156
+  },
+  {
+    "id": "ef6ce710-3b7c-4f1d-b6d9-db96241fb56c",
+    "label": "Multithreading",
+    "category": "Development",
+    "legacyId": 283,
+    "rank": 142
+  },
+  {
+    "id": "e166888a-afb8-494c-ba82-8dd0106dd216",
+    "label": "SharePoint Designer",
+    "category": "Design/UX",
+    "rank": 115
+  },
+  {
+    "id": "238f85e0-9074-4d92-a442-e07edf6ec7de",
+    "label": "Information Architecture (IA)",
+    "category": "Development",
+    "legacyId": 240,
+    "rank": 239
+  },
+  {
+    "id": "c019e9c5-496e-49e9-9a6e-501da5ea9627",
+    "label": "Drupal",
+    "category": "Development",
+    "legacyId": 418,
+    "rank": 118
+  },
+  {
+    "id": "dfa348ff-f623-416e-a5b0-abb3a0dc848d",
+    "label": "ALM Octane",
+    "category": "Development",
+    "rank": 83
+  },
+  {
+    "id": "239f6803-422b-4756-8052-36128ec6bcad",
+    "label": "UML",
+    "category": "Development",
+    "legacyId": 372,
+    "rank": 188
+  },
+  {
+    "id": "23839f38-6f19-4de9-9d28-f020056bca73",
+    "label": "Mozilla",
+    "category": "Development",
+    "legacyId": 420,
+    "rank": 147
+  },
+  {
+    "id": "d86998a7-0733-42d7-b699-9736cb0552dd",
+    "label": "Jmeter",
+    "category": "Development",
+    "rank": 297
+  },
+  {
+    "id": "da6658bb-e245-42e1-bc7f-ea1c431c6b00",
+    "label": "SASS",
+    "category": "Design/UX",
+    "legacyId": 331,
+    "rank": 133
+  },
+  {
+    "id": "de3f42e0-7998-434f-a316-c653d23714a5",
+    "label": "CSS",
+    "category": "Design/UX",
+    "legacyId": 153,
+    "rank": 162
+  },
+  {
+    "id": "58a17b46-e407-4e26-b868-04c0d1353035",
+    "label": "Responsive Web Design",
+    "category": "Design/UX",
+    "legacyId": 322,
+    "rank": 64
+  },
+  {
+    "id": "74fc34b3-6f12-4e93-ab11-32b1c533538f",
+    "label": "iOS",
+    "category": "Development",
+    "legacyId": 406,
+    "rank": 271
+  },
+  {
+    "id": "49ce6999-4b93-4025-8ff7-e924c2cf0020",
+    "label": "Codeigniter",
+    "category": "Development",
+    "legacyId": 147,
+    "rank": 22
+  },
+  {
+    "id": "fda2d305-c545-4c7b-bed8-973733f82609",
+    "label": "Angular 4.0",
+    "category": "Development",
+    "rank": 138
+  },
+  {
+    "id": "0de5cb8b-d217-4133-8483-a3a09db9ab3d",
+    "label": ".NET Framework 4",
+    "category": "Development",
+    "rank": 78
+  },
+  {
+    "id": "704b4fe0-f378-419c-a734-f2f67838766e",
+    "label": "WPF - Windows Presentation Foundation",
+    "category": "Design/UX",
+    "rank": 136
+  },
+  {
+    "id": "b507b87a-12a4-44ed-842f-4120fefb35f7",
+    "label": "JavaScript",
+    "category": "Development",
+    "legacyId": 248,
+    "rank": 257
+  },
+  {
+    "id": "985e6f9e-1bd7-4771-bb8a-c03829bdf606",
+    "label": "DevOps - Continuous Delivery",
+    "category": "Development",
+    "rank": 261
+  },
+  {
+    "id": "9654a230-12be-4cde-b07c-f93ab0b58e27",
+    "label": "Node JS",
+    "category": "Development",
+    "rank": 165
+  },
+  {
+    "id": "4a0fe60a-ab5c-4e61-a4fb-09ff8a074480",
+    "label": "Functionize VAE",
+    "category": "Development",
+    "rank": 100
+  },
+  {
+    "id": "88015711-5ad5-4b53-bc9e-aab9b0c176a1",
+    "label": "Microfocus LoadRunner",
+    "category": "Development",
+    "rank": 32
+  },
+  {
+    "id": "bcb85e49-1264-4001-b32f-09d96afe80f3",
+    "label": "AngularJS for .NET",
+    "category": "Development",
+    "rank": 208
+  },
+  {
+    "id": "7c27be6f-2740-46f6-8e9c-e24cc18a1b99",
+    "label": "Azure Microservices",
+    "category": "Development",
+    "rank": 214
+  },
+  {
+    "id": "829d9fc9-8f1d-4905-8f0b-0fe66f64d41b",
+    "label": "BAQA Digital Assurance",
+    "category": "Development",
+    "rank": 120
+  },
+  {
+    "id": "41ba3f2f-f389-4f6e-9eb0-9d3be3c424f7",
+    "label": "Performance",
+    "category": "Development",
+    "legacyId": 298,
+    "rank": 12
+  },
+  {
+    "id": "05cbc08c-391e-4dc4-845c-2725a120f9d9",
+    "label": "J2ME",
+    "category": "Development",
+    "legacyId": 245,
+    "rank": 124
+  },
+  {
+    "id": "24ba39a5-0b75-41f3-9a33-4f8063fcd828",
+    "label": "3D Reconstruction",
+    "category": "Design/UX",
+    "rank": 146
+  },
+  {
+    "id": "71a8ddf2-5d98-40fd-bd54-e85a56790661",
+    "label": "Windows Workflow Foundation",
+    "category": "Development",
+    "rank": 10
+  },
+  {
+    "id": "2eb3f91e-3f17-4428-95ea-2e866ec16b4d",
+    "label": "Contentful",
+    "category": "Development",
+    "legacyId": 517,
+    "rank": 218
+  },
+  {
+    "id": "7546228b-3d1e-4ef7-abe0-096dab5f1f86",
+    "label": "Ionic Framework",
+    "category": "Development",
+    "legacyId": 243,
+    "rank": 118
+  },
+  {
+    "id": "4cd2b219-72f7-40dd-8bf0-9fbac1976e95",
+    "label": "Log4J",
+    "category": "Development",
+    "rank": 161
+  },
+  {
+    "id": "9d5c2039-fbe6-40db-99b2-512101b97bc7",
+    "label": "BizTalk",
+    "category": "Development",
+    "rank": 170
+  },
+  {
+    "id": "3e3a664e-3030-492d-85d5-24c2dff3ded9",
+    "label": "Aprimo ADAM - Digital Asset Management",
+    "category": "Development",
+    "rank": 234
+  },
+  {
+    "id": "1e72645b-44cd-49a3-bba2-01139cb26a20",
+    "label": "Sencha Touch 2",
+    "category": "Design/UX",
+    "legacyId": 336,
+    "rank": 31
+  },
+  {
+    "id": "6d8fd064-4f90-4cad-a61c-14634c298a99",
+    "label": "ASP.NET MVC 5",
+    "category": "Development",
+    "rank": 115
+  },
+  {
+    "id": "eed1ac85-b0b2-4894-ae0f-b343e998e6c6",
+    "label": "Less",
+    "category": "Design/UX",
+    "legacyId": 265,
+    "rank": 234
+  },
+  {
+    "id": "46d38a3a-047f-4095-bfb7-15317a32604f",
+    "label": "Marvel - Design",
+    "category": "Design/UX",
+    "rank": 239
+  },
+  {
+    "id": "533e3edf-7165-4240-bf94-af784e2d91cc",
+    "label": "Azure IOT",
+    "category": "Development",
+    "rank": 251
+  },
+  {
+    "id": "ceb0e91b-3faf-42b6-bffb-9062f5104d38",
+    "label": "Office 365 - Planner",
+    "category": "Development",
+    "rank": 115
+  },
+  {
+    "id": "ab8e89f7-3fb6-48de-9a29-a1fde498ecfa",
+    "label": "UWP - Universal Windows Platform",
+    "category": "Development",
+    "rank": 106
+  },
+  {
+    "id": "ca7dde3f-7a9f-484a-87b0-f09062c71190",
+    "label": "Swing",
+    "category": "Development",
+    "legacyId": 365,
+    "rank": 136
+  },
+  {
+    "id": "52a8b646-48aa-4690-b784-031b5c8725a4",
+    "label": "Validation",
+    "category": "Development",
+    "legacyId": 378,
+    "rank": 46
+  },
+  {
+    "id": "13dda8dc-4c34-4751-bbab-aab76d757cbb",
+    "label": "JavaBean",
+    "category": "Development",
+    "rank": 198
+  },
+  {
+    "id": "05c9f19a-1657-41c4-9d26-16540163d4c4",
+    "label": "Office 365 - Exchange Online - Consulting",
+    "category": "Development",
+    "rank": 94
+  },
+  {
+    "id": "44100655-5b11-4a24-b561-3e8162fefb6d",
+    "label": "Apple HIG",
+    "category": "Design/UX",
+    "legacyId": 119,
+    "rank": 193
+  },
+  {
+    "id": "c59f2ca1-3ed1-4cea-bcd7-fad2da846c13",
+    "label": "Gatling",
+    "category": "Development",
+    "rank": 203
+  },
+  {
+    "id": "f566b3cc-8d6f-4cce-883e-1080c78cff0e",
+    "label": "Q & Bluebird",
+    "category": "Development",
+    "legacyId": 312,
+    "rank": 12
+  },
+  {
+    "id": "e3bec1cc-b7a8-4961-ae01-cd8f4bff24e8",
+    "label": "Materials Testing (TESTS)",
+    "category": "Development",
+    "rank": 106
+  },
+  {
+    "id": "a9d02c01-f364-4449-bf9d-cce7e5bbd66b",
+    "label": "Source Codes",
+    "category": "Development",
+    "rank": 275
+  },
+  {
+    "id": "a8d23f24-ef6a-4b87-8fe4-a5c25d2223d7",
+    "label": "Beanstalk",
+    "category": "Development",
+    "rank": 101
+  },
+  {
+    "id": "fcb167d2-1a2e-4dbc-beec-2284c3c674b7",
+    "label": "Apache Flume",
+    "category": "Data Science",
+    "legacyId": 114,
+    "rank": 13
+  },
+  {
+    "id": "114b4ec8-805e-4c60-b351-14a955a991a9",
+    "label": "IBM Design",
+    "category": "Design/UX",
+    "legacyId": 220,
+    "rank": 100
+  },
+  {
+    "id": "9f1b7328-e66c-4bf4-b3e1-6a3699c8ba5c",
+    "label": "Azure API Apps",
+    "category": "Design/UX",
+    "rank": 147
+  },
+  {
+    "id": "fbf60554-7f34-4097-a006-3d1b5b61cafd",
+    "label": "jetbrains",
+    "category": "Development",
+    "legacyId": 423,
+    "rank": 77
+  },
+  {
+    "id": "67404a63-08a9-4a7c-9e9b-5141aeaab0d9",
+    "label": "Struts",
+    "category": "Development",
+    "legacyId": 362,
+    "rank": 189
+  },
+  {
+    "id": "d67f260c-df08-47dd-b386-60e9de4470b2",
+    "label": "Spring",
+    "category": "Development",
+    "legacyId": 354,
+    "rank": 233
+  },
+  {
+    "id": "06070328-c68a-4051-8780-4c90f9a99810",
+    "label": "Lightning",
+    "category": "Development",
+    "legacyId": 266,
+    "rank": 38
+  },
+  {
+    "id": "9b71dc0f-0c20-4dd5-b158-9d232a0dd3f3",
+    "label": "Security",
+    "category": "Development",
+    "legacyId": 335,
+    "rank": 97
+  },
+  {
+    "id": "b5c7a88b-53b6-4af7-b0cc-ad6ac6f23d6c",
+    "label": "Excel Services",
+    "category": "Data Science",
+    "rank": 27
+  },
+  {
+    "id": "7da80f57-1e27-48c2-a6da-ddc6591b4f92",
+    "label": "FullStack SDET",
+    "category": "Development",
+    "rank": 7
+  },
+  {
+    "id": "a158feae-0245-42f2-99b4-37220bb4737a",
+    "label": "Java",
+    "category": "Development",
+    "legacyId": 247,
+    "rank": 184
+  },
+  {
+    "id": "afc39636-f7d7-4349-aef5-f9a76cc9e155",
+    "label": "AngularJS",
+    "category": "Development",
+    "legacyId": 110,
+    "rank": 217
+  },
+  {
+    "id": "943dc6e3-2d43-4f44-9e10-0af19d6cdfb9",
+    "label": "JMeter",
+    "category": "Development",
+    "legacyId": 451,
+    "rank": 23
+  },
+  {
+    "id": "516354ad-0f71-4281-8516-d617557b0367",
+    "label": "ubuntu",
+    "category": "Development",
+    "legacyId": 412,
+    "rank": 237
+  },
+  {
+    "id": "77361680-a992-4c33-85b1-2e6cae02bfcb",
+    "label": "Search",
+    "category": "Development",
+    "legacyId": 334,
+    "rank": 213
+  },
+  {
+    "id": "28ab47c6-0cac-405b-8871-ed5a1c2f7587",
+    "label": ".NET Design Patterns",
+    "category": "Development",
+    "rank": 32
+  },
+  {
+    "id": "56ae7089-5f61-4fc3-ab14-4634b6a3babf",
+    "label": "Mainframe Testing",
+    "category": "Development",
+    "rank": 143
+  },
+  {
+    "id": "b4e1d1d2-794f-486d-8629-b9d7f26af5c6",
+    "label": "AWS Lambda",
+    "category": "Development",
+    "legacyId": 485,
+    "rank": 239
+  },
+  {
+    "id": "f6ba3aec-ab5c-4e66-80c4-443a1e22001d",
+    "label": "JDBC",
+    "category": "Development",
+    "legacyId": 250,
+    "rank": 214
+  },
+  {
+    "id": "f8ce395f-6b0f-46e5-a25c-92bdfcf6a313",
+    "label": "Git",
+    "category": "Development",
+    "legacyId": 191,
+    "rank": 48
+  },
+  {
+    "id": "943b5dd8-a55a-4d81-b161-fb158f89c39b",
+    "label": "Graphic Design",
+    "category": "Design/UX",
+    "legacyId": 201,
+    "rank": 120
+  },
+  {
+    "id": "3256b978-c951-4bdc-9032-b4646ca5753a",
+    "label": "Node.js",
+    "category": "Development",
+    "legacyId": 286,
+    "rank": 161
+  },
+  {
+    "id": "8bf4addb-a513-4197-b1bb-b52e4b1d3f61",
+    "label": "C",
+    "category": "Development",
+    "legacyId": 131,
+    "rank": 214
+  },
+  {
+    "id": "aeae62d0-da9f-4d9a-a940-daa031c7ad71",
+    "label": "Branding",
+    "category": "Development",
+    "legacyId": 129,
+    "rank": 80
+  },
+  {
+    "id": "5519a45c-cf4d-43ae-b2f7-6cdfc5a21aea",
+    "label": "Oracle",
+    "category": "Development",
+    "legacyId": 294,
+    "rank": 45
+  },
+  {
+    "id": "5ff4625c-ae57-4e45-9a57-d31b1c607576",
+    "label": "CSS3",
+    "category": "Design/UX",
+    "legacyId": 154,
+    "rank": 121
+  },
+  {
+    "id": "a9c040eb-7d48-4582-8870-981946793372",
+    "label": "Actian Data",
+    "category": "Development",
+    "rank": 138
+  },
+  {
+    "id": "b2e2c092-34a9-4bf9-b27d-66884fb2acb7",
+    "label": "FullStack Microsoft .NET Smart Web App",
+    "category": "Development",
+    "rank": 188
+  },
+  {
+    "id": "1dd8fe58-e044-4e1b-b3a9-6f4b58c7225a",
+    "label": "Maven",
+    "category": "Development",
+    "legacyId": 276,
+    "rank": 122
+  },
+  {
+    "id": "b5bf0034-0aad-4543-8860-962932bcd3b3",
+    "label": "SQL",
+    "category": "Data Science",
+    "legacyId": 355,
+    "rank": 106
+  },
+  {
+    "id": "03b8362c-5284-44c8-912b-08c7c3cb8f91",
+    "label": "Integrated Cloud Assurance",
+    "category": "Development",
+    "rank": 97
+  },
+  {
+    "id": "ccaebe9a-f315-4495-b9a3-1eefec19e355",
+    "label": "Microsoft Power Platform for Dynamics 365",
+    "category": "Development",
+    "rank": 219
+  },
+  {
+    "id": "b37a48db-f775-4e4e-b403-8ad1d234cdea",
+    "label": "Print",
+    "category": "Development",
+    "legacyId": 308,
+    "rank": 67
+  },
+  {
+    "id": "536865d3-e7c7-4675-b119-6df8bf411624",
+    "label": "NGINX",
+    "category": "Development",
+    "legacyId": 415,
+    "rank": 203
+  },
+  {
+    "id": "f02742d3-ab01-419c-ac35-181776c480f0",
+    "label": "IBM Rational Data Architect",
+    "category": "Data Science",
+    "legacyId": 225,
+    "rank": 198
+  },
+  {
+    "id": "59f66a1e-3b2c-41b0-9eb6-83ce5d115a8c",
+    "label": "MSCRM Functional",
+    "category": "Data Science",
+    "rank": 66
+  },
+  {
+    "id": "baeaeac3-8f31-455f-ace9-db8d98977154",
+    "label": "Regex",
+    "category": "Development",
+    "legacyId": 318,
+    "rank": 77
+  },
+  {
+    "id": "6388a632-c3ad-4525-9a73-66a527c03672",
+    "label": "Gitlab",
+    "category": "Development",
+    "legacyId": 193,
+    "rank": 242
+  },
+  {
+    "id": "b88b6f01-de51-4897-a001-ccc865e974e7",
+    "label": "Microservice Assurance",
+    "category": "Development",
+    "rank": 161
+  },
+  {
+    "id": "0df5fa8f-1445-461e-b48c-38b1d4a81fcd",
+    "label": "IBM REXX",
+    "category": "Development",
+    "legacyId": 228,
+    "rank": 214
+  },
+  {
+    "id": "b0d6a9f5-572b-45db-9238-8129be12c75d",
+    "label": "Android",
+    "category": "Development",
+    "legacyId": 109,
+    "rank": 263
+  },
+  {
+    "id": "79dd3f23-f45c-4d2d-a97c-4b5924ef17b7",
+    "label": "Microsoft Dynamics 365 for Operations - Finance",
+    "category": "Development",
+    "rank": 36
+  },
+  {
+    "id": "f7ffed20-282b-4520-9260-f720522ea18a",
+    "label": "Lean Functional Testing",
+    "category": "Development",
+    "rank": 153
+  },
+  {
+    "id": "9d2f1b27-d65b-4f9d-ab15-111a81f9671d",
+    "label": "Microsoft Dynamics AX 2012 - Finance",
+    "category": "Development",
+    "rank": 239
+  },
+  {
+    "id": "a80e050c-d6bd-42bb-bbbb-5444ba802235",
+    "label": "trello",
+    "category": "Development",
+    "legacyId": 411,
+    "rank": 221
+  },
+  {
+    "id": "7694c047-7eab-4da5-8bf3-c2cc2b1b15c0",
+    "label": "Visual-Studio",
+    "category": "Development",
+    "legacyId": 384,
+    "rank": 259
+  },
+  {
+    "id": "4fce6ced-3610-443c-92eb-3f6d76b34f5c",
+    "label": ".NET",
+    "category": "Development",
+    "legacyId": 100,
+    "rank": 142
+  },
+  {
+    "id": "8456002e-fa2d-44f0-b0e7-86b1c02b6e4c",
+    "label": "Mobile Design",
+    "category": "Design/UX",
+    "legacyId": 280,
+    "rank": 13
+  },
+  {
+    "id": "5c25dc89-720f-4c7e-81d7-518e6f21ab1f",
+    "label": "Microfocus QTP - UFT Automation Testing",
+    "category": "Development",
+    "rank": 236
+  },
+  {
+    "id": "d24c0de0-b380-43bc-926a-142969d749da",
+    "label": "Apache Derby",
+    "category": "Development",
+    "legacyId": 113,
+    "rank": 159
+  },
+  {
+    "id": "b9816daa-09d5-455e-adc1-7f02b3cabb85",
+    "label": "TIBCO",
+    "category": "Development",
+    "rank": 93
+  },
+  {
+    "id": "32db70f8-5b6b-490d-90b7-fa694bb4915b",
+    "label": "AJAX",
+    "category": "Development",
+    "rank": 61
+  },
+  {
+    "id": "b6a0b9bb-fbcb-48b1-a29f-eb774bf51399",
+    "label": "Microsoft Dynamics AX 2012 - Trade and Logistics",
+    "category": "Development",
+    "rank": 278
+  },
+  {
+    "id": "ceeb1635-9f0f-48a5-ad8a-0a1225cb14bf",
+    "label": "Project Management-BAS-QET",
+    "category": "Development",
+    "rank": 23
+  },
+  {
+    "id": "b6954fe6-b6da-4f2b-851e-617230120d46",
+    "label": "Visualforce",
+    "category": "Development",
+    "legacyId": 385,
+    "rank": 220
+  },
+  {
+    "id": "f9ffb019-c90a-4b5f-b257-b68e23b52e97",
+    "label": "IBM Integration Bus",
+    "category": "Development",
+    "rank": 189
+  },
+  {
+    "id": "0396b4a3-1cd4-411c-b9d1-5d7b3e649856",
+    "label": "IBM master data management Testing",
+    "category": "Data Science",
+    "rank": 105
+  },
+  {
+    "id": "7a359e66-82bd-429c-8f95-8913bf00e67b",
+    "label": "Force.Com Sites",
+    "category": "Development",
+    "legacyId": 186,
+    "rank": 44
+  },
+  {
+    "id": "be53f9cd-4606-4472-b664-32c343ccde3e",
+    "label": "Mobile Native Application Testing",
+    "category": "Development",
+    "rank": 114
+  },
+  {
+    "id": "7518fb2e-bbd3-445c-aee2-eb248d210de0",
+    "label": "Hyperledger",
+    "category": "Development",
+    "rank": 238
+  },
+  {
+    "id": "24c8c2c3-c743-42e5-bc23-ba07eeb32127",
+    "label": "Jenkins",
+    "category": "Development",
+    "legacyId": 505,
+    "rank": 183
+  },
+  {
+    "id": "f3d62752-d7dc-4ca0-8614-b56789887702",
+    "label": "LUIS - Microsoft Cognitive Service",
+    "category": "Development",
+    "rank": 75
+  },
+  {
+    "id": "752d764d-2f20-4d97-acb0-4347a0befb8c",
+    "label": "FullStack Microsoft-Cloud Azure",
+    "category": "Development",
+    "rank": 281
+  },
+  {
+    "id": "a77c40b0-b552-48d0-9af2-089d529c40c7",
+    "label": "DevOps for Dynamics 365",
+    "category": "Development",
+    "rank": 238
+  },
+  {
+    "id": "f78a1199-df48-434f-bacf-cd905c65b11f",
+    "label": "Jekyll",
+    "category": "Development",
+    "legacyId": 251,
+    "rank": 13
+  },
+  {
+    "id": "4848db22-5c5e-4b1f-be6f-392e71a5464c",
+    "label": "Azure Web Apps",
+    "category": "Development",
+    "rank": 60
+  },
+  {
+    "id": "9f958101-be25-43be-b91d-ea233b4c8714",
+    "label": "Cocoa",
+    "category": "Development",
+    "legacyId": 146,
+    "rank": 295
+  },
+  {
+    "id": "e19fa6f1-aca2-46f8-89c7-3f4ed7758e6d",
+    "label": "Windows Server",
+    "category": "Development",
+    "legacyId": 392,
+    "rank": 149
+  },
+  {
+    "id": "9e3ed332-371c-4b65-8d65-1d75bd60f5a7",
+    "label": "Use Case Diagrams (TcUML)",
+    "category": "Development",
+    "legacyId": 374,
+    "rank": 45
+  },
+  {
+    "id": "f7b55177-6569-4714-9d48-a922c7e079dc",
+    "label": "Sharepoint Admin",
+    "category": "Design/UX",
+    "rank": 9
+  },
+  {
+    "id": "912a82e0-1be7-44c7-93c6-70f62882633b",
+    "label": "ML.NET",
+    "category": "Development",
+    "rank": 152
+  },
+  {
+    "id": "afd86b54-db00-4218-a6be-5b7af155c091",
+    "label": "Usability Testing",
+    "category": "Development",
+    "legacyId": 500,
+    "rank": 219
+  },
+  {
+    "id": "dfec13c5-1b19-472c-bf70-5dafd9b33277",
+    "label": "Integrator",
+    "category": "Development",
+    "rank": 1
+  },
+  {
+    "id": "04eae2c4-efcb-4fc7-b7b4-6c386ded97ce",
+    "label": "DevOps",
+    "category": "Development",
+    "rank": 277
+  },
+  {
+    "id": "496cc797-028d-4879-b653-e41cd2293b40",
+    "label": "Advanced Math",
+    "category": "Data Science",
+    "legacyId": 105,
+    "rank": 9
+  },
+  {
+    "id": "bf79fe41-a692-40bc-b806-0235afaddbc3",
+    "label": "File",
+    "category": "Development",
+    "legacyId": 180,
+    "rank": 215
+  },
+  {
+    "id": "da3df830-b880-49a5-96d8-e7443864a1c9",
+    "label": "SCSS",
+    "category": "Design/UX",
+    "legacyId": 333,
+    "rank": 261
+  },
+  {
+    "id": "8a749730-0e82-4b71-a2f7-76935767f2ac",
+    "label": "Mobile",
+    "category": "Development",
+    "rank": 189
+  },
+  {
+    "id": "5a32d088-7c6a-4cd5-9a35-4e2b2091315a",
+    "label": "Dc.js",
+    "category": "Data Science",
+    "legacyId": 161,
+    "rank": 153
+  },
+  {
+    "id": "c52eb42d-8be5-498a-81a4-30e6bdaac8f7",
+    "label": "Ibatis/Mybatis",
+    "category": "Data Science",
+    "legacyId": 215,
+    "rank": 83
+  },
+  {
+    "id": "e5136b15-febd-4d41-a26d-520f338ec417",
+    "label": "Angular 5 MS",
+    "category": "Development",
+    "rank": 232
+  },
+  {
+    "id": "e7998686-8fd8-4d78-bf5e-a1641839bacc",
+    "label": "ASP.NET",
+    "category": "Development",
+    "legacyId": 121,
+    "rank": 94
+  },
+  {
+    "id": "98eb246f-03ec-4bf4-b247-fc90c6757d84",
+    "label": "Phonegap",
+    "category": "Development",
+    "legacyId": 301,
+    "rank": 33
+  },
+  {
+    "id": "99c02a26-15b3-4e3e-92a0-28b9d27647a1",
+    "label": "Artifical Intelligence Testing",
+    "category": "Development",
+    "rank": 202
+  },
+  {
+    "id": "2eddd829-e98c-49ec-998f-c38c15aa3d22",
+    "label": "Hadoop",
+    "category": "Data Science",
+    "legacyId": 207,
+    "rank": 202
+  },
+  {
+    "id": "9ef7f008-d2d0-4427-88dc-bd0bc4be3b2e",
+    "label": "Twilio",
+    "category": "Development",
+    "rank": 159
+  },
+  {
+    "id": "c8a86826-6f19-41c7-8f0c-8063b2c0ea95",
+    "label": "IT Environment Management",
+    "category": "Development",
+    "rank": 188
+  },
+  {
+    "id": "2f3f0420-b219-4b57-af20-6205a1f76dd5",
+    "label": "Talend",
+    "category": "Data Science",
+    "rank": 236
+  },
+  {
+    "id": "664f49ac-f3b9-473c-a8d0-1acd908c227a",
+    "label": "String",
+    "category": "Development",
+    "legacyId": 359,
+    "rank": 212
+  },
+  {
+    "id": "14ef0f89-f379-458a-80ad-15024f3092a7",
+    "label": "InfoPath",
+    "category": "Data Science",
+    "rank": 295
+  },
+  {
+    "id": "5424502f-27ea-4d54-a8d3-7686b2d45c88",
+    "label": "Postman",
+    "category": "Development",
+    "legacyId": 507,
+    "rank": 19
+  },
+  {
+    "id": "402c4d54-268d-4f63-bdb2-16d9828be660",
+    "label": "Twitter Bootstrap",
+    "category": "Design/UX",
+    "legacyId": 369,
+    "rank": 227
+  },
+  {
+    "id": "5a00fbeb-ca9e-4ad4-bcb5-27a2b02155b7",
+    "label": "J2EE",
+    "category": "Development",
+    "legacyId": 244,
+    "rank": 94
+  },
+  {
+    "id": "c1ee23eb-8007-4d30-b211-34d6aa75c5a1",
+    "label": "Json.NET-JavaScript Object Notation for .Net",
+    "category": "Development",
+    "rank": 269
+  },
+  {
+    "id": "2e37408d-8cb2-4f5e-b02f-8f7c36198dab",
+    "label": "Neo4J",
+    "category": "Data Science",
+    "legacyId": 285,
+    "rank": 123
+  },
+  {
+    "id": "71f5657d-c83b-4497-98d1-fed76b37b3f9",
+    "label": "SharePoint Migration",
+    "category": "Development",
+    "rank": 45
+  },
+  {
+    "id": "18afea31-527f-4bad-bb92-b924dbbb8a8d",
+    "label": "Easy Automate Selenium",
+    "category": "Development",
+    "rank": 15
+  },
+  {
+    "id": "566bd0e3-a220-4ff5-a9d7-ee0ea6caf182",
+    "label": "IBM Cloud Private",
+    "category": "Development",
+    "rank": 152
+  },
+  {
+    "id": "b63463a7-ffa0-408c-bb39-4b4782171fdd",
+    "label": "Applet",
+    "category": "Development",
+    "legacyId": 120,
+    "rank": 56
+  },
+  {
+    "id": "2a693ded-78a4-4df3-9edc-8b8b772dd5b7",
+    "label": "Azure Logic Apps",
+    "category": "Development",
+    "rank": 204
+  },
+  {
+    "id": "aa5e202e-2bc4-4e55-93b6-fae17084c72c",
+    "label": "Gradle",
+    "category": "Development",
+    "legacyId": 199,
+    "rank": 77
+  },
+  {
+    "id": "6056ca61-276f-4d0f-bfe9-1021f0ec80f7",
+    "label": ".NET Enterprise Library",
+    "category": "Development",
+    "rank": 135
+  },
+  {
+    "id": "2674df6d-4830-4803-8d0c-c7b9c19d70dc",
+    "label": "WF - Windows Workflow Foundation",
+    "category": "Development",
+    "rank": 191
+  },
+  {
+    "id": "28e9d14d-43f2-4069-a1ac-61edca5b4a95",
+    "label": "Tableau",
+    "category": "Data Science",
+    "rank": 21
+  },
+  {
+    "id": "390dbc82-f279-4884-a88f-6e7f42a767a1",
+    "label": "QC - ALM Admin",
+    "category": "Development",
+    "rank": 205
+  },
+  {
+    "id": "1a38e8cc-ae3b-46db-8031-f53b0695be3c",
+    "label": "Responsive Design",
+    "category": "Design/UX",
+    "legacyId": 321,
+    "rank": 95
+  },
+  {
+    "id": "dad59a6f-47c7-4c0b-a1e5-fa2286a5fac0",
+    "label": "XML",
+    "category": "Development",
+    "legacyId": 401,
+    "rank": 182
+  },
+  {
+    "id": "b999dda8-59ec-4442-afde-0acbd9b0fc67",
+    "label": "vim",
+    "category": "Development",
+    "legacyId": 413,
+    "rank": 134
+  },
+  {
+    "id": "88874c8e-ba09-434a-b257-dcb78b2dba9b",
+    "label": "Node.Js",
+    "category": "Development",
+    "rank": 157
+  },
+  {
+    "id": "f6202bbd-c8a7-49fa-bbb6-05533285d2e8",
+    "label": "BI Automated Testing",
+    "category": "Development",
+    "rank": 202
+  },
+  {
+    "id": "4ac2af9f-a198-471f-af8b-1565d3840540",
+    "label": "Predix",
+    "category": "Development",
+    "rank": 270
+  },
+  {
+    "id": "62762bb1-c86d-4042-8a20-6149b68f26c0",
+    "label": "IBM Lotus Domino",
+    "category": "Development",
+    "legacyId": 221,
+    "rank": 147
+  },
+  {
+    "id": "41820044-ab46-4f77-baba-cbbc1aeeede9",
+    "label": "S3",
+    "category": "Development",
+    "legacyId": 327,
+    "rank": 270
+  },
+  {
+    "id": "740893d2-9b1c-4c3a-b2f2-5ac84a68a4cb",
+    "label": "Cloud-Microsoft Azure DevOps",
+    "category": "Development",
+    "rank": 193
+  },
+  {
+    "id": "52a934d5-6483-44e0-adb7-dadb2aff14de",
+    "label": "JPA",
+    "category": "Development",
+    "legacyId": 254,
+    "rank": 169
+  },
+  {
+    "id": "22527221-b1d7-433a-ac44-80106bc0b64e",
+    "label": "Conversational AI",
+    "category": "Development",
+    "rank": 28
+  },
+  {
+    "id": "8aede2cf-4d11-483e-b1c5-bbfb7d658bc1",
+    "label": "Apache Kafka",
+    "category": "Data Science",
+    "legacyId": 115,
+    "rank": 113
+  },
+  {
+    "id": "8be61979-9375-4629-b383-ab6fba6c8ef1",
+    "label": "Cloud Testing",
+    "category": "Development",
+    "rank": 46
+  },
+  {
+    "id": "63189fe0-94a9-4e2e-90f3-ef764e6a005b",
+    "label": "Unit-Testing",
+    "category": "Development",
+    "legacyId": 373,
+    "rank": 113
+  },
+  {
+    "id": "6426464f-37e3-434d-a71f-a45a3d69e0c7",
+    "label": "SharePoint 2013",
+    "category": "Development",
+    "rank": 276
+  },
+  {
+    "id": "6eb3e298-a668-4de9-8a70-b516738799ad",
+    "label": "Brute Force",
+    "category": "Design/UX",
+    "legacyId": 130,
+    "rank": 114
+  },
+  {
+    "id": "4f7176e6-9d4e-497e-8162-79e1b97dd7ee",
+    "label": "Informatica master data management Testing",
+    "category": "Data Science",
+    "rank": 226
+  },
+  {
+    "id": "b2c1a3fc-ce42-462f-bce7-f00cb3964b66",
+    "label": "Azure DevOps Server",
+    "category": "Development",
+    "rank": 65
+  },
+  {
+    "id": "fcc08a5d-af21-4544-bd3c-86eae04cfb18",
+    "label": "Salesforce",
+    "category": "Development",
+    "legacyId": 328,
+    "rank": 218
+  },
+  {
+    "id": "9ae7ec4f-1248-400e-bb00-6f729f894aa2",
+    "label": "Concept Design",
+    "category": "Design/UX",
+    "legacyId": 151,
+    "rank": 223
+  },
+  {
+    "id": "822f6e32-49c2-4f58-8347-95875d2daea5",
+    "label": "Gaming",
+    "category": "Development",
+    "rank": 291
+  },
+  {
+    "id": "807b146d-96bc-42f8-bcdb-0c56a3f5837c",
+    "label": "IBM Websphere Application Server",
+    "category": "Development",
+    "legacyId": 229,
+    "rank": 142
+  },
+  {
+    "id": "c71d2d23-cb87-41fc-99ca-c694f4a37f27",
+    "label": "IBM WebSphere Portal",
+    "category": "Development",
+    "legacyId": 233,
+    "rank": 8
+  },
+  {
+    "id": "840678a7-9a17-4cb2-a23e-7210d67f6a0c",
+    "label": "IBM Rational Team Concert",
+    "category": "Development",
+    "legacyId": 227,
+    "rank": 256
+  },
+  {
+    "id": "7c0f87bc-1f68-40b4-ab7c-eeab999a3a14",
+    "label": "Azure Kubernetes Services",
+    "category": "Development",
+    "rank": 12
+  },
+  {
+    "id": "fe605776-b958-4bbe-897a-06c2a6c82405",
+    "label": "OmniGraffle",
+    "category": "Design/UX",
+    "legacyId": 407,
+    "rank": 157
+  },
+  {
+    "id": "dd4276ae-7c0e-441c-a57b-4f06e87372f3",
+    "label": "Bash",
+    "category": "Development",
+    "legacyId": 125,
+    "rank": 224
+  },
+  {
+    "id": "24774306-b70b-43b3-9d85-b9024dd6c218",
+    "label": "Dynamodb",
+    "category": "Data Science",
+    "legacyId": 484,
+    "rank": 145
+  },
+  {
+    "id": "9f2d9127-6a2e-4506-ad76-c4ab63577b09",
+    "label": "IndexedDB",
+    "category": "Data Science",
+    "legacyId": 238,
+    "rank": 195
+  },
+  {
+    "id": "336a0b1c-1ce1-4d30-a9c6-e78428f31ab7",
+    "label": "Informatica ILM TDM",
+    "category": "Data Science",
+    "rank": 263
+  },
+  {
+    "id": "d8deeea4-f654-4814-a628-cb931b1c4f36",
+    "label": "Mainframe",
+    "category": "Development",
+    "rank": 87
+  },
+  {
+    "id": "490b59cb-e33f-46ae-b9fb-0f792c09916d",
+    "label": "UITableView",
+    "category": "Design/UX",
+    "legacyId": 371,
+    "rank": 188
+  },
+  {
+    "id": "aba96dc5-4753-4f0b-a3eb-7ae1923534b2",
+    "label": "JSF",
+    "category": "Development",
+    "legacyId": 258,
+    "rank": 115
+  },
+  {
+    "id": "21d1ac04-69d5-4ae8-81a1-d3223f6c4f39",
+    "label": "Application Programming Interface (API)",
+    "category": "Development",
+    "rank": 14
+  },
+  {
+    "id": "06151d6a-c414-4096-8d31-ec3f3916d592",
+    "label": "Createjs",
+    "category": "Development",
+    "rank": 14
+  },
+  {
+    "id": "66fd727b-0f91-4899-87cb-b15c412e55ea",
+    "label": "Scheduling",
+    "category": "Development",
+    "rank": 253
+  },
+  {
+    "id": "f52904ed-013f-49ba-b193-6498b14ce09a",
+    "label": "Webhooks",
+    "category": "Development",
+    "rank": 254
+  },
+  {
+    "id": "6951737f-8ffe-45b5-bc91-359b32205f39",
+    "label": "Web scraping",
+    "category": "Development",
+    "legacyId": 520,
+    "rank": 205
+  },
+  {
+    "id": "bf2c7dec-4dd4-43d5-a8c1-10816927e11f",
+    "label": "tvOS",
+    "category": "Development",
+    "rank": 5
+  },
+  {
+    "id": "19e11487-822c-4026-93e6-fa5eebdee296",
+    "label": "Test Deployment Management",
+    "category": "Development",
+    "rank": 143
+  },
+  {
+    "id": "08b10e29-5b5d-451e-8d1a-f371820e223d",
+    "label": "Rapid Test Design",
+    "category": "Development",
+    "rank": 98
+  },
+  {
+    "id": "2cba7456-f479-4b98-bf9a-95a6b53cde4e",
+    "label": "Data Centric testing",
+    "category": "Development",
+    "rank": 239
+  },
+  {
+    "id": "bb4b0bed-35b2-4be7-b4df-1fe98508329f",
+    "label": "COM",
+    "category": "Development",
+    "legacyId": 149,
+    "rank": 112
+  },
+  {
+    "id": "5b35de13-c07d-4999-bf47-db65d249a679",
+    "label": "Algorithm",
+    "category": "Development",
+    "legacyId": 108,
+    "rank": 286
+  },
+  {
+    "id": "bf7a2621-c3b2-4684-9328-3f3a2d59c504",
+    "label": "JMS",
+    "category": "Development",
+    "legacyId": 253,
+    "rank": 199
+  },
+  {
+    "id": "6d96bfa8-c30d-4a13-b183-8c2c456cf84d",
+    "label": "PIVOTAL CLOUD FOUNDRY",
+    "category": "Development",
+    "rank": 270
+  },
+  {
+    "id": "b3637407-3eee-408a-a080-e11d45cc9dd1",
+    "label": "User Experience (Ux)",
+    "category": "Design/UX",
+    "legacyId": 375,
+    "rank": 31
+  },
+  {
+    "id": "96ac7d50-94dc-4567-bb8a-55325a66a518",
+    "label": "Winforms Controls",
+    "category": "Development",
+    "legacyId": 394,
+    "rank": 178
+  },
+  {
+    "id": "ff9f1540-30aa-438b-930c-73cf23800c0a",
+    "label": "Umbraco CMS - Content Management System",
+    "category": "Development",
+    "rank": 244
+  },
+  {
+    "id": "b3e5180e-a44f-4cd8-86de-17a4505b5d35",
+    "label": "NodeJS for .NET",
+    "category": "Development",
+    "rank": 129
+  },
+  {
+    "id": "50e3044e-5535-4954-a21f-673873f8e321",
+    "label": "CA Application Performance Management",
+    "category": "Development",
+    "rank": 54
+  },
+  {
+    "id": "6c61aa69-693f-481d-b70a-f0d1b32b9ee3",
+    "label": "Visual Basic-VB",
+    "category": "Development",
+    "rank": 26
+  },
+  {
+    "id": "67ec20b3-6e64-4bc7-82d6-9440744988d9",
+    "label": "Cassandra",
+    "category": "Data Science",
+    "legacyId": 136,
+    "rank": 154
+  },
+  {
+    "id": "06775db8-e4f6-41a4-a86a-77f636bc85b0",
+    "label": "PEGA Testing",
+    "category": "Development",
+    "rank": 204
+  },
+  {
+    "id": "8e7338d1-3eee-4477-9279-0a174d4c0479",
+    "label": "SQL Server",
+    "category": "Data Science",
+    "legacyId": 356,
+    "rank": 134
+  },
+  {
+    "id": "f8689997-5a05-4ea3-ac5c-2ea16dd40ea5",
+    "label": "Product Design",
+    "category": "Design/UX",
+    "legacyId": 309,
+    "rank": 93
+  },
+  {
+    "id": "55a8e908-b28f-4c1f-9201-abe0e64bbf76",
+    "label": "Couchbase",
+    "category": "Data Science",
+    "legacyId": 152,
+    "rank": 38
+  },
+  {
+    "id": "94572afb-e575-4d00-9988-8cd4ef475cf8",
+    "label": "MESH01",
+    "category": "Development",
+    "rank": 1
+  },
+  {
+    "id": "900ca389-a567-489c-bdd2-9b38318bc204",
+    "label": "Class",
+    "category": "Development",
+    "legacyId": 140,
+    "rank": 75
+  },
+  {
+    "id": "2b59600e-2c97-4db0-88a5-f42b2db50b12",
+    "label": "Vuejs",
+    "category": "Development",
+    "legacyId": 489,
+    "rank": 247
+  },
+  {
+    "id": "56f46882-26f3-4c39-966d-912cccea0119",
+    "label": "Machine Learning",
+    "category": "Development",
+    "legacyId": 272,
+    "rank": 169
+  },
+  {
+    "id": "d0c208f1-80b9-4d81-84eb-7085568b1636",
+    "label": "TypeScript",
+    "category": "Development",
+    "legacyId": 370,
+    "rank": 110
+  },
+  {
+    "id": "341f18e2-12de-4e72-a0aa-c37d4ddf37cc",
+    "label": "Kotlin",
+    "category": "Development",
+    "rank": 248
+  },
+  {
+    "id": "f4c640e7-eb26-4d46-9949-61131419263c",
+    "label": "Application Testing",
+    "category": "Development",
+    "rank": 213
+  },
+  {
+    "id": "cc8a1a02-c643-416a-9c41-bd738d244684",
+    "label": "Performance Engineering for Big Data Analytics",
+    "category": "Data Science",
+    "rank": 90
+  },
+  {
+    "id": "763150c0-1fc2-4b15-b530-0d8bd99c642e",
+    "label": "Image",
+    "category": "Design/UX",
+    "legacyId": 237,
+    "rank": 194
+  },
+  {
+    "id": "154cf657-6f98-4b74-9bdc-ce72c6540f34",
+    "label": "TeamCity",
+    "category": "Development",
+    "rank": 72
+  },
+  {
+    "id": "68b021e6-17fd-44a0-a746-04cbfe8e06df",
+    "label": "Biztalk - Architecting",
+    "category": "Development",
+    "rank": 182
+  },
+  {
+    "id": "904e703b-878c-4770-a5d6-5eb249f24c2b",
+    "label": "Box",
+    "category": "Development",
+    "rank": 14
+  },
+  {
+    "id": "c03193e3-8c21-4395-a8d4-8c55784e35eb",
+    "label": "Microsoft PowerApps",
+    "category": "Development",
+    "rank": 133
+  },
+  {
+    "id": "00975b04-a249-4c90-9ae1-eb98724812ad",
+    "label": "MICROSOFT DYNAMICS CRM 2015",
+    "category": "Development",
+    "rank": 57
+  },
+  {
+    "id": "46793a03-8763-4092-8a99-03b69d3f1a50",
+    "label": "Apigee",
+    "category": "Development",
+    "rank": 275
+  },
+  {
+    "id": "6b1709a9-3f10-44bb-84dd-58df913deae7",
+    "label": "D3.JS",
+    "category": "Development",
+    "legacyId": 157,
+    "rank": 261
+  },
+  {
+    "id": "42a4f80e-94de-4848-864e-e6ad48e4cffe",
+    "label": "BDD - Behavioral Driven Development Testing",
+    "category": "Development",
+    "rank": 99
+  },
+  {
+    "id": "9ba88ad7-9563-4774-9021-f4659d781b8d",
+    "label": "RMI",
+    "category": "Development",
+    "legacyId": 324,
+    "rank": 45
+  },
+  {
+    "id": "9efd4735-757b-4e5c-b47b-61eede131858",
+    "label": "Simulation",
+    "category": "Development",
+    "legacyId": 349,
+    "rank": 96
+  },
+  {
+    "id": "1705c021-a4ec-4c90-97df-98f826e1e06f",
+    "label": "VSTS CodedUI Automation Testing",
+    "category": "Development",
+    "rank": 112
+  },
+  {
+    "id": "a2b4bc11-c641-4a19-9eb7-33980378f82e",
+    "label": "Ruby On Rails",
+    "category": "Development",
+    "legacyId": 326,
+    "rank": 25
+  },
+  {
+    "id": "20c18edf-2298-4a97-a261-3d4189231475",
+    "label": "Microsoft Teams",
+    "category": "Development",
+    "rank": 62
+  },
+  {
+    "id": "e8663aef-a561-4257-ab76-d8e4afc6bbf5",
+    "label": "TestNg",
+    "category": "Development",
+    "rank": 153
+  },
+  {
+    "id": "c3335138-347a-4a71-963b-9ba5f9741ddf",
+    "label": "Jabber",
+    "category": "Development",
+    "legacyId": 246,
+    "rank": 15
+  },
+  {
+    "id": "93f6ffd1-50b4-4dda-91a4-7fbaac62136c",
+    "label": "Apache Maven",
+    "category": "Development",
+    "rank": 62
+  },
+  {
+    "id": "70565f61-8f88-4239-ab56-2662e4c2b78d",
+    "label": "Microsoft Silverlight",
+    "category": "Development",
+    "legacyId": 278,
+    "rank": 151
+  },
+  {
+    "id": "30afaa9f-24fe-4f3b-99fa-099ccc95770b",
+    "label": "IBM Rational Software Architect",
+    "category": "Development",
+    "legacyId": 226,
+    "rank": 254
+  },
+  {
+    "id": "803db39f-7b62-431b-aa8d-5d55021407c0",
+    "label": "CartoDB",
+    "category": "Data Science",
+    "legacyId": 135,
+    "rank": 233
+  },
+  {
+    "id": "0dd467fe-f722-473e-bebe-23c497dfe58c",
+    "label": "Mobile App Test Automation",
+    "category": "Development",
+    "rank": 11
+  },
+  {
+    "id": "0e3e2797-ff9e-4cd2-b16e-f6bfe60fd031",
+    "label": "QA",
+    "category": "Development",
+    "rank": 15
+  },
+  {
+    "id": "d94a94fb-9b97-4ee2-ad7c-533b87356af6",
+    "label": "Microsoft Dynamics 365 for Sales",
+    "category": "Development",
+    "rank": 16
+  },
+  {
+    "id": "0eb5caf9-bcb0-41d7-ad00-ddc167b0da69",
+    "label": "SOASTA CLoudTEst",
+    "category": "Development",
+    "rank": 249
+  },
+  {
+    "id": "92d9d476-3050-44e1-9f34-5a912cfa70c9",
+    "label": "Apex",
+    "category": "Development",
+    "legacyId": 116,
+    "rank": 155
+  },
+  {
+    "id": "52039f2d-a51d-4839-b905-aab862ef2c5b",
+    "label": "Multichain",
+    "category": "Data Science",
+    "rank": 214
+  },
+  {
+    "id": "f5adaa7a-b1da-4b95-9808-59e8d6e88310",
+    "label": "ADFS - Active Directory Federation Services",
+    "category": "Development",
+    "rank": 145
+  },
+  {
+    "id": "7335fd98-596f-4d80-b962-83eb5f919cfb",
+    "label": "Securities and Capital Markets Testing",
+    "category": "Development",
+    "rank": 277
+  },
+  {
+    "id": "a8d41ead-f338-49bd-a41a-3baca2db3e3f",
+    "label": "Open Source",
+    "category": "Development",
+    "rank": 160
+  },
+  {
+    "id": "d1e3cf20-ddca-4b26-bfee-f833d7db5a7a",
+    "label": "ServiceV Pro",
+    "category": "Development",
+    "rank": 205
+  },
+  {
+    "id": "c9d9c422-cee9-4806-b924-7272dc15c14e",
+    "label": "apple",
+    "category": "Development",
+    "legacyId": 428,
+    "rank": 85
+  },
+  {
+    "id": "2abda275-1f17-4495-abf9-28d7198564a4",
+    "label": "Ember.js",
+    "category": "Development",
+    "legacyId": 172,
+    "rank": 2
+  },
+  {
+    "id": "cf92dab9-f5a3-4439-b1d5-287fe197e455",
+    "label": "Microsoft Stream",
+    "category": "Development",
+    "rank": 18
+  },
+  {
+    "id": "e9c90b06-1528-41a1-9336-7cbc133a00d2",
+    "label": "SFDC VisualForce",
+    "category": "Development",
+    "legacyId": 343,
+    "rank": 150
+  },
+  {
+    "id": "b8b2018d-857b-47a5-926b-cd4696e3bf67",
+    "label": "Office365",
+    "category": "Development",
+    "rank": 53
+  },
+  {
+    "id": "b5b5ac6e-ba4b-4cb2-9a0d-583469933216",
+    "label": "Workday Testing",
+    "category": "Development",
+    "rank": 66
+  },
+  {
+    "id": "1720d356-737e-453a-83f2-528c59470755",
+    "label": "MS Dynamics 365 for Operation - Distribution and Trade",
+    "category": "Development",
+    "rank": 35
+  },
+  {
+    "id": "a77afec4-07d9-4ae5-b078-ba77e6fba84d",
+    "label": "Jira",
+    "category": "Development",
+    "rank": 153
+  },
+  {
+    "id": "e792d658-6c2c-483e-8524-8d4c150b7d77",
+    "label": "Haskell",
+    "category": "Development",
+    "legacyId": 209,
+    "rank": 172
+  },
+  {
+    "id": "c3f85c6d-0536-4887-82fa-3bbcfc1626e0",
+    "label": "Axure",
+    "category": "Development",
+    "legacyId": 122,
+    "rank": 228
+  },
+  {
+    "id": "3652aa37-f75a-4611-b2ae-6382f2b1a436",
+    "label": "RestAssured",
+    "category": "Development",
+    "rank": 12
+  },
+  {
+    "id": "4f1926b5-82d7-4eff-8316-34f6e56e047a",
+    "label": "Zipkin",
+    "category": "Development",
+    "legacyId": 405,
+    "rank": 122
+  },
+  {
+    "id": "c4b5b3f0-24b9-44b2-9f20-4ba0a6718874",
+    "label": "Azure Cosmos DB",
+    "category": "Data Science",
+    "rank": 33
+  },
+  {
+    "id": "c6b87fab-73dd-4a2f-b999-c07062f2c0fa",
+    "label": "Web Services",
+    "category": "Development",
+    "legacyId": 387,
+    "rank": 62
+  },
+  {
+    "id": "0200bbe3-a41a-4494-9638-79d0ac22b31a",
+    "label": "MySql",
+    "category": "Data Science",
+    "legacyId": 284,
+    "rank": 91
+  },
+  {
+    "id": "9ca5b569-f7b4-4b5a-bfbb-bc37088ee1be",
+    "label": "Microsoft Dynamics",
+    "category": "Development",
+    "rank": 153
+  },
+  {
+    "id": "54520ee3-6fad-407e-867b-9f0a146bb121",
+    "label": "Kubernetes",
+    "category": "Development",
+    "rank": 237
+  },
+  {
+    "id": "6b696b76-44c1-40bc-9f42-3b8482f4bf8e",
+    "label": "Siebel",
+    "category": "Development",
+    "legacyId": 346,
+    "rank": 271
+  },
+  {
+    "id": "2ee1ef6b-52f2-40ed-b9a0-ae3e5d1ea56d",
+    "label": "Heroku",
+    "category": "Development",
+    "legacyId": 210,
+    "rank": 11
+  },
+  {
+    "id": "d044aaec-2057-4853-bf4d-ba6b43d586c4",
+    "label": "Fortran",
+    "category": "Development",
+    "legacyId": 188,
+    "rank": 283
+  },
+  {
+    "id": "3da3ba78-b4f4-4f19-9359-88261d9cbdc4",
+    "label": "Performance Engineering for Mobile",
+    "category": "Development",
+    "rank": 13
+  },
+  {
+    "id": "7f6becc5-9c5f-4134-b471-6b7da3c5458a",
+    "label": "Azure Active Directory",
+    "category": "Development",
+    "rank": 184
+  },
+  {
+    "id": "7f21c888-7b65-48d4-9534-c431e89ab5fe",
+    "label": "PowerShell",
+    "category": "Development",
+    "legacyId": 307,
+    "rank": 56
+  },
+  {
+    "id": "01ce8d20-6ff6-4553-b994-2a615d1d5620",
+    "label": "Cloud Foundry",
+    "category": "Development",
+    "legacyId": 144,
+    "rank": 38
+  },
+  {
+    "id": "1baaadcf-8524-40ff-a46c-a6e691eabdae",
+    "label": "K2.NET",
+    "category": "Development",
+    "rank": 145
+  },
+  {
+    "id": "dce8a19f-e17f-41d8-8899-dccf1328eb95",
+    "label": "XMPP",
+    "category": "Development",
+    "rank": 200
+  },
+  {
+    "id": "077533be-8029-4585-8b8e-9efc2dc43f53",
+    "label": "CA Service Virtualization",
+    "category": "Development",
+    "rank": 233
+  },
+  {
+    "id": "7d076384-ccf6-4e43-a45d-1b24b1e624aa",
+    "label": "ASP.NET MVC 3",
+    "category": "Development",
+    "rank": 184
+  },
+  {
+    "id": "9e6ac7ac-0d5d-4251-96e0-78b3d4093186",
+    "label": "Performance Engineering Essentials",
+    "category": "Development",
+    "rank": 86
+  },
+  {
+    "id": "6514c67e-9a9d-4c4b-8d41-eb000e887fc3",
+    "label": "Oracle EBS",
+    "category": "Data Science",
+    "rank": 192
+  },
+  {
+    "id": "892f67e8-fbf8-4764-b43f-dd314b84b8c1",
+    "label": "Facebook",
+    "category": "Development",
+    "legacyId": 179,
+    "rank": 172
+  },
+  {
+    "id": "ce07c9e0-596f-49dd-9f07-68210097d146",
+    "label": "Commerce Server 2009",
+    "category": "Development",
+    "legacyId": 150,
+    "rank": 112
+  },
+  {
+    "id": "8468eb01-c010-4566-bc53-e680fe62df16",
+    "label": "Wordpress",
+    "category": "Development",
+    "legacyId": 396,
+    "rank": 101
+  },
+  {
+    "id": "f79e0d2e-3d3a-4faf-901e-67a917b5b25a",
+    "label": "MapReduce",
+    "category": "Development",
+    "rank": 63
+  },
+  {
+    "id": "a2f800a5-8f1d-4d8b-9400-1d2e7cab67d5",
+    "label": "nodewebkit",
+    "category": "Development",
+    "legacyId": 419,
+    "rank": 55
+  },
+  {
+    "id": "37c7adb6-1cb0-4239-868a-84a1c39b0cea",
+    "label": "Phantomjs",
+    "category": "Development",
+    "legacyId": 300,
+    "rank": 4
+  },
+  {
+    "id": "7dafbb11-f47d-4b8c-8286-bbed0bade504",
+    "label": "Ldap",
+    "category": "Development",
+    "legacyId": 263,
+    "rank": 181
+  },
+  {
+    "id": "5843b329-433c-4a17-a5b2-570caaa34baf",
+    "label": "Cognitive",
+    "category": "Development",
+    "rank": 204
+  },
+  {
+    "id": "2d7ea71d-1992-41f3-a620-9811d0ae2713",
+    "label": "Power BI",
+    "category": "Data Science",
+    "rank": 280
+  },
+  {
+    "id": "226df5b2-1900-42de-a1c1-0b63c1524990",
+    "label": "IBM Pl/1",
+    "category": "Development",
+    "legacyId": 223,
+    "rank": 300
+  },
+  {
+    "id": "7ae783eb-558f-4271-906a-e745748f3565",
+    "label": "Leaflet.js",
+    "category": "Development",
+    "legacyId": 264,
+    "rank": 230
+  },
+  {
+    "id": "6241e6dc-59c3-4f67-9c43-6fee6a47dd3e",
+    "label": "Docker Platform",
+    "category": "Development",
+    "rank": 162
+  },
+  {
+    "id": "d16d8f7a-722d-4501-9374-c254d3b6f7f7",
+    "label": "Sinatra",
+    "category": "Development",
+    "legacyId": 350,
+    "rank": 268
+  },
+  {
+    "id": "202ed88e-5f5e-4b10-9191-faf16428cf27",
+    "label": "SAP",
+    "category": "Development",
+    "legacyId": 330,
+    "rank": 110
+  },
+  {
+    "id": "4096e3ca-1e9e-4e5d-9f12-60cc430602fa",
+    "label": "Illustrator",
+    "category": "Design/UX",
+    "legacyId": 236,
+    "rank": 258
+  },
+  {
+    "id": "bfc796ee-0c25-4838-ab23-5b007dee7672",
+    "label": "Data Science",
+    "category": "Data Science",
+    "legacyId": 158,
+    "rank": 17
+  },
+  {
+    "id": "ceee39fd-f15e-40ae-849f-215e0b30e97c",
+    "label": "C++",
+    "category": "Development",
+    "legacyId": 133,
+    "rank": 25
+  },
+  {
+    "id": "7ed88a18-28c5-482a-98c6-abe9e9f3eee1",
+    "label": "New Relic",
+    "category": "Development",
+    "rank": 289
+  },
+  {
+    "id": "5797f365-a959-4e35-bf14-f90ff2e5ad01",
+    "label": "Swagger",
+    "category": "Development",
+    "legacyId": 363,
+    "rank": 27
+  },
+  {
+    "id": "45220c65-a9ed-44ac-906e-ebdf6c919ba2",
+    "label": "Tosca Testsuite - Test Automation",
+    "category": "Development",
+    "rank": 126
+  },
+  {
+    "id": "c7abc8aa-9814-4396-92bb-afb3194a6871",
+    "label": "Sorting",
+    "category": "Development",
+    "legacyId": 353,
+    "rank": 243
+  },
+  {
+    "id": "bd417c10-d81a-45b6-85a9-d79efe86b9bb",
+    "label": "Docker",
+    "category": "Development",
+    "legacyId": 163,
+    "rank": 184
+  },
+  {
+    "id": "b59bc4b4-b677-4e56-a146-833905f7b018",
+    "label": "Recursion",
+    "category": "Development",
+    "legacyId": 316,
+    "rank": 85
+  },
+  {
+    "id": "3c67f6db-c179-47dd-848b-66bf5728303b",
+    "label": "Math",
+    "category": "Development",
+    "legacyId": 274,
+    "rank": 133
+  },
+  {
+    "id": "65a00ff5-328c-4f9c-93b6-37ffc2252f4c",
+    "label": "Yammer",
+    "category": "Development",
+    "rank": 237
+  },
+  {
+    "id": "5019a63d-fc26-4ce5-ba7b-7aad3a6e3b9b",
+    "label": "Pega",
+    "category": "Development",
+    "rank": 156
+  },
+  {
+    "id": "a2fc4aba-6246-4d16-92e2-f252ff990616",
+    "label": "WCF - Windows Communication Foundation",
+    "category": "Development",
+    "rank": 244
+  },
+  {
+    "id": "0c07eb59-cdd5-4d81-a7c7-2b238eeefdf3",
+    "label": "Worksoft Certify",
+    "category": "Development",
+    "rank": 267
+  },
+  {
+    "id": "1a4dbcf5-cc5e-46db-a226-d1d6bd6a08b3",
+    "label": "JBehave",
+    "category": "Development",
+    "rank": 95
+  },
+  {
+    "id": "896c402f-0459-43bb-930d-576cb326e4ad",
+    "label": "Microfocus Performance Center",
+    "category": "Development",
+    "rank": 118
+  },
+  {
+    "id": "e085d912-c598-4f2f-a939-bce08870c2ef",
+    "label": "XUL",
+    "category": "Design/UX",
+    "legacyId": 403,
+    "rank": 28
+  },
+  {
+    "id": "a5ec4a6d-542e-41b1-9125-96fe12d4707d",
+    "label": "String Manipulation",
+    "category": "Development",
+    "legacyId": 360,
+    "rank": 112
+  },
+  {
+    "id": "a0834f95-9ccc-4e47-95eb-906b0e6d9056",
+    "label": "Informatica ETL Testing",
+    "category": "Development",
+    "rank": 114
+  },
+  {
+    "id": "5575d7da-f91b-4aea-9ce8-8107536f334e",
+    "label": "IBM Watson",
+    "category": "Development",
+    "rank": 60
+  },
+  {
+    "id": "23e00d92-207a-4b5b-b3c9-4c5662644941",
+    "label": "Jface",
+    "category": "Development",
+    "legacyId": 252,
+    "rank": 154
+  },
+  {
+    "id": "c7377371-0ed7-442c-bf56-e3b66de3a333",
+    "label": "Banking Testing",
+    "category": "Development",
+    "rank": 139
+  },
+  {
+    "id": "64d6427b-4774-4225-9785-89b00a5931ad",
+    "label": "VB.NET",
+    "category": "Development",
+    "legacyId": 380,
+    "rank": 6
+  },
+  {
+    "id": "8f9489c9-4bfc-4902-bece-2877cbb1d292",
+    "label": "DNN CMS - Content Management System",
+    "category": "Development",
+    "rank": 120
+  },
+  {
+    "id": "957ea916-a878-4c54-af79-5c1963fda6c0",
+    "label": "VBA",
+    "category": "Development",
+    "legacyId": 381,
+    "rank": 57
+  },
+  {
+    "id": "5ca8e568-3fd7-48b9-8372-8b09258c48d8",
+    "label": "Sharepoint 3.0",
+    "category": "Development",
+    "legacyId": 344,
+    "rank": 164
+  },
+  {
+    "id": "6e1aab99-4639-4650-9d19-c704dd14110f",
+    "label": "Microsoft Dynamics 365 for Operation - Retail",
+    "category": "Development",
+    "rank": 89
+  },
+  {
+    "id": "0709ded2-776d-4edc-8367-4db6ff787913",
+    "label": "SAP BODS",
+    "category": "Development",
+    "rank": 272
+  },
+  {
+    "id": "4aa8b0b6-3921-4532-a062-121957617b2f",
+    "label": "Postgresql",
+    "category": "Data Science",
+    "rank": 241
+  },
+  {
+    "id": "9c59a3c9-edd3-4110-9da4-90da4dd85ec8",
+    "label": "Templates",
+    "category": "Design/UX",
+    "rank": 65
+  },
+  {
+    "id": "08f78834-e83e-451c-ad5f-2af3395f6fee",
+    "label": "UI Prototype",
+    "category": "Design/UX",
+    "rank": 7
+  },
+  {
+    "id": "b52c7a7b-1c27-4ebc-a56d-23abc6c5a139",
+    "label": "Microsoft EPM - Enterprise Project Management",
+    "category": "Development",
+    "rank": 213
+  },
+  {
+    "id": "0aec2956-cbcb-4c80-8c00-25cc02a71611",
+    "label": "C++ (Programming Language)",
+    "category": "Development",
+    "rank": 265
+  },
+  {
+    "id": "414748fb-f03f-4c03-a767-0936bc34bce5",
+    "label": "IBM DB2",
+    "category": "Data Science",
+    "legacyId": 219,
+    "rank": 101
+  },
+  {
+    "id": "a726225d-a922-4fe2-a31a-81d40fc60348",
+    "label": ".NET Upgrade",
+    "category": "Development",
+    "rank": 226
+  },
+  {
+    "id": "6484b0b7-b002-4c24-93f7-b0bc053c484f",
+    "label": "Zepto.js",
+    "category": "Development",
+    "legacyId": 404,
+    "rank": 256
+  },
+  {
+    "id": "3e4e7452-91c1-4284-b5a6-4f2625f06fb4",
+    "label": "EC2",
+    "category": "Development",
+    "legacyId": 168,
+    "rank": 174
+  },
+  {
+    "id": "d8cfa473-6b77-4d59-a983-93ca67ae9013",
+    "label": "CA",
+    "category": "Development",
+    "rank": 199
+  },
+  {
+    "id": "5c2e4c50-3844-46cb-a338-65d144bc8f4d",
+    "label": "Cloud-SQL Azure",
+    "category": "Data Science",
+    "rank": 108
+  },
+  {
+    "id": "82d2bd45-5f3c-4163-b159-19ce2af935b7",
+    "label": "Dojo",
+    "category": "Development",
+    "legacyId": 164,
+    "rank": 177
+  },
+  {
+    "id": "a7e4342e-440c-4a03-9368-63c26d92d74c",
+    "label": "Microsoft Dynamics NAV",
+    "category": "Development",
+    "rank": 123
+  },
+  {
+    "id": "a673a02e-61d8-4e29-b0b4-ce1ce5246009",
+    "label": "zend framework",
+    "category": "Development",
+    "legacyId": 431,
+    "rank": 66
+  },
+  {
+    "id": "841abfa6-d7b6-415d-bc3f-925b076015c1",
+    "label": "Meteor.js",
+    "category": "Development",
+    "legacyId": 277,
+    "rank": 271
+  },
+  {
+    "id": "96b4a85c-377c-4af8-8a94-103b76239aaa",
+    "label": "Datadog",
+    "category": "Development",
+    "rank": 264
+  },
+  {
+    "id": "612ee372-f3aa-480b-8582-ec744826aacd",
+    "label": "Microsoft TFS",
+    "category": "Development",
+    "rank": 71
+  },
+  {
+    "id": "0d7ece00-ee99-41a5-8eea-ddb2ded523c4",
+    "label": "foundation",
+    "category": "Development",
+    "legacyId": 421,
+    "rank": 68
+  },
+  {
+    "id": "34e9af59-866d-408b-ae3d-a966678ddd3e",
+    "label": "BizTalk Monitoring Tools",
+    "category": "Development",
+    "rank": 31
+  },
+  {
+    "id": "c2ac5154-6a0d-425d-9c90-9fd0af5d88a5",
+    "label": "Splunk",
+    "category": "Data Science",
+    "rank": 181
+  },
+  {
+    "id": "8db861f5-2b7c-4736-81e8-d04ca4e96ea7",
+    "label": "SFDC REST APIs",
+    "category": "Development",
+    "legacyId": 342,
+    "rank": 295
+  },
+  {
+    "id": "72d162c2-f635-4e46-904a-74a5ede3caad",
+    "label": "SFDC Apex",
+    "category": "Development",
+    "legacyId": 338,
+    "rank": 176
+  },
+  {
+    "id": "289e42a3-23e9-49be-88e1-6deb93cd8c31",
+    "label": "IDOL OnDemand",
+    "category": "Development",
+    "legacyId": 234,
+    "rank": 110
+  },
+  {
+    "id": "bc7b8e38-5ebd-45d5-858c-6fb1de774e0b",
+    "label": "Chef for DevOps Apps",
+    "category": "Development",
+    "rank": 240
+  },
+  {
+    "id": "4dfb64e3-9f3c-4df9-acaf-568ec9d896f2",
+    "label": "IBM Lotus Notes",
+    "category": "Development",
+    "legacyId": 222,
+    "rank": 126
+  },
+  {
+    "id": "8b0803b0-9eeb-401c-af72-dbd4718108aa",
+    "label": "Activity Diagrams (Tcuml)",
+    "category": "Development",
+    "legacyId": 103,
+    "rank": 48
+  },
+  {
+    "id": "7e37a2ef-bd73-4f8b-a3bb-dd5ba759a112",
+    "label": "Microsoft Dynamics CRM 2016 - Sales",
+    "category": "Development",
+    "rank": 140
+  },
+  {
+    "id": "c05094f7-f493-493b-a4fc-234eff525838",
+    "label": "Jruby",
+    "category": "Development",
+    "legacyId": 257,
+    "rank": 80
+  },
+  {
+    "id": "f5bda346-c604-4700-9498-90addb7a641e",
+    "label": "Google-Maps",
+    "category": "Development",
+    "legacyId": 198,
+    "rank": 129
+  },
+  {
+    "id": "31a0cf5e-ff34-4e30-a53b-240445722e5d",
+    "label": "Hibernate",
+    "category": "Development",
+    "legacyId": 211,
+    "rank": 294
+  },
+  {
+    "id": "b8f9cb22-a9cc-462f-b8df-8554182619e6",
+    "label": "ASP.NET MVC 2",
+    "category": "Development",
+    "rank": 145
+  },
+  {
+    "id": "24b8e393-edb5-4d49-899a-aa599ef8a0ed",
+    "label": "bower",
+    "category": "Development",
+    "legacyId": 430,
+    "rank": 278
+  },
+  {
+    "id": "30985824-a154-4053-8e44-63a4011e9799",
+    "label": "Spark",
+    "category": "Development",
+    "rank": 204
+  },
+  {
+    "id": "9b337441-3006-438c-a5f0-dfb9f83af94f",
+    "label": "Informatica - Data validation option",
+    "category": "Data Science",
+    "rank": 5
+  },
+  {
+    "id": "54af4d13-4900-46f7-9d8d-64654d1be32d",
+    "label": "kraken.js",
+    "category": "Development",
+    "legacyId": 433,
+    "rank": 214
+  },
+  {
+    "id": "c26af53b-97f4-49ae-ac6e-7077e5734d01",
+    "label": "QlikView",
+    "category": "Data Science",
+    "rank": 55
+  },
+  {
+    "id": "665968f2-1dad-43a4-b0eb-4b2b4258badf",
+    "label": "Windows Communication Foundation",
+    "category": "Development",
+    "legacyId": 390,
+    "rank": 3
+  },
+  {
+    "id": "b398f247-2d41-4f70-b4c2-1dcfaf0d5e24",
+    "label": "Ethereum",
+    "category": "Development",
+    "rank": 264
+  },
+  {
+    "id": "21590b08-459b-40f8-9e13-2b59306ccb7a",
+    "label": "Express",
+    "category": "Development",
+    "legacyId": 177,
+    "rank": 280
+  },
+  {
+    "id": "7d69800f-2c16-4920-bdfe-20bfcdebd82c",
+    "label": "Aris",
+    "category": "Development",
+    "rank": 58
+  },
+  {
+    "id": "dd5fe63c-ef01-42dd-9ae3-74e1512fbf0b",
+    "label": "Chaos Monkey",
+    "category": "Development",
+    "rank": 295
+  },
+  {
+    "id": "7be638d4-ad4d-4155-a24d-19f04831b275",
+    "label": "Oracle Database",
+    "category": "Data Science",
+    "legacyId": 295,
+    "rank": 229
+  },
+  {
+    "id": "0fe3e17b-334f-4a01-936d-400a3f5c3607",
+    "label": "Application Test Consulting",
+    "category": "Development",
+    "rank": 223
+  },
+  {
+    "id": "2f4db90e-f25d-413f-a354-72ed76b2d31e",
+    "label": "Test Deployment",
+    "category": "Development",
+    "rank": 53
+  },
+  {
+    "id": "bc42eb53-e501-4cba-88c8-0e8bad4611a8",
+    "label": "QuerySurge",
+    "category": "Data Science",
+    "rank": 196
+  },
+  {
+    "id": "caf219fd-503b-4830-8391-9244c4852a69",
+    "label": "Interaction Design (Ixd)",
+    "category": "Design/UX",
+    "legacyId": 241,
+    "rank": 33
+  },
+  {
+    "id": "4f1ccd8c-90ef-43f3-b92c-61d399e0901f",
+    "label": ".NET Microservices",
+    "category": "Development",
+    "rank": 43
+  },
+  {
+    "id": "a7cad6ea-ea60-47a9-b368-54c4a576bf8e",
+    "label": "moodle",
+    "category": "Development",
+    "legacyId": 435,
+    "rank": 153
+  },
+  {
+    "id": "4568fbcc-b065-4818-809b-70e5f4e6e38b",
+    "label": "Blockchain",
+    "category": "Development",
+    "rank": 59
+  },
+  {
+    "id": "4c7733e3-ccf3-4ebc-88d6-d2cd4c57565d",
+    "label": "SharePoint",
+    "category": "Development",
+    "rank": 218
+  },
+  {
+    "id": "7f4e9a56-5061-4f9b-b1b4-2b32c9106ce1",
+    "label": "Entity Framework",
+    "category": "Development",
+    "rank": 142
+  },
+  {
+    "id": "c5f90c4a-47aa-4de5-a66c-524065512330",
+    "label": "SonarQube",
+    "category": "Development",
+    "rank": 271
+  },
+  {
+    "id": "b2cd7de0-bcdc-42d7-a487-7d8e5ba87a06",
+    "label": "Salesforce.com",
+    "category": "Development",
+    "legacyId": 329,
+    "rank": 106
+  },
+  {
+    "id": "1677a978-d1e1-4117-aa2e-85ab1973d925",
+    "label": "ASP.NET Core",
+    "category": "Development",
+    "rank": 248
+  },
+  {
+    "id": "d292fc83-9ed4-44d7-8bc3-588d7e4664c3",
+    "label": "Ajax",
+    "category": "Development",
+    "legacyId": 106,
+    "rank": 7
+  },
+  {
+    "id": "2f6d7de0-9e6c-41b2-a8d2-d26553faf07a",
+    "label": "WCF",
+    "category": "Development",
+    "legacyId": 386,
+    "rank": 148
+  },
+  {
+    "id": "6579570f-638d-4a5b-b91f-6df8eb19b0b2",
+    "label": "Tosca",
+    "category": "Development",
+    "rank": 91
+  },
+  {
+    "id": "e98b020b-ba97-4c73-929c-7a428f3c7a69",
+    "label": "Microsoft Project Online",
+    "category": "Development",
+    "rank": 222
+  },
+  {
+    "id": "70834003-3eba-452c-9bc4-a6d9d637a10e",
+    "label": "AI/ML App Testing",
+    "category": "Development",
+    "rank": 95
+  },
+  {
+    "id": "17b61c7a-98dc-498d-ba8d-c52b6677d73c",
+    "label": "User Interface (Ui)",
+    "category": "Design/UX",
+    "legacyId": 376,
+    "rank": 176
+  },
+  {
+    "id": "858d5b4d-7d90-4b87-b028-a6ae08427e2d",
+    "label": "MariaDB",
+    "category": "Data Science",
+    "legacyId": 273,
+    "rank": 209
+  },
+  {
+    "id": "1fd02aad-e08a-4669-9ffd-181468fea694",
+    "label": "AI",
+    "category": "Development",
+    "rank": 279
+  },
+  {
+    "id": "4a64ab75-9b41-4600-9747-3054757f147d",
+    "label": "SharePoint 2010",
+    "category": "Development",
+    "rank": 127
+  },
+  {
+    "id": "e636aaf1-d558-4753-ae40-081fac4107d3",
+    "label": "Microsoft Dynamics 365 for Project Service Automation",
+    "category": "Development",
+    "rank": 187
+  },
+  {
+    "id": "ff2a52c1-1e5f-406f-8d50-9febf07c8b7a",
+    "label": "SharePoint Enterprise Search",
+    "category": "Development",
+    "rank": 245
+  },
+  {
+    "id": "b5b56b0c-3aa0-4047-9a66-5d56c8ecf34d",
+    "label": "Amazon Alexa",
+    "category": "Development",
+    "legacyId": 486,
+    "rank": 55
+  },
+  {
+    "id": "29fd9501-20c0-4fdb-9f32-93c5a03f08fb",
+    "label": "String Parsing",
+    "category": "Development",
+    "legacyId": 361,
+    "rank": 37
+  },
+  {
+    "id": "ff603127-af7f-4f9a-8dc9-3c6302bf79e5",
+    "label": "Apache Camel",
+    "category": "Development",
+    "legacyId": 111,
+    "rank": 59
+  },
+  {
+    "id": "67c5d394-96ec-4d9c-9c9a-54420392e10e",
+    "label": "Continuous Integration - Bamboo",
+    "category": "Development",
+    "rank": 238
+  },
+  {
+    "id": "b678ed5c-9807-4f10-9e7b-3333cfa92e77",
+    "label": "chrome",
+    "category": "Development",
+    "legacyId": 426,
+    "rank": 114
+  },
+  {
+    "id": "77a0ca42-c49e-4747-aaf5-bf41041b7f31",
+    "label": "Microsoft Dynamics AX",
+    "category": "Development",
+    "rank": 282
+  },
+  {
+    "id": "eac3251a-0359-463b-9f7a-b7d056a56942",
+    "label": "ASP.NET Web API",
+    "category": "Development",
+    "rank": 157
+  },
+  {
+    "id": "5513d68e-2030-4988-ad6d-8a72d5f78fb0",
+    "label": "Espruino",
+    "category": "Development",
+    "legacyId": 175,
+    "rank": 138
+  },
+  {
+    "id": "22903d09-7992-400d-80d0-691ad5c3ff61",
+    "label": "SSIS",
+    "category": "Development",
+    "legacyId": 358,
+    "rank": 152
+  },
+  {
+    "id": "d8ee96fc-a948-4d6e-95aa-11bfb1c756d7",
+    "label": "Openstack",
+    "category": "Pl/Sql",
+    "legacyId": 293,
+    "rank": 120
+  },
+  {
+    "id": "2a3b3449-c5d1-408a-a92c-dd1cef2e6bb2",
+    "label": "Pl/Sql",
+    "category": "Data Science",
+    "legacyId": 304,
+    "rank": 87
+  },
+  {
+    "id": "b4041248-47c5-47a2-a546-f343d0a458a2",
+    "label": "Sketch",
+    "category": "Design/UX",
+    "legacyId": 351,
+    "rank": 138
+  },
+  {
+    "id": "f86556e1-9e8f-48b1-93a5-2fa11bfa3c7c",
+    "label": "ADO.NET Entity Framework",
+    "category": "Development",
+    "rank": 147
+  },
+  {
+    "id": "dd3ca67f-6407-4a31-9506-d7a219ae44d1",
+    "label": "Vert.X",
+    "category": "Development",
+    "legacyId": 382,
+    "rank": 160
+  },
+  {
+    "id": "1e75d41e-fb50-46f6-9bb4-b17269ca94f5",
+    "label": "Virtual Reality and Augmented Reality Testing",
+    "category": "Development",
+    "rank": 187
+  },
+  {
+    "id": "32d6e744-aa79-4333-b70c-ec0c26360cd6",
+    "label": "dynaTrace",
+    "category": "Development",
+    "rank": 50
+  },
+  {
+    "id": "04ed1523-ff77-4651-89f5-8fd7bf027097",
+    "label": "Microsoft Dynamics CRM 2013",
+    "category": "Development",
+    "rank": 188
+  },
+  {
+    "id": "4b577e81-4612-488b-bde2-1b56aa914a92",
+    "label": "HAML",
+    "category": "Development",
+    "legacyId": 208,
+    "rank": 200
+  },
+  {
+    "id": "4265a1d5-c5bf-49e1-bd83-4f7812ac1802",
+    "label": "R",
+    "category": "Data Science",
+    "legacyId": 314,
+    "rank": 273
+  },
+  {
+    "id": "6f69a0e7-0d6c-4c1f-9e46-5180bc38f7d8",
+    "label": "Sensu",
+    "category": "Development",
+    "rank": 59
+  },
+  {
+    "id": "f128f3ff-61b3-4702-b589-80f7ed044faa",
+    "label": "IBM WebSphere DataStage",
+    "category": "Data Science",
+    "legacyId": 230,
+    "rank": 198
+  },
+  {
+    "id": "3048ed2f-abe6-40cf-90cb-0bc2bafbaad0",
+    "label": "LINQ - Language Integrated Query",
+    "category": "Development",
+    "rank": 157
+  },
+  {
+    "id": "5274a609-29fe-44cf-a6db-35ad07eedf2d",
+    "label": "OpenShift",
+    "category": "Development",
+    "rank": 16
+  },
+  {
+    "id": "d3d837e3-f5f3-4a0b-a799-b211562e61f0",
+    "label": "Datastage ETL Testing",
+    "category": "Development",
+    "rank": 78
+  },
+  {
+    "id": "40abada7-514d-4c26-8e3d-9152971a0001",
+    "label": "Castor",
+    "category": "Development",
+    "legacyId": 137,
+    "rank": 129
+  },
+  {
+    "id": "db4358f3-c9a3-4afd-94a4-2d352d6bfa60",
+    "label": "Nintex Workflow for SharePoint",
+    "category": "Development",
+    "rank": 273
+  },
+  {
+    "id": "fbf792fc-0920-4b54-866a-f48c386994a0",
+    "label": "Smartsheet",
+    "category": "Development",
+    "rank": 54
+  },
+  {
+    "id": "ad43a3f3-413f-4bfe-9703-28afad49b116",
+    "label": "API",
+    "category": "Development",
+    "legacyId": 117,
+    "rank": 74
+  },
+  {
+    "id": "57ef43c2-4227-4ea1-bc5a-287321f3f8b2",
+    "label": "Microsoft Dynamics AX 2012 - Retail",
+    "category": "Development",
+    "rank": 52
+  },
+  {
+    "id": "bb12c2eb-87b9-49a0-8ef8-6a4df3c79793",
+    "label": "Cloud-Microsoft Azure",
+    "category": "Development",
+    "rank": 220
+  },
+  {
+    "id": "27b63bc6-1cf6-4e1c-b61a-657fd3867acd",
+    "label": "Teradata Testing",
+    "category": "Development",
+    "rank": 43
+  },
+  {
+    "id": "6c8c0062-5cb0-43de-b2f6-45a5425ac1a0",
+    "label": "Flex",
+    "category": "Design/UX",
+    "legacyId": 182,
+    "rank": 126
+  },
+  {
+    "id": "1f2df99e-9173-4deb-9c60-86fa3fc944f6",
+    "label": "IBM AiX",
+    "category": "Development",
+    "legacyId": 216,
+    "rank": 19
+  },
+  {
+    "id": "bfb884b1-6a1d-4937-904a-f845a2783ec8",
+    "label": "Office 365 PowerShell",
+    "category": "Development",
+    "rank": 233
+  },
+  {
+    "id": "6462963a-92e4-4413-9e6f-63c88f66c7bd",
+    "label": "FAST Search",
+    "category": "Development",
+    "rank": 208
+  },
+  {
+    "id": "187b450b-d3d9-4be6-b752-3fdac1c924df",
+    "label": "Hashgraph",
+    "category": "Data Science",
+    "rank": 280
+  },
+  {
+    "id": "7f8388a6-6141-424f-88f0-7b939a4de815",
+    "label": "Forms",
+    "category": "Development",
+    "legacyId": 187,
+    "rank": 85
+  },
+  {
+    "id": "e43c977e-544a-45dc-997f-81d39aa260cc",
+    "label": "Customer Experience (Cx)",
+    "category": "Design/UX",
+    "legacyId": 156,
+    "rank": 144
+  },
+  {
+    "id": "d17ef2e7-2ac9-4872-b1eb-0ca3bc76a5df",
+    "label": "Google Api",
+    "category": "Development",
+    "legacyId": 195,
+    "rank": 162
+  },
+  {
+    "id": "464f252f-4bc5-42fe-93f3-3cbbd51db284",
+    "label": "Bots Testing",
+    "category": "Development",
+    "rank": 199
+  },
+  {
+    "id": "2c4281e4-1385-4481-b4aa-da3bbf88b530",
+    "label": "Express JS",
+    "category": "Development",
+    "rank": 97
+  },
+  {
+    "id": "2e2741e8-6ab6-4efe-aa55-c42c20ee2149",
+    "label": "JSON",
+    "category": "Data Science",
+    "legacyId": 259,
+    "rank": 132
+  },
+  {
+    "id": "dfe7925a-3bff-49b1-ba8a-de67b2e8fc66",
+    "label": "MIDP 2.0",
+    "category": "Development",
+    "legacyId": 279,
+    "rank": 268
+  },
+  {
+    "id": "2456563c-697a-4881-b3a5-3f7174d2d787",
+    "label": "Custom Tag",
+    "category": "Development",
+    "legacyId": 155,
+    "rank": 293
+  },
+  {
+    "id": "26cbcd6d-ac96-42ae-8d73-3fa90da38150",
+    "label": "Greedy",
+    "category": "Development",
+    "legacyId": 202,
+    "rank": 234
+  },
+  {
+    "id": "8de755f9-5428-4570-ba89-e1c18ea02bec",
+    "label": "Performance Profiling",
+    "category": "Development",
+    "rank": 171
+  },
+  {
+    "id": "f46ee4b2-d460-49a0-9e72-f8164d700310",
+    "label": "WinForms",
+    "category": "Development",
+    "legacyId": 393,
+    "rank": 147
+  },
+  {
+    "id": "ddaa4b3b-6216-4ff1-bd68-c9f489f80c21",
+    "label": ".NET Framework",
+    "category": "Development",
+    "rank": 160
+  },
+  {
+    "id": "5ee42dfc-8e03-45cf-b7ed-61f3c3dd6f57",
+    "label": "SFDC Design",
+    "category": "Development",
+    "legacyId": 339,
+    "rank": 55
+  },
+  {
+    "id": "29b816f7-ce2d-45c1-bb1c-37702c561fa6",
+    "label": "C#",
+    "category": "Development",
+    "legacyId": 132,
+    "rank": 171
+  },
+  {
+    "id": "a9851c5a-e3cd-4532-b190-c72205f7e362",
+    "label": "Swift",
+    "category": "Development",
+    "legacyId": 364,
+    "rank": 198
+  },
+  {
+    "id": "c0a5d2f9-913d-4bb1-a0bc-b54a74e048f6",
+    "label": "laravel",
+    "category": "Development",
+    "legacyId": 434,
+    "rank": 200
+  },
+  {
+    "id": "9fdac611-bea8-4e53-bff4-8cf2849e3b69",
+    "label": "Ant",
+    "category": "Development",
+    "rank": 253
+  },
+  {
+    "id": "0d280193-65a8-46a7-9ea9-044c18d034fa",
+    "label": "Azure Service Bus",
+    "category": "Development",
+    "rank": 300
+  },
+  {
+    "id": "e00e87bd-389d-43f6-944a-3512c1723616",
+    "label": "ActionScript",
+    "category": "Development",
+    "legacyId": 101,
+    "rank": 145
+  },
+  {
+    "id": "94eae221-1158-4aa9-a6a4-50ecb0bbb8b6",
+    "label": "Force.com",
+    "category": "Development",
+    "legacyId": 185,
+    "rank": 271
+  },
+  {
+    "id": "78f4e607-559d-4e8e-bc3d-dc2af018dd56",
+    "label": "Django",
+    "category": "Development",
+    "legacyId": 162,
+    "rank": 272
+  },
+  {
+    "id": "ecc69397-6251-4897-b6e3-5873ac14c010",
+    "label": "Robot Framework",
+    "category": "Development",
+    "legacyId": 464,
+    "rank": 233
+  },
+  {
+    "id": "dfcbdfa6-108c-4d50-921d-de59658325b1",
+    "label": "Azure SDK for Java",
+    "category": "Development",
+    "rank": 181
+  },
+  {
+    "id": "d8fd4c0d-315a-4712-b75b-1e0e949dfafc",
+    "label": "Office 365 - SharePoint Online",
+    "category": "Development",
+    "rank": 280
+  },
+  {
+    "id": "850ac0c8-7b53-4541-b851-aea7b372b62f",
+    "label": "Vertica",
+    "category": "Development",
+    "legacyId": 383,
+    "rank": 142
+  },
+  {
+    "id": "e55675f8-cb16-4a01-a1b7-652739ba852e",
+    "label": "Junit",
+    "category": "Development",
+    "legacyId": 261,
+    "rank": 189
+  },
+  {
+    "id": "1c833441-7eef-49a7-81ae-08e04c0643ff",
+    "label": "Azure",
+    "category": "Development",
+    "legacyId": 123,
+    "rank": 229
+  },
+  {
+    "id": "e2b8acc2-881f-45a6-8321-489976b1db21",
+    "label": "Graph Theory",
+    "category": "Data Science",
+    "legacyId": 200,
+    "rank": 246
+  },
+  {
+    "id": "6df99fc1-3115-4b0c-bf2b-21ecd52fa64b",
+    "label": "Python (Programming Language)",
+    "category": "Development",
+    "rank": 45
+  },
+  {
+    "id": "afd48f84-3f24-417c-a7e4-e9fe90905956",
+    "label": "Play Framework",
+    "category": "Development",
+    "legacyId": 305,
+    "rank": 208
+  },
+  {
+    "id": "288b81ed-f51c-4ef4-bdee-352f843e4462",
+    "label": "Transact-SQL",
+    "category": "Data Science",
+    "legacyId": 368,
+    "rank": 9
+  },
+  {
+    "id": "4ab1e20a-b507-42bd-9279-9ccf1d92ce27",
+    "label": "AppFabric",
+    "category": "Development",
+    "rank": 157
+  },
+  {
+    "id": "d7641ae3-2b30-45df-a225-428015ab43bc",
+    "label": "Predictive Quality Analytics",
+    "category": "Data Science",
+    "rank": 34
+  },
+  {
+    "id": "2775d51a-cdc8-467a-a1cb-6bd3a7825a3f",
+    "label": "Geometry",
+    "category": "Development",
+    "legacyId": 190,
+    "rank": 251
+  },
+  {
+    "id": "1ea41b82-3680-4e5e-a3b3-15d099df5637",
+    "label": "FinancialForce",
+    "category": "Development",
+    "rank": 250
+  },
+  {
+    "id": "411bafb4-c696-4b2c-b387-ebfffcf93d59",
+    "label": "Consulting-BAS-QET",
+    "category": "Development",
+    "rank": 26
+  },
+  {
+    "id": "dea35343-8299-4bdc-9ed2-546582ffb743",
+    "label": "Require.js",
+    "category": "Development",
+    "legacyId": 320,
+    "rank": 175
+  },
+  {
+    "id": "b2173a1b-5f4c-4fe4-8a5d-eeec02f0b0ce",
+    "label": "Simple Search",
+    "category": "Data Science",
+    "legacyId": 348,
+    "rank": 71
+  },
+  {
+    "id": "c3cb79a4-6f4f-4875-be86-25bf6b6d9b96",
+    "label": "Linq",
+    "category": "Data Science",
+    "legacyId": 267,
+    "rank": 267
+  },
+  {
+    "id": "73ec1dad-40b2-4c16-8835-8e3cae359ed0",
+    "label": "CA Blazemeter",
+    "category": "Development",
+    "rank": 271
+  },
+  {
+    "id": "ab8f01fc-9686-4cc1-9b59-c412b4bae3f2",
+    "label": "Angular (Web Framework)",
+    "category": "Development",
+    "rank": 107
+  },
+  {
+    "id": "b9cc035c-4ac2-4b7e-b859-1aeb425a0f31",
+    "label": "Azure Mobile Apps",
+    "category": "Development",
+    "rank": 287
+  },
+  {
+    "id": "42a88287-be9f-4c8d-8e45-48abd29b0a9b",
+    "label": "Microstrategy BI Testing",
+    "category": "Development",
+    "rank": 149
+  },
+  {
+    "id": "54b73d9e-7e09-4c24-8445-5503fb6dcc50",
+    "label": "Microsoft Dynamics 365 for Customer Service",
+    "category": "Development",
+    "rank": 67
+  },
+  {
+    "id": "074ec71b-2e30-4815-ae86-721f65104140",
+    "label": "IBM Bluemix",
+    "category": "Development",
+    "legacyId": 217,
+    "rank": 215
+  },
+  {
+    "id": "23479b1b-50db-4493-a7d7-c17636c51bc9",
+    "label": "AWS",
+    "category": "Development",
+    "rank": 140
+  },
+  {
+    "id": "feefab7f-f63f-4137-a090-524a9af64877",
+    "label": "CA Test Data Management",
+    "category": "Development",
+    "rank": 190
+  },
+  {
+    "id": "2c009603-de88-4d09-9837-b0f9628cf172",
+    "label": "IBM Rational Performance Tester",
+    "category": "Development",
+    "rank": 242
+  },
+  {
+    "id": "46859d26-6a90-42b9-9acb-31382310ab40",
+    "label": "Word/Rich Text",
+    "category": "Data Science",
+    "legacyId": 395,
+    "rank": 237
+  },
+  {
+    "id": "06299e4f-619e-42c2-b99a-d1330c6be458",
+    "label": "Big data",
+    "category": "Data Science",
+    "rank": 183
+  },
+  {
+    "id": "756aa3b0-df32-42aa-bcfd-909c3d513437",
+    "label": "XCUITest",
+    "category": "Design/UX",
+    "rank": 64
+  },
+  {
+    "id": "f89b24c3-a7f5-4bd7-8893-9f02be682aa9",
+    "label": "SFDC Mobile",
+    "category": "Development",
+    "legacyId": 341,
+    "rank": 2
+  },
+  {
+    "id": "cacfddd7-e446-4c0c-9520-b31aa385d7c1",
+    "label": "Pact",
+    "category": "Development",
+    "rank": 283
+  },
+  {
+    "id": "fa48f0e4-0f01-41bd-9e47-8c11297c7927",
+    "label": "Objective-C",
+    "category": "Development",
+    "legacyId": 290,
+    "rank": 32
+  },
+  {
+    "id": "017219fa-89db-49cc-9958-aeb25eddc0c0",
+    "label": "BizTalk ESB Toolkit",
+    "category": "Development",
+    "rank": 24
+  },
+  {
+    "id": "7872c3e2-569e-41c3-8bd0-3593238e9603",
+    "label": "Javadoc",
+    "category": "Development",
+    "rank": 44
+  },
+  {
+    "id": "615c58c1-90a0-4a83-aeb8-283853b4a7bc",
+    "label": "Openam",
+    "category": "Development",
+    "legacyId": 292,
+    "rank": 271
+  },
+  {
+    "id": "cbac57a3-7180-4316-8769-73af64893158",
+    "label": "Compression",
+    "category": "Development",
+    "legacyId": 173,
+    "rank": 91
+  },
+  {
+    "id": "3bd86e20-78bd-4a7f-9eaa-61198815ea8f",
+    "label": "Gulp",
+    "category": "Development",
+    "legacyId": 205,
+    "rank": 57
+  },
+  {
+    "id": "1c67b60d-32a3-4dcd-8bc4-947bc476fcd1",
+    "label": "Performance Point",
+    "category": "Development",
+    "rank": 299
+  },
+  {
+    "id": "13074ef8-64ea-43cf-8a9d-334c4ed472df",
+    "label": "Logo",
+    "category": "Design/UX",
+    "legacyId": 270,
+    "rank": 51
+  },
+  {
+    "id": "5881003c-be64-47f0-8cbe-f331f8627875",
+    "label": "jQuery Mobile",
+    "category": "Development",
+    "legacyId": 256,
+    "rank": 29
+  },
+  {
+    "id": "17253d26-1181-48cc-82c6-befc90b73b5d",
+    "label": "XAML",
+    "category": "Development",
+    "legacyId": 399,
+    "rank": 223
+  },
+  {
+    "id": "89139c80-d0a2-47c2-aa16-14589d5afd10",
+    "label": "User Testing",
+    "category": "Development",
+    "legacyId": 377,
+    "rank": 20
+  },
+  {
+    "id": "181a6874-c443-4a17-9e6d-911d0ce49b1f",
+    "label": "BizTalk 2013",
+    "category": "Development",
+    "rank": 268
+  },
+  {
+    "id": "ea7741e8-0b00-44cb-9792-f53f08f8cb31",
+    "label": "Linux",
+    "category": "Development",
+    "legacyId": 268,
+    "rank": 51
+  },
+  {
+    "id": "38ddb955-5613-487d-8984-6ebf10f4591f",
+    "label": "Flash",
+    "category": "Development",
+    "legacyId": 181,
+    "rank": 210
+  },
+  {
+    "id": "1423137d-e67b-4c8a-adc6-a975bebcef66",
+    "label": "Coffeescript",
+    "category": "Development",
+    "legacyId": 148,
+    "rank": 74
+  },
+  {
+    "id": "1ae2517a-1ede-49d9-85a6-35ace2bf1157",
+    "label": "SDL Tridion",
+    "category": "Development",
+    "rank": 266
+  },
+  {
+    "id": "362de2ec-8d3f-4c01-901d-035ffb9127d4",
+    "label": "Grunt.js",
+    "category": "Development",
+    "legacyId": 206,
+    "rank": 129
+  },
+  {
+    "id": "56579288-8635-418f-962f-68369b7096d6",
+    "label": "REST",
+    "category": "Development",
+    "legacyId": 323,
+    "rank": 93
+  },
+  {
+    "id": "958fe5c4-55e2-4cd3-baec-008da1fc729c",
+    "label": "BigQuery",
+    "category": "Data Science",
+    "legacyId": 126,
+    "rank": 125
+  },
+  {
+    "id": "11ba5d0a-dc8b-471f-b567-e9cdcf636703",
+    "label": "XSL",
+    "category": "Development",
+    "legacyId": 402,
+    "rank": 152
+  },
+  {
+    "id": "816c5d24-0f02-4dc7-9735-66d35ca35e2b",
+    "label": "NHibernate",
+    "category": "Development",
+    "rank": 123
+  },
+  {
+    "id": "eb11de89-9ec4-44be-a308-b48b051cddd3",
+    "label": "Om",
+    "category": "Development",
+    "legacyId": 291,
+    "rank": 59
+  },
+  {
+    "id": "d3247273-dfc7-423d-898e-434e96fff2d6",
+    "label": "Active Directory",
+    "category": "Development",
+    "legacyId": 102,
+    "rank": 188
+  },
+  {
+    "id": "136c793b-28de-4d71-9a20-a46b9ba54a14",
+    "label": "F#",
+    "category": "Development",
+    "legacyId": 178,
+    "rank": 208
+  },
+  {
+    "id": "9a1741c3-70df-44e3-ad37-545bf0049115",
+    "label": "HPE Haven OnDemand",
+    "category": "Development",
+    "rank": 214
+  },
+  {
+    "id": "46eb7426-8b87-4c49-8160-707fb55f2beb",
+    "label": "Office 365 - Mailbox Migration",
+    "category": "Development",
+    "rank": 111
+  },
+  {
+    "id": "941e7609-8a6b-43e4-8869-5298059a8d2c",
+    "label": "Oauth",
+    "category": "Development",
+    "legacyId": 289,
+    "rank": 300
+  },
+  {
+    "id": "3d055cda-0ae1-48d5-8295-4bb2d50462a4",
+    "label": "Silk Performer",
+    "category": "Development",
+    "rank": 118
+  },
+  {
+    "id": "d411d0c2-a4bc-4de9-91b9-94e6dd1699f7",
+    "label": "Espresso",
+    "category": "Development",
+    "legacyId": 508,
+    "rank": 237
+  },
+  {
+    "id": "4ecb2950-846f-4c99-9606-d645c7aaa425",
+    "label": "HTTP",
+    "category": "Development",
+    "legacyId": 214,
+    "rank": 3
+  },
+  {
+    "id": "7a410071-0360-4ce6-a394-54cb42987d7e",
+    "label": "Chatter",
+    "category": "Development",
+    "legacyId": 138,
+    "rank": 117
+  },
+  {
+    "id": "b9ca02aa-b686-49b4-9366-a1e01ddfd7df",
+    "label": "Agile testing",
+    "category": "Development",
+    "rank": 198
+  },
+  {
+    "id": "1bc0b8f6-33be-475e-b429-3a5cc3636c49",
+    "label": "Performance Engineering for Cloud",
+    "category": "Development",
+    "rank": 149
+  },
+  {
+    "id": "89a0cdb4-b2b8-447f-b375-44ac882c870d",
+    "label": "Xamarin Platform",
+    "category": "Development",
+    "rank": 215
+  },
+  {
+    "id": "b81859b6-4c50-45d8-afcb-71b35d16ea1e",
+    "label": "Winforms",
+    "category": "Development",
+    "legacyId": 393,
+    "rank": 12
+  },
+  {
+    "id": "5dc36c9c-5f26-46a3-b4ce-5cb5705c8af7",
+    "label": "Cumulocity",
+    "category": "Development",
+    "rank": 74
+  },
+  {
+    "id": "87a550ab-ec00-4e9e-ab84-3cda7a370714",
+    "label": "IT Environment Management Support",
+    "category": "Development",
+    "rank": 213
+  },
+  {
+    "id": "e883e99e-ac50-432b-a2cf-2a22a20cdc61",
+    "label": "PostgreSQL",
+    "category": "Data Science",
+    "legacyId": 306,
+    "rank": 31
+  },
+  {
+    "id": "22941262-69c7-4aa6-8d00-6915735fda3b",
+    "label": "Kentico - Content Management System",
+    "category": "Development",
+    "rank": 147
+  },
+  {
+    "id": "369033e5-674e-4f5e-a135-59f0042b3855",
+    "label": ".Net Architecture",
+    "category": "Development",
+    "rank": 94
+  },
+  {
+    "id": "58b5e558-eda8-43f3-a9c8-b791cac8da55",
+    "label": "React JS",
+    "category": "Development",
+    "rank": 285
+  },
+  {
+    "id": "6e986ba7-eb62-417f-bf4a-9fd3811e204e",
+    "label": "Applitools Eyes",
+    "category": "Development",
+    "rank": 285
+  },
+  {
+    "id": "a0cb1768-b772-4b99-ba0f-f433be65aa2c",
+    "label": "Web methods",
+    "category": "Development",
+    "rank": 254
+  },
+  {
+    "id": "a49ccd75-31ce-48c4-8335-0f84baa8f588",
+    "label": "MS D365 Testing",
+    "category": "Development",
+    "rank": 76
+  },
+  {
+    "id": "8638cfe5-53f9-4b24-b68b-e675a189f878",
+    "label": "Golang",
+    "category": "Development",
+    "rank": 233
+  },
+  {
+    "id": "03104889-2a74-4db0-aaad-b0bab462a603",
+    "label": "redhat",
+    "category": "Development",
+    "legacyId": 432,
+    "rank": 115
+  },
+  {
+    "id": "6e246931-5941-43a9-b749-1c9b5ee9c1dc",
+    "label": "UNIX",
+    "category": "Development",
+    "rank": 295
+  },
+  {
+    "id": "c7994b57-5a20-4c9a-86ef-ce25d5c1ba07",
+    "label": "Sealights",
+    "category": "Development",
+    "rank": 224
+  },
+  {
+    "id": "b7153e46-c8fc-4024-b3e6-791ea484ea1a",
+    "label": "Knockout",
+    "category": "Development",
+    "legacyId": 262,
+    "rank": 97
+  },
+  {
+    "id": "1460d6b8-3b6f-405e-9649-9589a89320f9",
+    "label": "Mockito",
+    "category": "Development",
+    "rank": 223
+  },
+  {
+    "id": "f80ded62-3d0c-4137-be25-1504509666d8",
+    "label": "Windows Phone",
+    "category": "Development",
+    "legacyId": 391,
+    "rank": 68
+  },
+  {
+    "id": "7bdd1449-b474-42ae-b7fc-7430fe7f2e2e",
+    "label": "Office 365 - Video",
+    "category": "Development",
+    "rank": 85
+  },
+  {
+    "id": "7aae5d9f-3d0c-40f8-b8b0-42b5109d7e48",
+    "label": "Sitefinity - Web Content Management",
+    "category": "Development",
+    "rank": 135
+  },
+  {
+    "id": "b3db2aee-cdea-4a38-a60e-885df40a5545",
+    "label": ".NET Coded UI Test Builder",
+    "category": "Development",
+    "rank": 11
+  },
+  {
+    "id": "72798b0f-809b-4628-84b6-c7c1d7948b72",
+    "label": "doctrine",
+    "category": "Development",
+    "legacyId": 425,
+    "rank": 63
+  },
+  {
+    "id": "5c0b0f4e-9c2e-4c0e-bbae-37337bdc3393",
+    "label": "Entity-Framework",
+    "category": "Development",
+    "legacyId": 174,
+    "rank": 203
+  },
+  {
+    "id": "d9ac9a54-2b8c-4a3c-adda-ad42375735f8",
+    "label": "Shell",
+    "category": "Development",
+    "legacyId": 345,
+    "rank": 72
+  },
+  {
+    "id": "c452ae83-43e1-4924-8f0d-2c631b8c0967",
+    "label": "Ruby",
+    "category": "Development",
+    "legacyId": 325,
+    "rank": 256
+  },
+  {
+    "id": "ef3f5366-9d54-4ad3-b2f4-91c94f145dfc",
+    "label": "ServiceNow Testing",
+    "category": "Development",
+    "rank": 26
+  },
+  {
+    "id": "ba6a5aa0-1f2f-4a85-8341-3079cbd5701c",
+    "label": "Data Visualization",
+    "category": "Data Science",
+    "legacyId": 527,
+    "rank": 175
+  },
+  {
+    "id": "05b7bbdf-ea15-4625-aca9-b9f5bb3346e5",
+    "label": "atom",
+    "category": "Development",
+    "legacyId": 429,
+    "rank": 90
+  },
+  {
+    "id": "0d73016a-f0cc-4858-84d5-de81776fa92d",
+    "label": "Simple Math",
+    "category": "Development",
+    "legacyId": 347,
+    "rank": 146
+  },
+  {
+    "id": "a0d2be2f-47f2-404d-80d2-e2c3d3ce4785",
+    "label": "DocuSign",
+    "category": "Development",
+    "rank": 239
+  },
+  {
+    "id": "a372b606-b554-450f-8225-d3cddd564d2b",
+    "label": "travis",
+    "category": "Development",
+    "legacyId": 410,
+    "rank": 275
+  },
+  {
+    "id": "2752d41b-1082-478b-9fd4-6396f510a130",
+    "label": "Python",
+    "category": "Development",
+    "legacyId": 311,
+    "rank": 204
+  },
+  {
+    "id": "67c01ea2-e136-4833-be0f-de80bf4a2825",
+    "label": "MarkLogic",
+    "category": "Development",
+    "rank": 11
+  },
+  {
+    "id": "06545a0d-7733-42c9-b259-da027d77013b",
+    "label": "PHP",
+    "category": "Development",
+    "legacyId": 303,
+    "rank": 106
+  },
+  {
+    "id": "3b0603cb-407a-4932-8c20-53c0deeb45b6",
+    "label": "HTML Programming language",
+    "category": "Development",
+    "rank": 93
+  },
+  {
+    "id": "e6a6be84-afcb-4966-90aa-a64a329b7dc5",
+    "label": "Microservices",
+    "category": "Development",
+    "rank": 101
+  },
+  {
+    "id": "06418efd-b21d-4afc-b5cc-48228eeaffb2",
+    "label": "OSGi",
+    "category": "Development",
+    "legacyId": 296,
+    "rank": 121
+  },
+  {
+    "id": "3822c02f-972d-4ee6-a27a-c6be7661cd48",
+    "label": "IBM Cognitive",
+    "category": "Development",
+    "rank": 229
+  },
+  {
+    "id": "77afad18-66e6-4144-95e8-e497b645e050",
+    "label": "VB",
+    "category": "Development",
+    "legacyId": 379,
+    "rank": 14
+  },
+  {
+    "id": "213408aa-f16f-46c8-bc57-9e569cee3f11",
+    "label": "Titanium",
+    "category": "Development",
+    "legacyId": 367,
+    "rank": 146
+  },
+  {
+    "id": "4fcf238f-e2c8-4b88-ad82-e36e3c2db88f",
+    "label": "Adxstudio Portal",
+    "category": "Development",
+    "rank": 5
+  },
+  {
+    "id": "543bbc51-ee01-48ba-b098-f66ae5d8fb41",
+    "label": "Sitecore",
+    "category": "Development",
+    "rank": 98
+  },
+  {
+    "id": "a298b43f-6df6-4703-b04a-76c64b14f051",
+    "label": "MSMQ",
+    "category": "Development",
+    "legacyId": 282,
+    "rank": 148
+  },
+  {
+    "id": "2742759c-d0f9-4456-9482-e558aa960969",
+    "label": "Database",
+    "category": "Data Science",
+    "legacyId": 159,
+    "rank": 5
+  },
+  {
+    "id": "fce6f57f-3d12-4552-b554-e13752bff3fc",
+    "label": "yii",
+    "category": "Development",
+    "legacyId": 414,
+    "rank": 184
+  },
+  {
+    "id": "dd8cb822-77e8-4074-8c16-a033ceb9d4a4",
+    "label": "Frontend",
+    "category": "Design/UX",
+    "rank": 52
+  },
+  {
+    "id": "463003d1-d3c9-4b19-baff-286dc5f83887",
+    "label": "Flux",
+    "category": "Design/UX",
+    "legacyId": 184,
+    "rank": 164
+  },
+  {
+    "id": "f80c5fe2-d228-4b03-9786-2462a6a1a1be",
+    "label": "JBoss Seam",
+    "category": "Development",
+    "legacyId": 249,
+    "rank": 64
+  },
+  {
+    "id": "b403f209-63b5-42bc-9b5f-1564416640d8",
+    "label": "Microsoft Exchange",
+    "category": "Development",
+    "rank": 196
+  },
+  {
+    "id": "4d444627-d789-46cf-ab5e-67a10c7de8a5",
+    "label": "Office 365 - Admin Center",
+    "category": "Development",
+    "rank": 72
+  },
+  {
+    "id": "d325323a-6f6a-48ee-8dba-207375c81ac3",
+    "label": "Microsoft Cortana SDK",
+    "category": "Development",
+    "rank": 51
+  },
+  {
+    "id": "c854ab55-5922-4be1-8ecc-b3bc1f8629af",
+    "label": "InVision",
+    "category": "Design/UX",
+    "legacyId": 242,
+    "rank": 284
+  },
+  {
+    "id": "26080feb-fabb-4111-9639-af797ab2187a",
+    "label": "PYTHON",
+    "category": "Development",
+    "rank": 111
+  },
+  {
+    "id": "eeb58bbe-ecd4-412b-942f-e62b20d37cbb",
+    "label": "HTML",
+    "category": "Development",
+    "legacyId": 212,
+    "rank": 70
+  },
+  {
+    "id": "05fa78d8-1877-435f-bb92-36b87ba6b3ba",
+    "label": "Backbone.js",
+    "category": "Development",
+    "legacyId": 124,
+    "rank": 207
+  },
+  {
+    "id": "3a66f3fd-9b4d-4092-a2d0-e2a4b17e208d",
+    "label": "Go",
+    "category": "Development",
+    "legacyId": 194,
+    "rank": 215
+  },
+  {
+    "id": "54c586d5-9354-4ffd-8a4d-9da5844d9037",
+    "label": "Continuous Integration",
+    "category": "Development",
+    "rank": 68
+  },
+  {
+    "id": "4040d291-2e8f-45a2-accf-6b04783bfeb4",
+    "label": "Cypress",
+    "category": "Development",
+    "legacyId": 463,
+    "rank": 85
+  },
+  {
+    "id": "4e305be8-556b-41a3-a822-4a88673ba20d",
+    "label": "Scala",
+    "category": "Development",
+    "legacyId": 332,
+    "rank": 108
+  },
+  {
+    "id": "deccaf3f-5efc-45f6-b310-9b5c6dac002c",
+    "label": "Test Project Management",
+    "category": "Development",
+    "rank": 39
+  },
+  {
+    "id": "bc7b6337-ee38-4cbc-ad91-0d4c9c9bd41d",
+    "label": "C# - CSharp-Programming",
+    "category": "Development",
+    "rank": 91
+  },
+  {
+    "id": "5f99f55c-d93a-46fd-bfbc-c0d61a35b1eb",
+    "label": "Servlet",
+    "category": "Development",
+    "legacyId": 337,
+    "rank": 164
+  },
+  {
+    "id": "3c88dc07-363b-4526-b2cf-3a62e3ac9c0f",
+    "label": "Microsoft Dynamics - Consulting",
+    "category": "Development",
+    "rank": 206
+  },
+  {
+    "id": "14132012-376c-49b9-9d56-cabe6acaee0d",
+    "label": "Insurance Testing",
+    "category": "Development",
+    "rank": 57
+  },
+  {
+    "id": "f7e15e3e-e9ba-4891-ac2a-d80182e39230",
+    "label": "Xcode",
+    "category": "Development",
+    "legacyId": 400,
+    "rank": 61
+  },
+  {
+    "id": "11079108-74d9-467a-bf4d-62e154233aff",
+    "label": "Dynamic Programming",
+    "category": "Development",
+    "legacyId": 167,
+    "rank": 240
+  },
+  {
+    "id": "87a8dd0f-12ea-47cd-a80d-20f47f0b7b9a",
+    "label": "Inkscape",
+    "category": "Design/UX",
+    "legacyId": 417,
+    "rank": 243
+  },
+  {
+    "id": "078f8eb9-3f82-48a9-8aa0-fc99b761c883",
+    "label": "Matlab",
+    "category": "Data Science",
+    "legacyId": 275,
+    "rank": 82
+  },
+  {
+    "id": "40642de1-f8c0-4b14-9bdd-cf6d6b5bc002",
+    "label": "Function",
+    "category": "Development",
+    "legacyId": 189,
+    "rank": 194
+  },
+  {
+    "id": "c8004315-e13f-4108-ae86-1b2b2e1b40a2",
+    "label": "Microsoft Office Delve",
+    "category": "Development",
+    "rank": 99
+  },
+  {
+    "id": "0fb4701f-17d3-45d3-ba05-3596e77328c8",
+    "label": "Microfocus Application Life Cycle Management - HP Quality Center",
+    "category": "Development",
+    "rank": 155
+  },
+  {
+    "id": "f13a8179-d098-43f6-a3d7-8df33b80f06b",
+    "label": "Bootstrap for .NET",
+    "category": "Development",
+    "rank": 135
+  },
+  {
+    "id": "7431ffcd-7ed4-4d7c-925b-bd5bdf2e4c19",
+    "label": "ipfs",
+    "category": "Development",
+    "rank": 61
+  },
+  {
+    "id": "7300bf46-7844-4c69-8c4e-a74157c827c6",
+    "label": "POS Testing",
+    "category": "Development",
+    "rank": 145
+  },
+  {
+    "id": "9b2dc35f-8447-4950-8fa9-ac410947d3e7",
+    "label": "MS Azure App Cloud computing Consulting",
+    "category": "Development",
+    "rank": 162
+  },
+  {
+    "id": "e575a794-bc48-499f-b97d-10d79abd70f8",
+    "label": "Microsoft PowerBI",
+    "category": "Data Science",
+    "rank": 235
+  },
+  {
+    "id": "530a1cd8-0b17-4360-be35-a3f5bff8bce0",
+    "label": "Retail App Testing",
+    "category": "Development",
+    "rank": 206
+  },
+  {
+    "id": "342f4dff-ed63-4712-9ed1-22983bb7638f",
+    "label": "Npm",
+    "category": "Development",
+    "legacyId": 288,
+    "rank": 19
+  },
+  {
+    "id": "edccf747-dfea-48c0-80e1-9cbebcb529fe",
+    "label": "Office 365 - OneDrive for Business",
+    "category": "Development",
+    "rank": 193
+  },
+  {
+    "id": "d67f35c3-fa42-4866-a0f9-0a4b84fcf4a9",
+    "label": "GitHub",
+    "category": "Development",
+    "rank": 104
+  },
+  {
+    "id": "549c5c37-2b22-4125-a35d-54a431cb43b2",
+    "label": "RFT - IBM Rational Functional Tester",
+    "category": "Development",
+    "rank": 129
+  },
+  {
+    "id": "d6bbd485-5a46-4b1d-874d-5de6f463e7bc",
+    "label": "SFDC Testing",
+    "category": "Development",
+    "rank": 59
+  },
+  {
+    "id": "d6a5a655-1a3a-44f9-827f-6ebb348dc9c1",
+    "label": "Syncback",
+    "category": "Development",
+    "rank": 30
+  }
+]

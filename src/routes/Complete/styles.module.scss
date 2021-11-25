@@ -1,0 +1,38 @@
+@import "styles/include";
+
+.complete {
+  .congrats-box {
+    padding: 10px 30px 35px 30px;
+    background: linear-gradient(
+      90deg,
+      rgba(101, 35, 133, 1),
+      rgba(140, 56, 76, 1)
+    );
+    color: white;
+    border-radius: 8px;
+    @include mobile {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      padding: 20px;
+      text-align: center;
+    }
+    p {
+      color: white;
+    }
+
+    h2 {
+      display: flex;
+      align-items: center;
+    }
+
+    .icon-check {
+      height: 25px;
+      margin-right: 15px;
+    }
+
+    button {
+      border: none !important;
+    }
+  }
+}

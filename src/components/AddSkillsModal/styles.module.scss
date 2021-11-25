@@ -1,0 +1,84 @@
+@import "styles/include";
+
+.add-skills {
+  @include desktop {
+    height: 350px;
+  }
+  display: flex;
+  @include mobile {
+    flex-direction: column;
+  }
+  @include desktop {
+    & > div:nth-child(1) {
+      width: 150px;
+      border-right: 1px solid #ddd;
+    }
+
+    & > div:nth-child(2) {
+      width: calc(100% - 150px);
+      padding-left: 20px;
+    }
+  }
+  @include mobile {
+    & > div {
+      margin-bottom: 20px;
+    }
+  }
+  .category {
+    margin: 0 0 16px 0;
+    cursor: pointer;
+  }
+
+  .category.active {
+    color: $green1;
+  }
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  max-height: 230px;
+  @include mobile {
+    max-height: 120px;
+  }
+  margin: 10px 0;
+  overflow: auto;
+  align-items: flex-start;
+
+  .skill {
+    border: 1px solid #333;
+    border-radius: 4px;
+    color: #333;
+    margin: 10px 16px;
+    margin-left: 0;
+    padding: 10px;
+    font-weight: 420;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+
+  .skill.selected {
+    background: $blue1 !important;
+    color: white;
+  }
+
+  .skill:hover {
+    background: #f6f9f9;
+  }
+
+  .skill-add-icon {
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .skill-remove-icon {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+
+  .skill-remove-icon * {
+    stroke: white !important;
+  }
+}

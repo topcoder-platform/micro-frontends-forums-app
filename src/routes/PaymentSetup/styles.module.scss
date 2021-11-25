@@ -1,0 +1,68 @@
+.payment-setup {
+  .cards {
+    display: flex;
+    flex: 1 1 0;
+    gap: 24px;
+    flex-wrap: wrap;
+    align-items: stretch;
+    margin-bottom: 22px;
+  }
+  .card {
+    width: calc(50% - 12px);
+    min-width: 300px;
+    background: #f4f4f4;
+    border-radius: 8px;
+    padding: 24px;
+    flex-grow: 1;
+    position: relative;
+    padding-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    & > p {
+      margin: 0;
+    }
+    & > button {
+      position: absolute;
+      bottom: 24px;
+    }
+  }
+  .para {
+    margin-bottom: 48px;
+  }
+
+  .link {
+    color: #2e55b9;
+  }
+
+  .success-container {
+    background: linear-gradient(264.69deg, #017c6d 2.17%, #198807 97.49%);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 24px;
+    align-self: start;
+    width: calc(50% - 12px);
+    height: 120px;
+    flex-grow: 1;
+    text-transform: uppercase;
+    line-height: 24px;
+    svg {
+      margin-right: 18px;
+      width: 26px;
+      height: 26px;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .cards {
+      flex-direction: column;
+    }
+    .success-container {
+      width: 100%;
+    }
+    .card {
+      width: 100%;
+    }
+  }
+}

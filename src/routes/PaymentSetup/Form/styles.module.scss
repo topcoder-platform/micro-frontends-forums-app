@@ -1,0 +1,295 @@
+@import "styles/include";
+
+.page-wrapper {
+  padding: 0 95px 32px 95px;
+  @include mobile {
+    padding: 0;
+  }
+  .page-title {
+    background-color: white;
+    padding: 12px 24px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 8px 8px;
+    text-transform: uppercase;
+    @include font-barlow-condensed;
+    font-size: 17px;
+    font-weight: 500;
+    color: $grey-text;
+    @include desktop {
+      display: none;
+    }
+  }
+  .tax-form-w9 {
+    @include mobile {
+      padding: 16px 8px 16px 8px;
+    }
+    .page-content {
+      padding: 38px 32px 32px 32px;
+      @include mobile {
+        padding: 16px 19px;
+        margin: 0;
+      }
+      .page-header {
+        display: flex;
+        @include mobile {
+          flex-direction: column;
+        }
+        .left-pane {
+          flex: 1;
+          display: flex;
+          flex-direction: column;
+          .back-button {
+            font-size: 16px;
+            font-family: Barlow;
+            font-weight: 600;
+            line-height: 16px;
+            padding: 0;
+            color: $green1;
+            .back-icon-wrapper {
+              width: 14px;
+            }
+            @include mobile {
+              font-size: 10px;
+              line-height: 12px;
+              @include font-roboto;
+              margin-bottom: 10px;
+            }
+            .button-text {
+              margin-left: 6px;
+            }
+          }
+          .complete-tax-title {
+            margin: 0;
+            @include font-barlow-condensed;
+            font-size: 34px;
+            font-weight: 500;
+
+            @include mobile {
+              font-family: Barlow;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 16px;
+            }
+          }
+        }
+
+        .right-pane {
+          width: 400px;
+          display: flex;
+          align-items: center;
+          padding: 0 24px;
+          @include mobile {
+            width: 100%;
+            margin-top: 23px;
+            padding: 0 16px;
+            margin-bottom: 13px;
+          }
+        }
+      }
+      .user-name {
+        margin-top: 30px;
+        line-height: 26px;
+        font-size: 16px;
+        line-height: 26px;
+        @include font-roboto;
+        color: $grey-text;
+        @include mobile {
+          font-size: 14px;
+          line-height: 20px;
+          font-weight: 500;
+        }
+      }
+
+      .tax-form-title {
+        @include font-barlow-condensed;
+        font-weight: 500;
+        font-size: 48px;
+        line-height: 48px;
+        margin-top: 22px;
+        margin-bottom: 24px;
+        @include mobile {
+          font-family: Barlow;
+          font-size: 20px;
+          line-height: 20px;
+          font-weight: 600;
+          // The margin top is 14px which combines with the margin of the divider to become 24px
+          margin-top: 14px;
+          margin-bottom: 16px;
+        }
+      }
+
+      .tax-form-description {
+        @include font-roboto;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: $grey-text;
+        margin-bottom: 48px;
+        @include mobile {
+          font-size: 14px;
+          line-height: 22px;
+          margin-bottom: 32px;
+        }
+      }
+
+      .why-complete {
+        font-family: Barlow;
+        font-size: 20px;
+        line-height: 20px;
+        font-weight: 600;
+        color: $grey-text;
+        margin-top: 24px;
+        margin-bottom: 24px;
+        @include mobile {
+          font-size: 16px;
+          line-height: 20px;
+        }
+      }
+
+      .container {
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 48px;
+        @include mobile {
+          flex-direction: column;
+          margin-bottom: 46px;
+        }
+        .left-pane {
+          flex: 1;
+          margin-right: 48px;
+          @include mobile {
+            margin-right: 0;
+            margin-bottom: 32px;
+          }
+          .answer {
+            @include font-roboto;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 26px;
+            color: $grey-text;
+            margin: 0;
+          }
+
+          .tax-info {
+            font-size: 16px;
+            @include font-roboto;
+            font-weight: 500;
+            line-height: 16px;
+            padding: 0;
+            color: $green1;
+            margin-top: 24px;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            .forward-icon-wrapper {
+              width: 14px;
+            }
+            @include mobile {
+              font-size: 14px;
+              @include font-roboto;
+              font-weight: 500;
+              line-height: 22px;
+            }
+            .button-text {
+              margin-right: 10px;
+              @include mobile {
+                word-break: break-all;
+              }
+            }
+          }
+
+          .extra-details {
+            p {
+              @include font-roboto;
+              font-size: 16px;
+              line-height: 26px;
+              color: $grey-text;
+            }
+            ul {
+              list-style: disc;
+              list-style-position: outside;
+              padding-left: 24px;
+              margin-bottom: 16px;
+              li {
+                @include font-roboto;
+                font-size: 16px;
+                line-height: 26px;
+                color: $grey-text;
+              }
+            }
+          }
+        }
+        .right-pane {
+          flex: 1;
+          .see-instructions-desktop {
+            height: 40px;
+            padding: 14px 20px;
+            margin-bottom: 16px;
+            border-radius: 25px;
+            @include font-roboto;
+            font-size: 14px;
+            line-height: 12px;
+            @include mobile {
+              display: none;
+            }
+          }
+
+          .see-instructions-mobile {
+            height: 40px;
+            padding: 14px 20px;
+            margin-bottom: 16px;
+            border-radius: 25px;
+            @include font-roboto;
+            font-size: 14px;
+            line-height: 12px;
+            @include desktop {
+              display: none;
+            }
+          }
+
+          .complete-form-cta {
+            height: 40px;
+            padding: 14px 20px;
+            border-radius: 25px;
+            @include font-roboto;
+            font-size: 14px;
+            line-height: 12px;
+          }
+        }
+      }
+
+      .footer {
+        @include mobile {
+          margin-top: 32px;
+          justify-content: flex-start !important;
+          align-items: flex-start !important;
+        }
+        justify-content: flex-start;
+        .footer-back-button {
+          padding: 18px 30px 18px 34px;
+          border-radius: 25px;
+          height: 48px;
+          @include mobile {
+            height: 40px;
+            padding: 14px 14px 14px 24px;
+          }
+          .footer-back-button-text {
+            margin-left: 9px;
+            font-size: 20px;
+            font-weight: 700;
+            @include font-roboto;
+            @include mobile {
+              font-size: 14px;
+              line-height: 12px;
+            }
+          }
+        }
+      }
+
+      .page-divider {
+        border-bottom: 2px solid $divider-color;
+      }
+    }
+  }
+}

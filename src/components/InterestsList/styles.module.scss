@@ -1,0 +1,23 @@
+@import "styles/include";
+
+.interests-list {
+  display: flex;
+  flex-wrap: wrap;
+  .interest {
+    border: 1px solid #333;
+    border-radius: 4px;
+    color: #333;
+    margin: 10px;
+    padding: 10px;
+    font-weight: 420;
+    cursor: pointer;
+  }
+  .interest:hover {
+    background: #f6f9f9;
+  }
+  .interest.selected {
+    background: $blue1;
+    color: white;
+    border-color: $blue1;
+  }
+}

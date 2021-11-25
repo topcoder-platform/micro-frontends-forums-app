@@ -1,0 +1,35 @@
+@import "styles/include";
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  .skill {
+    border: 1px solid $blue1;
+    border-radius: 4px;
+    color: $blue1;
+    margin: 10px;
+    padding: 10px;
+    font-weight: 420;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  .skill.selected {
+    background: $blue1 !important;
+    color: white;
+  }
+  .skill:hover {
+    background: #f6f9f9;
+  }
+  .skill-add-icon {
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+  }
+  .skill-remove-icon {
+    margin-left: 10px;
+  }
+  .skill-remove-icon * {
+    stroke: white !important;
+  }
+}

@@ -1,0 +1,30 @@
+@import "styles/include";
+
+.form-input-checkbox {
+  display: flex;
+  align-items: center;
+
+  .label {
+    font-size: 20px;
+    margin-left: 10px;
+  }
+}
+
+/* rc checkbox custom style */
+:global {
+  .rc-checkbox.form-input-rc-checkbox {
+    display: flex;
+
+    .rc-checkbox-inner {
+      width: 26px !important;
+      height: 26px !important;
+    }
+
+    .rc-checkbox-inner:after {
+      left: 6px !important;
+      top: 0 !important;
+      width: 11px !important;
+      height: 18px !important;
+    }
+  }
+}
