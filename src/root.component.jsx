@@ -1,17 +1,19 @@
 import React, { useEffect } from "react";
-import { VANILLA_EMBED_JS } from "./constants";
+// import { VANILLA_EMBED_JS } from "./constants";
 import "styles/global.scss";
+import ebmedJs from "./embed-test";
 
 export default function Root() {
   useEffect(() => {
+    ebmedJs();
     // embed.js
-    const script = document.createElement("script");
-    script.src = VANILLA_EMBED_JS;
-    script.async = true;
-    document.body.appendChild(script);
-    return () => {
-      document.body.removeChild(script);
-    };
+    // const script = document.createElement("script");
+    // script.src = VANILLA_EMBED_JS;
+    // script.async = true;
+    // document.body.appendChild(script);
+    // return () => {
+    //   document.body.removeChild(script);
+    // };
   }, []);
 
   return (
