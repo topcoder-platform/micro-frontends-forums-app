@@ -1,10 +1,12 @@
 import React, { useEffect } from "react";
 // import { VANILLA_EMBED_JS } from "./constants";
+import { disableSidebarForRoute } from "@topcoder/micro-frontends-navbar-app";
 import "styles/global.scss";
 import ebmedJs from "./embed-test";
 
 export default function Root() {
   useEffect(() => {
+    disableSidebarForRoute("/forums/*");
     ebmedJs();
     // embed.js
     // const script = document.createElement("script");

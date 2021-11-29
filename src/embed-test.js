@@ -195,8 +195,12 @@ export default () => {
 
     const setHeight = function (height) {
       if (optStr("height")) return;
+      // if (document.getElementById("vanilla" + id).style["height"] === ( height - 21 ) + 'px') {
+      //   return
+      // }
 
-      document.getElementById("vanilla" + id).style["height"] = height + "px";
+      // document.getElementById("vanilla" + id).style["height"] = height + "px";
+      document.getElementById("vanilla" + id).style["height"] = 'calc(100vh - 76px)'
       if (window.gadgets && gadgets.window && gadgets.window.adjustHeight) {
         try {
           gadgets.window.adjustHeight();
@@ -295,7 +299,7 @@ export default () => {
     vanillaUrl(currentPath);
     vanillaIframe.src =
       "https://vanilla.topcoder-dev.com/?remote=https://local.topcoder-dev.com/forums&locale=";
-    vanillaIframe.scrolling = "no";
+    vanillaIframe.scrolling = "yes";
     vanillaIframe.frameBorder = "0";
     vanillaIframe.allowTransparency = true;
     vanillaIframe.border = "0";
