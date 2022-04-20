@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { VANILLA_EMBED_JS } from "./constants";
-import { disableSidebarForRoute } from "@topcoder/micro-frontends-navbar-app";
+import { disableSidebarForRoute } from "@topcoder/mfe-header";
 import "styles/global.scss";
 // import ebmedJs from "./embed-test";
 
