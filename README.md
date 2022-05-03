@@ -103,21 +103,21 @@ Some config files are using domain `local.topcoder-dev.com`. You can change it t
 2. Run **Navbar** micro-app:
 
    ```sh
-   git clone https://github.com/topcoder-platform/micro-frontends-navbar-app.git
-   cd micro-frontends-navbar-app
+   git clone https://github.com/topcoder-platform/mfe-header.git
+   cd mfe-header
    ```
 
-   Update in file `micro-frontends-navbar-app/config/dev.js` values for `ACCOUNTS_APP_CONNECTOR` and `AUTH` to `http://localhost:5000` so Navbar app which handles authentication uses our local Authentication service.
+   Update in file `mfe-header/config/dev.js` values for `ACCOUNTS_APP_CONNECTOR` and `AUTH` to `http://localhost:5000` so Navbar app which handles authentication uses our local Authentication service.
 
    ```sh
-   # inside folder "micro-frontends-navbar-app" run:
+   # inside folder "mfe-header" run:
 
    nvm use # or make sure to use Node 10
    npm i   # to install dependencies
 
    npm run dev
 
-   # this host navbar app as http://localhost:3001/navbar/topcoder-micro-frontends-navbar-app.js
+   # this host navbar app as http://localhost:3001/navbar/topcoder-mfe-header.js
    ```
 
 3. Run **Forums** micro-app:
@@ -147,4 +147,4 @@ Some config files are using domain `local.topcoder-dev.com`. You can change it t
 - If you are not logged-in yet, you should be redirected to the login page.
 - If you cannot see the application and redirect doesn't happen, make sure that file "http://local.topcoder-dev.com:8602/forums-app/topcoder-micro-frontends--app.js" is loaded successfully in the Network tab.
 
-Congratulations, you successfully run the project. If you had some issue, please, try to go through README of https://github.com/topcoder-platform/micro-frontends-frame and https://github.com/topcoder-platform/micro-frontends-navbar-app.
+Congratulations, you successfully run the project. If you had some issue, please, try to go through README of https://github.com/topcoder-platform/micro-frontends-frame and https://github.com/topcoder-platform/mfe-header.

@@ -1,30 +1,34 @@
-import React, { useLayoutEffect } from "react";
-import {
-  disableSidebarForRoute,
-  setNotificationPlatform,
-  PLATFORM,
-} from "@topcoder/micro-frontends-navbar-app";
+import React, { useEffect } from "react";
 import { VANILLA_EMBED_JS } from "./constants";
+import { disableSidebarForRoute } from "@topcoder/mfe-header";
 import "styles/global.scss";
+// import ebmedJs from "./embed-test";
 
 export default function Root() {
-  useLayoutEffect(() => {
-    // disableSidebarForRoute(`${APP_BASE_PATH}/*`);
-    // setNotificationPlatform(PLATFORM.TAAS);
+  useEffect(() => {
+    // ebmedJs();
+    disableSidebarForRoute("/forums/*");
+    const script = document.createElement("script");
+    script.src = VANILLA_EMBED_JS;
+    script.async = true;
+    document.body.appendChild(script);
+    return () => {
+      document.body.removeChild(script);
+    };
   }, []);
 
   return (
     <>
-      <script type="text/javascript" src={VANILLA_EMBED_JS}></script>
+      <div id="vanilla-comments"></div>
       <noscript>
         Please enable JavaScript to view the
         <a href="http://vanillaforums.com/?ref_noscript">
           discussions powered by Vanilla.
         </a>
       </noscript>
-      <div class="vanilla-credit">
-        <a class="vanilla-anchor" href="http://vanillaforums.com">
-          Discussions by <span class="vanilla-logo">Vanilla</span>
+      <div className="vanilla-credit">
+        <a className="vanilla-anchor" href="http://vanillaforums.com">
+          Discussions by <span className="vanilla-logo">Vanilla</span>
         </a>
       </div>
     </>
