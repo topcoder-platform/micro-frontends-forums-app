@@ -3,7 +3,7 @@ import {
   disableSidebarForRoute,
   setNotificationPlatform,
   PLATFORM,
-} from "@topcoder/micro-frontends-navbar-app";
+} from "@topcoder/mfe-header";
 import { VANILLA_EMBED_JS } from "./constants";
 import "styles/global.scss";
 
